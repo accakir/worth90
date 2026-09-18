@@ -18,9 +18,9 @@ LEAGUE_IDS = {
     "La Liga": 87,
     "Serie A": 55,
     "Süper Lig": 71,
-    "Ligue 1": None,       # <-- doldur
-    "Bundesliga": None,    # <-- doldur
-    "Şampiyonlar Ligi": None,  # <-- doldur
-    "Avrupa Ligi": None,       # <-- doldur
-    "Konferans Ligi": None,    # <-- doldur
+    "Ligue 1": 53,
+    "Bundesliga": 54,
+    "Şampiyonlar Ligi": 42,
+    "Avrupa Ligi": 73,
+    "Konferans Ligi": 10216,
 }
