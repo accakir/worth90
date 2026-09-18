@@ -1,1 +1,5782 @@
-{}
+{
+  "5795363": {
+    "match_id": "5795363",
+    "league": "Premier Lig",
+    "date": "2026-08-21T19:00:00Z",
+    "home": "Arsenal",
+    "away": "Coventry City",
+    "score_str": "3 - 0",
+    "raw_total": 30.27,
+    "score": 23.3,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 3.0,
+      "tier3": 0,
+      "tier4": 2.0,
+      "tier5": 17.27
+    },
+    "highlight": null
+  },
+  "5795364": {
+    "match_id": "5795364",
+    "league": "Premier Lig",
+    "date": "2026-08-22T11:30:00Z",
+    "home": "Hull City",
+    "away": "Manchester United",
+    "score_str": "2 - 0",
+    "raw_total": 35.47,
+    "score": 27.3,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 15.0,
+      "tier3": 11.97,
+      "tier4": 0.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5795365": {
+    "match_id": "5795365",
+    "league": "Premier Lig",
+    "date": "2026-08-22T14:00:00Z",
+    "home": "Everton",
+    "away": "Crystal Palace",
+    "score_str": "2 - 0",
+    "raw_total": 30.99,
+    "score": 23.8,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 11.0,
+      "tier3": 11.99,
+      "tier4": 0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5795366": {
+    "match_id": "5795366",
+    "league": "Premier Lig",
+    "date": "2026-08-22T14:00:00Z",
+    "home": "Ipswich Town",
+    "away": "Sunderland",
+    "score_str": "2 - 1",
+    "raw_total": 67.2,
+    "score": 51.7,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 49,
+      "tier2": 11.0,
+      "tier3": 6.2,
+      "tier4": 1.0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5795367": {
+    "match_id": "5795367",
+    "league": "Premier Lig",
+    "date": "2026-08-22T14:00:00Z",
+    "home": "Nottingham Forest",
+    "away": "Leeds United",
+    "score_str": "0 - 1",
+    "raw_total": 50.37,
+    "score": 38.7,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 33,
+      "tier2": 8.0,
+      "tier3": 9.37,
+      "tier4": 0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5795368": {
+    "match_id": "5795368",
+    "league": "Premier Lig",
+    "date": "2026-08-22T16:30:00Z",
+    "home": "Brentford",
+    "away": "Tottenham Hotspur",
+    "score_str": "3 - 0",
+    "raw_total": 59.0,
+    "score": 45.4,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 25.0,
+      "tier3": 8,
+      "tier4": 2.0,
+      "tier5": 16
+    },
+    "highlight": null
+  },
+  "5795369": {
+    "match_id": "5795369",
+    "league": "Premier Lig",
+    "date": "2026-08-23T13:00:00Z",
+    "home": "Brighton & Hove Albion",
+    "away": "Aston Villa",
+    "score_str": "4 - 0",
+    "raw_total": 52.29,
+    "score": 40.2,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 20.0,
+      "tier3": 0.79,
+      "tier4": 0.5,
+      "tier5": 23
+    },
+    "highlight": null
+  },
+  "5795370": {
+    "match_id": "5795370",
+    "league": "Premier Lig",
+    "date": "2026-08-23T13:00:00Z",
+    "home": "Manchester City",
+    "away": "AFC Bournemouth",
+    "score_str": "2 - 1",
+    "raw_total": 76.34,
+    "score": 58.7,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 59,
+      "tier2": 3.0,
+      "tier3": 11.84,
+      "tier4": 2.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5795371": {
+    "match_id": "5795371",
+    "league": "Premier Lig",
+    "date": "2026-08-23T15:30:00Z",
+    "home": "Newcastle United",
+    "away": "Liverpool",
+    "score_str": "2 - 2",
+    "raw_total": 81.33,
+    "score": 62.6,
+    "badge": "Tatmin Edici",
+    "boxed": true,
+    "tiers": {
+      "tier1": 49,
+      "tier2": 16.0,
+      "tier3": 13.33,
+      "tier4": 3.0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5795372": {
+    "match_id": "5795372",
+    "league": "Premier Lig",
+    "date": "2026-08-24T19:00:00Z",
+    "home": "Fulham",
+    "away": "Chelsea",
+    "score_str": "2 - 3",
+    "raw_total": 59.55,
+    "score": 45.8,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 34,
+      "tier2": 11.0,
+      "tier3": 12.55,
+      "tier4": 2.0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5795429": {
+    "match_id": "5795429",
+    "league": "Premier Lig",
+    "date": "2026-08-28T19:00:00Z",
+    "home": "Crystal Palace",
+    "away": "Manchester City",
+    "score_str": "1 - 4",
+    "raw_total": 52.21,
+    "score": 40.2,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 15.0,
+      "tier3": 2.84,
+      "tier4": 1.0,
+      "tier5": 25.37
+    },
+    "highlight": null
+  },
+  "5795431": {
+    "match_id": "5795431",
+    "league": "Premier Lig",
+    "date": "2026-08-29T11:30:00Z",
+    "home": "Liverpool",
+    "away": "Nottingham Forest",
+    "score_str": "2 - 2",
+    "raw_total": 70.57,
+    "score": 54.3,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 49,
+      "tier2": 12.0,
+      "tier3": 8.57,
+      "tier4": 1.0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5795425": {
+    "match_id": "5795425",
+    "league": "Premier Lig",
+    "date": "2026-08-29T14:00:00Z",
+    "home": "AFC Bournemouth",
+    "away": "Everton",
+    "score_str": "1 - 1",
+    "raw_total": 71.93,
+    "score": 55.3,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 41,
+      "tier2": 11.0,
+      "tier3": 16.93,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5795428": {
+    "match_id": "5795428",
+    "league": "Premier Lig",
+    "date": "2026-08-29T14:00:00Z",
+    "home": "Coventry City",
+    "away": "Hull City",
+    "score_str": "0 - 1",
+    "raw_total": 45.1,
+    "score": 34.7,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 33,
+      "tier2": 3.0,
+      "tier3": 8.1,
+      "tier4": 1.0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5795434": {
+    "match_id": "5795434",
+    "league": "Premier Lig",
+    "date": "2026-08-29T16:30:00Z",
+    "home": "Tottenham Hotspur",
+    "away": "Newcastle United",
+    "score_str": "0 - 2",
+    "raw_total": 22.67,
+    "score": 17.4,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 3.0,
+      "tier3": 8.67,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5795427": {
+    "match_id": "5795427",
+    "league": "Premier Lig",
+    "date": "2026-08-30T13:00:00Z",
+    "home": "Chelsea",
+    "away": "Brighton & Hove Albion",
+    "score_str": "4 - 3",
+    "raw_total": 32.05,
+    "score": 24.7,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 11.0,
+      "tier3": 10.55,
+      "tier4": 2.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5795430": {
+    "match_id": "5795430",
+    "league": "Premier Lig",
+    "date": "2026-08-30T13:00:00Z",
+    "home": "Leeds United",
+    "away": "Brentford",
+    "score_str": "1 - 1",
+    "raw_total": 42.11,
+    "score": 32.4,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 26,
+      "tier2": 3.0,
+      "tier3": 10.61,
+      "tier4": 2.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5795433": {
+    "match_id": "5795433",
+    "league": "Premier Lig",
+    "date": "2026-08-30T13:00:00Z",
+    "home": "Sunderland",
+    "away": "Fulham",
+    "score_str": "1 - 0",
+    "raw_total": 39.93,
+    "score": 30.7,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 18,
+      "tier2": 15.0,
+      "tier3": 6.43,
+      "tier4": 0.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5795432": {
+    "match_id": "5795432",
+    "league": "Premier Lig",
+    "date": "2026-08-30T15:30:00Z",
+    "home": "Manchester United",
+    "away": "Ipswich Town",
+    "score_str": "5 - 2",
+    "raw_total": 88.0,
+    "score": 67.7,
+    "badge": "Tatmin Edici",
+    "boxed": true,
+    "tiers": {
+      "tier1": 24,
+      "tier2": 20.0,
+      "tier3": 8,
+      "tier4": 3,
+      "tier5": 33
+    },
+    "highlight": null
+  },
+  "5795426": {
+    "match_id": "5795426",
+    "league": "Premier Lig",
+    "date": "2026-08-31T19:00:00Z",
+    "home": "Aston Villa",
+    "away": "Arsenal",
+    "score_str": "0 - 1",
+    "raw_total": 29.63,
+    "score": 22.8,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 18,
+      "tier2": 4.0,
+      "tier3": 7.63,
+      "tier4": 0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5795441": {
+    "match_id": "5795441",
+    "league": "Premier Lig",
+    "date": "2026-09-04T19:00:00Z",
+    "home": "Ipswich Town",
+    "away": "Liverpool",
+    "score_str": "0 - 2",
+    "raw_total": 26.3,
+    "score": 20.2,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 0.0,
+      "tier3": 17.8,
+      "tier4": 0.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5795443": {
+    "match_id": "5795443",
+    "league": "Premier Lig",
+    "date": "2026-09-05T11:30:00Z",
+    "home": "Newcastle United",
+    "away": "AFC Bournemouth",
+    "score_str": "2 - 2",
+    "raw_total": 66.53,
+    "score": 51.2,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 41,
+      "tier2": 15.0,
+      "tier3": 10.03,
+      "tier4": 0.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5795436": {
+    "match_id": "5795436",
+    "league": "Premier Lig",
+    "date": "2026-09-05T14:00:00Z",
+    "home": "Brentford",
+    "away": "Sunderland",
+    "score_str": "1 - 1",
+    "raw_total": 69.83,
+    "score": 53.7,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 41,
+      "tier2": 20.0,
+      "tier3": 8.33,
+      "tier4": 0.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5795437": {
+    "match_id": "5795437",
+    "league": "Premier Lig",
+    "date": "2026-09-05T14:00:00Z",
+    "home": "Brighton & Hove Albion",
+    "away": "Leeds United",
+    "score_str": "1 - 1",
+    "raw_total": 57.77,
+    "score": 44.4,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 26,
+      "tier2": 15.0,
+      "tier3": 13.77,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5795439": {
+    "match_id": "5795439",
+    "league": "Premier Lig",
+    "date": "2026-09-05T14:00:00Z",
+    "home": "Fulham",
+    "away": "Crystal Palace",
+    "score_str": "2 - 3",
+    "raw_total": 59.27,
+    "score": 45.6,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 34,
+      "tier2": 11.0,
+      "tier3": 13.27,
+      "tier4": 1.0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5795442": {
+    "match_id": "5795442",
+    "league": "Premier Lig",
+    "date": "2026-09-05T14:00:00Z",
+    "home": "Manchester City",
+    "away": "Coventry City",
+    "score_str": "1 - 0",
+    "raw_total": 44.89,
+    "score": 34.5,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 18,
+      "tier2": 15.0,
+      "tier3": 10.39,
+      "tier4": 1.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5795444": {
+    "match_id": "5795444",
+    "league": "Premier Lig",
+    "date": "2026-09-05T14:00:00Z",
+    "home": "Nottingham Forest",
+    "away": "Tottenham Hotspur",
+    "score_str": "0 - 0",
+    "raw_total": 33.53,
+    "score": 25.8,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 10,
+      "tier2": 11.0,
+      "tier3": 9.53,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5795440": {
+    "match_id": "5795440",
+    "league": "Premier Lig",
+    "date": "2026-09-05T16:30:00Z",
+    "home": "Hull City",
+    "away": "Aston Villa",
+    "score_str": "0 - 0",
+    "raw_total": 30.97,
+    "score": 23.8,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 10,
+      "tier2": 15.0,
+      "tier3": 5.47,
+      "tier4": 0.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5795438": {
+    "match_id": "5795438",
+    "league": "Premier Lig",
+    "date": "2026-09-06T13:00:00Z",
+    "home": "Everton",
+    "away": "Manchester United",
+    "score_str": "2 - 2",
+    "raw_total": 76.79,
+    "score": 59.1,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 59,
+      "tier2": 7.0,
+      "tier3": 10.29,
+      "tier4": 0.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5795435": {
+    "match_id": "5795435",
+    "league": "Premier Lig",
+    "date": "2026-09-06T15:30:00Z",
+    "home": "Arsenal",
+    "away": "Chelsea",
+    "score_str": "2 - 1",
+    "raw_total": 51.47,
+    "score": 39.6,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 34,
+      "tier2": 4.0,
+      "tier3": 12.47,
+      "tier4": 1.0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5795445": {
+    "match_id": "5795445",
+    "league": "Premier Lig",
+    "date": "2026-09-12T14:00:00Z",
+    "home": "AFC Bournemouth",
+    "away": "Brentford",
+    "score_str": "2 - 2",
+    "raw_total": 51.99,
+    "score": 40.0,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 34,
+      "tier2": 7.0,
+      "tier3": 10.99,
+      "tier4": 0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5795446": {
+    "match_id": "5795446",
+    "league": "Premier Lig",
+    "date": "2026-09-12T14:00:00Z",
+    "home": "Aston Villa",
+    "away": "Nottingham Forest",
+    "score_str": "1 - 2",
+    "raw_total": 78.63,
+    "score": 60.5,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 49,
+      "tier2": 15.0,
+      "tier3": 13.13,
+      "tier4": 1.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5795447": {
+    "match_id": "5795447",
+    "league": "Premier Lig",
+    "date": "2026-09-12T14:00:00Z",
+    "home": "Chelsea",
+    "away": "Hull City",
+    "score_str": "2 - 2",
+    "raw_total": 67.5,
+    "score": 51.9,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 34,
+      "tier2": 15.0,
+      "tier3": 15.5,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5795449": {
+    "match_id": "5795449",
+    "league": "Premier Lig",
+    "date": "2026-09-12T14:00:00Z",
+    "home": "Crystal Palace",
+    "away": "Ipswich Town",
+    "score_str": "2 - 3",
+    "raw_total": 80.39,
+    "score": 61.8,
+    "badge": "Tatmin Edici",
+    "boxed": true,
+    "tiers": {
+      "tier1": 49,
+      "tier2": 19.0,
+      "tier3": 10.89,
+      "tier4": 1.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5795451": {
+    "match_id": "5795451",
+    "league": "Premier Lig",
+    "date": "2026-09-12T14:00:00Z",
+    "home": "Liverpool",
+    "away": "Fulham",
+    "score_str": "0 - 0",
+    "raw_total": 33.81,
+    "score": 26.0,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 10,
+      "tier2": 11.0,
+      "tier3": 9.81,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5795454": {
+    "match_id": "5795454",
+    "league": "Premier Lig",
+    "date": "2026-09-12T16:30:00Z",
+    "home": "Tottenham Hotspur",
+    "away": "Everton",
+    "score_str": "0 - 0",
+    "raw_total": 32.1,
+    "score": 24.7,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 10,
+      "tier2": 11.0,
+      "tier3": 8.6,
+      "tier4": 2.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5795453": {
+    "match_id": "5795453",
+    "league": "Premier Lig",
+    "date": "2026-09-12T19:00:00Z",
+    "home": "Sunderland",
+    "away": "Arsenal",
+    "score_str": "0 - 2",
+    "raw_total": 56.16,
+    "score": 43.2,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 18,
+      "tier2": 25.0,
+      "tier3": 13.16,
+      "tier4": 0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5795448": {
+    "match_id": "5795448",
+    "league": "Premier Lig",
+    "date": "2026-09-13T13:00:00Z",
+    "home": "Coventry City",
+    "away": "Brighton & Hove Albion",
+    "score_str": "0 - 5",
+    "raw_total": 80.37,
+    "score": 61.8,
+    "badge": "Tatmin Edici",
+    "boxed": true,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 28.0,
+      "tier3": 8,
+      "tier4": 1.0,
+      "tier5": 35.37
+    },
+    "highlight": null
+  },
+  "5795452": {
+    "match_id": "5795452",
+    "league": "Premier Lig",
+    "date": "2026-09-13T15:30:00Z",
+    "home": "Manchester United",
+    "away": "Manchester City",
+    "score_str": "0 - 1",
+    "raw_total": 65.67,
+    "score": 50.5,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 18,
+      "tier2": 35.0,
+      "tier3": 9.67,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5795450": {
+    "match_id": "5795450",
+    "league": "Premier Lig",
+    "date": "2026-09-14T19:00:00Z",
+    "home": "Leeds United",
+    "away": "Newcastle United",
+    "score_str": "4 - 1",
+    "raw_total": 48.37,
+    "score": 37.2,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 15.0,
+      "tier3": 6.73,
+      "tier4": 2.0,
+      "tier5": 16.63
+    },
+    "highlight": null
+  },
+  "5795456": {
+    "match_id": "5795456",
+    "league": "Premier Lig",
+    "date": "2026-09-18T19:00:00.000Z",
+    "home": "Brentford",
+    "away": "Chelsea",
+    "score_str": "3 - 0",
+    "raw_total": 50.77,
+    "score": 39.1,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 18,
+      "tier2": 11.0,
+      "tier3": 3.93,
+      "tier4": 3,
+      "tier5": 14.83
+    },
+    "highlight": null
+  },
+  "5868011": {
+    "match_id": "5868011",
+    "league": "La Liga",
+    "date": "2026-08-15T17:30:00Z",
+    "home": "Deportivo Alavés",
+    "away": "Getafe",
+    "score_str": "3 - 0",
+    "raw_total": 52.02,
+    "score": 40.0,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 18,
+      "tier2": 12.0,
+      "tier3": 4.59,
+      "tier4": 2.0,
+      "tier5": 15.43
+    },
+    "highlight": null
+  },
+  "5868019": {
+    "match_id": "5868019",
+    "league": "La Liga",
+    "date": "2026-08-15T19:30:00Z",
+    "home": "Sevilla",
+    "away": "Rayo Vallecano",
+    "score_str": "2 - 1",
+    "raw_total": 82.09,
+    "score": 63.1,
+    "badge": "Tatmin Edici",
+    "boxed": true,
+    "tiers": {
+      "tier1": 49,
+      "tier2": 20.0,
+      "tier3": 11.09,
+      "tier4": 2.0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5868017": {
+    "match_id": "5868017",
+    "league": "La Liga",
+    "date": "2026-08-16T15:00:00Z",
+    "home": "Racing Santander",
+    "away": "Villarreal",
+    "score_str": "2 - 2",
+    "raw_total": 57.41,
+    "score": 44.2,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 26,
+      "tier2": 16.0,
+      "tier3": 12.41,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5868015": {
+    "match_id": "5868015",
+    "league": "La Liga",
+    "date": "2026-08-16T17:00:00Z",
+    "home": "Espanyol",
+    "away": "Levante",
+    "score_str": "3 - 0",
+    "raw_total": 18.9,
+    "score": 14.5,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 0.0,
+      "tier3": 0,
+      "tier4": 0,
+      "tier5": 10.9
+    },
+    "highlight": null
+  },
+  "5868014": {
+    "match_id": "5868014",
+    "league": "La Liga",
+    "date": "2026-08-17T19:00:00Z",
+    "home": "Deportivo A Coruña",
+    "away": "Elche",
+    "score_str": "1 - 1",
+    "raw_total": 37.79,
+    "score": 29.1,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 26,
+      "tier2": 0.0,
+      "tier3": 10.79,
+      "tier4": 1.0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5868012": {
+    "match_id": "5868012",
+    "league": "La Liga",
+    "date": "2026-08-19T19:05:00Z",
+    "home": "Atlético Madrid",
+    "away": "Málaga",
+    "score_str": "2 - 0",
+    "raw_total": 32.15,
+    "score": 24.7,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 18,
+      "tier2": 4.0,
+      "tier3": 9.65,
+      "tier4": 0.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5868029": {
+    "match_id": "5868029",
+    "league": "La Liga",
+    "date": "2026-08-20T19:00:00Z",
+    "home": "Rayo Vallecano",
+    "away": "Deportivo Alavés",
+    "score_str": "1 - 1",
+    "raw_total": 64.19,
+    "score": 49.4,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 41,
+      "tier2": 15.0,
+      "tier3": 5.19,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5868023": {
+    "match_id": "5868023",
+    "league": "La Liga",
+    "date": "2026-08-21T19:00:00Z",
+    "home": "Real Betis",
+    "away": "Real Sociedad",
+    "score_str": "1 - 0",
+    "raw_total": 52.1,
+    "score": 40.1,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 18,
+      "tier2": 15.0,
+      "tier3": 17.6,
+      "tier4": 1.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5868021": {
+    "match_id": "5868021",
+    "league": "La Liga",
+    "date": "2026-08-22T15:00:00Z",
+    "home": "Athletic Club",
+    "away": "Sevilla",
+    "score_str": "1 - 3",
+    "raw_total": 42.23,
+    "score": 32.5,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 15.0,
+      "tier3": 16.23,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5868030": {
+    "match_id": "5868030",
+    "league": "La Liga",
+    "date": "2026-08-22T17:30:00Z",
+    "home": "Valencia",
+    "away": "Celta Vigo",
+    "score_str": "0 - 0",
+    "raw_total": 30.73,
+    "score": 23.6,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 10,
+      "tier2": 11.0,
+      "tier3": 9.73,
+      "tier4": 0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5868025": {
+    "match_id": "5868025",
+    "league": "La Liga",
+    "date": "2026-08-22T19:30:00Z",
+    "home": "Espanyol",
+    "away": "Real Madrid",
+    "score_str": "1 - 2",
+    "raw_total": 79.4,
+    "score": 61.1,
+    "badge": "Tatmin Edici",
+    "boxed": true,
+    "tiers": {
+      "tier1": 49,
+      "tier2": 19.0,
+      "tier3": 10.4,
+      "tier4": 1.0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5868022": {
+    "match_id": "5868022",
+    "league": "La Liga",
+    "date": "2026-08-23T15:00:00Z",
+    "home": "Atlético Madrid",
+    "away": "Villarreal",
+    "score_str": "2 - 2",
+    "raw_total": 72.64,
+    "score": 55.9,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 49,
+      "tier2": 17.0,
+      "tier3": 5.64,
+      "tier4": 1.0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5868026": {
+    "match_id": "5868026",
+    "league": "La Liga",
+    "date": "2026-08-23T17:30:00Z",
+    "home": "Getafe",
+    "away": "Racing Santander",
+    "score_str": "1 - 0",
+    "raw_total": 62.77,
+    "score": 48.3,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 33,
+      "tier2": 17.0,
+      "tier3": 9.77,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5868024": {
+    "match_id": "5868024",
+    "league": "La Liga",
+    "date": "2026-08-23T19:30:00Z",
+    "home": "Elche",
+    "away": "Barcelona",
+    "score_str": "0 - 5",
+    "raw_total": 51.44,
+    "score": 39.6,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 20.0,
+      "tier3": 3.44,
+      "tier4": 0,
+      "tier5": 20
+    },
+    "highlight": null
+  },
+  "5868028": {
+    "match_id": "5868028",
+    "league": "La Liga",
+    "date": "2026-08-24T17:30:00Z",
+    "home": "Osasuna",
+    "away": "Levante",
+    "score_str": "0 - 0",
+    "raw_total": 44.27,
+    "score": 34.1,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 10,
+      "tier2": 19.0,
+      "tier3": 12.27,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5868027": {
+    "match_id": "5868027",
+    "league": "La Liga",
+    "date": "2026-08-24T19:30:00Z",
+    "home": "Málaga",
+    "away": "Deportivo A Coruña",
+    "score_str": "1 - 1",
+    "raw_total": 49.72,
+    "score": 38.2,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 26,
+      "tier2": 12.0,
+      "tier3": 9.22,
+      "tier4": 2.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5868020": {
+    "match_id": "5868020",
+    "league": "La Liga",
+    "date": "2026-08-25T19:00:00Z",
+    "home": "Valencia",
+    "away": "Real Betis",
+    "score_str": "0 - 1",
+    "raw_total": 55.54,
+    "score": 42.7,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 33,
+      "tier2": 11.0,
+      "tier3": 9.54,
+      "tier4": 2.0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5868018": {
+    "match_id": "5868018",
+    "league": "La Liga",
+    "date": "2026-08-26T19:00:00Z",
+    "home": "Real Madrid",
+    "away": "Real Sociedad",
+    "score_str": "4 - 1",
+    "raw_total": 65.5,
+    "score": 50.4,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 24,
+      "tier2": 11.0,
+      "tier3": 8,
+      "tier4": 2.5,
+      "tier5": 20
+    },
+    "highlight": null
+  },
+  "5868013": {
+    "match_id": "5868013",
+    "league": "La Liga",
+    "date": "2026-08-27T18:30:00Z",
+    "home": "Celta Vigo",
+    "away": "Osasuna",
+    "score_str": "1 - 2",
+    "raw_total": 53.8,
+    "score": 41.4,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 34,
+      "tier2": 17.0,
+      "tier3": 1.8,
+      "tier4": 1.0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5868016": {
+    "match_id": "5868016",
+    "league": "La Liga",
+    "date": "2026-08-27T19:00:00Z",
+    "home": "Barcelona",
+    "away": "Athletic Club",
+    "score_str": "2 - 0",
+    "raw_total": 40.8,
+    "score": 31.4,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 18,
+      "tier2": 12.0,
+      "tier3": 7.8,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5868037": {
+    "match_id": "5868037",
+    "league": "La Liga",
+    "date": "2026-08-28T17:00:00Z",
+    "home": "Racing Santander",
+    "away": "Elche",
+    "score_str": "3 - 2",
+    "raw_total": 47.7,
+    "score": 36.7,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 18,
+      "tier2": 11.0,
+      "tier3": 15.7,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5868031": {
+    "match_id": "5868031",
+    "league": "La Liga",
+    "date": "2026-08-28T19:30:00Z",
+    "home": "Deportivo Alavés",
+    "away": "Villarreal",
+    "score_str": "1 - 0",
+    "raw_total": 41.87,
+    "score": 32.2,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 18,
+      "tier2": 11.0,
+      "tier3": 9.87,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5868035": {
+    "match_id": "5868035",
+    "league": "La Liga",
+    "date": "2026-08-29T15:00:00Z",
+    "home": "Levante",
+    "away": "Real Betis",
+    "score_str": "5 - 2",
+    "raw_total": 77.2,
+    "score": 59.4,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 24,
+      "tier2": 15.0,
+      "tier3": 8,
+      "tier4": 3,
+      "tier5": 27.2
+    },
+    "highlight": null
+  },
+  "5868039": {
+    "match_id": "5868039",
+    "league": "La Liga",
+    "date": "2026-08-29T17:00:00Z",
+    "home": "Real Sociedad",
+    "away": "Espanyol",
+    "score_str": "2 - 1",
+    "raw_total": 65.1,
+    "score": 50.1,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 34,
+      "tier2": 15.0,
+      "tier3": 14.1,
+      "tier4": 2.0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5868040": {
+    "match_id": "5868040",
+    "league": "La Liga",
+    "date": "2026-08-29T19:30:00Z",
+    "home": "Sevilla",
+    "away": "Atlético Madrid",
+    "score_str": "1 - 3",
+    "raw_total": 31.46,
+    "score": 24.2,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 11.0,
+      "tier3": 12.46,
+      "tier4": 0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5868038": {
+    "match_id": "5868038",
+    "league": "La Liga",
+    "date": "2026-08-30T15:00:00Z",
+    "home": "Real Madrid",
+    "away": "Málaga",
+    "score_str": "4 - 0",
+    "raw_total": 38.81,
+    "score": 29.9,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 8.0,
+      "tier3": 3.08,
+      "tier4": 3,
+      "tier5": 16.73
+    },
+    "highlight": null
+  },
+  "5868033": {
+    "match_id": "5868033",
+    "league": "La Liga",
+    "date": "2026-08-30T17:30:00Z",
+    "home": "Deportivo A Coruña",
+    "away": "Valencia",
+    "score_str": "3 - 1",
+    "raw_total": 25.91,
+    "score": 19.9,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 3.0,
+      "tier3": 12.91,
+      "tier4": 2.0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5868032": {
+    "match_id": "5868032",
+    "league": "La Liga",
+    "date": "2026-08-30T19:30:00Z",
+    "home": "Celta Vigo",
+    "away": "Athletic Club",
+    "score_str": "0 - 2",
+    "raw_total": 34.27,
+    "score": 26.4,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 15.0,
+      "tier3": 8.77,
+      "tier4": 2.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5868036": {
+    "match_id": "5868036",
+    "league": "La Liga",
+    "date": "2026-08-31T17:30:00Z",
+    "home": "Osasuna",
+    "away": "Getafe",
+    "score_str": "1 - 0",
+    "raw_total": 43.67,
+    "score": 33.6,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 18,
+      "tier2": 16.0,
+      "tier3": 6.67,
+      "tier4": 3.0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5868034": {
+    "match_id": "5868034",
+    "league": "La Liga",
+    "date": "2026-08-31T19:30:00Z",
+    "home": "Barcelona",
+    "away": "Rayo Vallecano",
+    "score_str": "5 - 2",
+    "raw_total": 79.0,
+    "score": 60.8,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 24,
+      "tier2": 11.0,
+      "tier3": 8,
+      "tier4": 3,
+      "tier5": 33
+    },
+    "highlight": null
+  },
+  "5868070": {
+    "match_id": "5868070",
+    "league": "La Liga",
+    "date": "2026-09-03T19:00:00Z",
+    "home": "Real Sociedad",
+    "away": "Celta Vigo",
+    "score_str": "0 - 0",
+    "raw_total": 34.8,
+    "score": 26.8,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 10,
+      "tier2": 11.0,
+      "tier3": 10.8,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5868043": {
+    "match_id": "5868043",
+    "league": "La Liga",
+    "date": "2026-09-04T19:00:00Z",
+    "home": "Real Betis",
+    "away": "Real Madrid",
+    "score_str": "1 - 0",
+    "raw_total": 71.57,
+    "score": 55.1,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 33,
+      "tier2": 25.0,
+      "tier3": 9.57,
+      "tier4": 4.0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5868042": {
+    "match_id": "5868042",
+    "league": "La Liga",
+    "date": "2026-09-05T14:15:00Z",
+    "home": "Athletic Club",
+    "away": "Atlético Madrid",
+    "score_str": "3 - 0",
+    "raw_total": 37.49,
+    "score": 28.8,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 8.0,
+      "tier3": 3.29,
+      "tier4": 2.5,
+      "tier5": 15.7
+    },
+    "highlight": null
+  },
+  "5868048": {
+    "match_id": "5868048",
+    "league": "La Liga",
+    "date": "2026-09-05T16:30:00Z",
+    "home": "Rayo Vallecano",
+    "away": "Racing Santander",
+    "score_str": "3 - 2",
+    "raw_total": 69.46,
+    "score": 53.4,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 34,
+      "tier2": 19.0,
+      "tier3": 13.46,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5868050": {
+    "match_id": "5868050",
+    "league": "La Liga",
+    "date": "2026-09-05T19:00:00Z",
+    "home": "Villarreal",
+    "away": "Deportivo A Coruña",
+    "score_str": "2 - 3",
+    "raw_total": 70.71,
+    "score": 54.4,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 49,
+      "tier2": 11.0,
+      "tier3": 9.71,
+      "tier4": 1.0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5868049": {
+    "match_id": "5868049",
+    "league": "La Liga",
+    "date": "2026-09-06T14:15:00Z",
+    "home": "Valencia",
+    "away": "Barcelona",
+    "score_str": "0 - 5",
+    "raw_total": 60.0,
+    "score": 46.2,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 19.0,
+      "tier3": 8,
+      "tier4": 0,
+      "tier5": 25
+    },
+    "highlight": null
+  },
+  "5868041": {
+    "match_id": "5868041",
+    "league": "La Liga",
+    "date": "2026-09-06T16:30:00Z",
+    "home": "Deportivo Alavés",
+    "away": "Osasuna",
+    "score_str": "5 - 2",
+    "raw_total": 58.67,
+    "score": 45.1,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 20.0,
+      "tier3": 5.67,
+      "tier4": 0,
+      "tier5": 25.0
+    },
+    "highlight": null
+  },
+  "5868047": {
+    "match_id": "5868047",
+    "league": "La Liga",
+    "date": "2026-09-06T16:30:00Z",
+    "home": "Málaga",
+    "away": "Levante",
+    "score_str": "0 - 0",
+    "raw_total": 43.63,
+    "score": 33.6,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 10,
+      "tier2": 21.0,
+      "tier3": 10.63,
+      "tier4": 2.0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5868045": {
+    "match_id": "5868045",
+    "league": "La Liga",
+    "date": "2026-09-06T19:00:00Z",
+    "home": "Espanyol",
+    "away": "Sevilla",
+    "score_str": "1 - 1",
+    "raw_total": 86.04,
+    "score": 66.2,
+    "badge": "Tatmin Edici",
+    "boxed": true,
+    "tiers": {
+      "tier1": 51,
+      "tier2": 27.0,
+      "tier3": 8.04,
+      "tier4": 0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5868046": {
+    "match_id": "5868046",
+    "league": "La Liga",
+    "date": "2026-09-07T17:00:00Z",
+    "home": "Getafe",
+    "away": "Celta Vigo",
+    "score_str": "1 - 1",
+    "raw_total": 46.73,
+    "score": 35.9,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 26,
+      "tier2": 11.0,
+      "tier3": 8.73,
+      "tier4": 1.0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5868044": {
+    "match_id": "5868044",
+    "league": "La Liga",
+    "date": "2026-09-07T19:30:00Z",
+    "home": "Elche",
+    "away": "Real Sociedad",
+    "score_str": "2 - 3",
+    "raw_total": 79.0,
+    "score": 60.8,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 49,
+      "tier2": 15.0,
+      "tier3": 12.0,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5868059": {
+    "match_id": "5868059",
+    "league": "La Liga",
+    "date": "2026-09-11T19:00:00Z",
+    "home": "Sevilla",
+    "away": "Valencia",
+    "score_str": "1 - 0",
+    "raw_total": 50.23,
+    "score": 38.6,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 33,
+      "tier2": 8.0,
+      "tier3": 7.23,
+      "tier4": 2.0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5868056": {
+    "match_id": "5868056",
+    "league": "La Liga",
+    "date": "2026-09-12T12:00:00Z",
+    "home": "Racing Santander",
+    "away": "Deportivo Alavés",
+    "score_str": "2 - 1",
+    "raw_total": 68.9,
+    "score": 53.0,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 34,
+      "tier2": 15.0,
+      "tier3": 17.9,
+      "tier4": 2.0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5868055": {
+    "match_id": "5868055",
+    "league": "La Liga",
+    "date": "2026-09-12T14:15:00Z",
+    "home": "Osasuna",
+    "away": "Espanyol",
+    "score_str": "0 - 2",
+    "raw_total": 21.82,
+    "score": 16.8,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 3.0,
+      "tier3": 10.32,
+      "tier4": 0.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5868051": {
+    "match_id": "5868051",
+    "league": "La Liga",
+    "date": "2026-09-12T16:30:00Z",
+    "home": "Athletic Club",
+    "away": "Elche",
+    "score_str": "1 - 1",
+    "raw_total": 46.43,
+    "score": 35.7,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 26,
+      "tier2": 12.0,
+      "tier3": 7.43,
+      "tier4": 1.0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5868057": {
+    "match_id": "5868057",
+    "league": "La Liga",
+    "date": "2026-09-12T19:00:00Z",
+    "home": "Real Madrid",
+    "away": "Rayo Vallecano",
+    "score_str": "4 - 1",
+    "raw_total": 70.73,
+    "score": 54.4,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 28.0,
+      "tier3": 8,
+      "tier4": 3,
+      "tier5": 23.73
+    },
+    "highlight": null
+  },
+  "5868052": {
+    "match_id": "5868052",
+    "league": "La Liga",
+    "date": "2026-09-13T12:00:00Z",
+    "home": "Celta Vigo",
+    "away": "Málaga",
+    "score_str": "1 - 1",
+    "raw_total": 47.47,
+    "score": 36.5,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 41,
+      "tier2": 0.0,
+      "tier3": 6.47,
+      "tier4": 0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5868054": {
+    "match_id": "5868054",
+    "league": "La Liga",
+    "date": "2026-09-13T14:15:00Z",
+    "home": "Levante",
+    "away": "Barcelona",
+    "score_str": "2 - 4",
+    "raw_total": 34.47,
+    "score": 26.5,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 8.0,
+      "tier3": 17.47,
+      "tier4": 1.0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5868053": {
+    "match_id": "5868053",
+    "league": "La Liga",
+    "date": "2026-09-13T16:30:00Z",
+    "home": "Getafe",
+    "away": "Deportivo A Coruña",
+    "score_str": "1 - 1",
+    "raw_total": 53.51,
+    "score": 41.2,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 26,
+      "tier2": 15.0,
+      "tier3": 10.51,
+      "tier4": 2.0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5868058": {
+    "match_id": "5868058",
+    "league": "La Liga",
+    "date": "2026-09-13T19:00:00Z",
+    "home": "Real Sociedad",
+    "away": "Atlético Madrid",
+    "score_str": "0 - 3",
+    "raw_total": 58.75,
+    "score": 45.2,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 33,
+      "tier2": 8.0,
+      "tier3": 1.92,
+      "tier4": 3,
+      "tier5": 12.83
+    },
+    "highlight": null
+  },
+  "5868060": {
+    "match_id": "5868060",
+    "league": "La Liga",
+    "date": "2026-09-14T19:00:00Z",
+    "home": "Villarreal",
+    "away": "Real Betis",
+    "score_str": "1 - 2",
+    "raw_total": 63.27,
+    "score": 48.7,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 34,
+      "tier2": 15.0,
+      "tier3": 11.77,
+      "tier4": 2.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5868069": {
+    "match_id": "5868069",
+    "league": "La Liga",
+    "date": "2026-09-15T17:00:00Z",
+    "home": "Rayo Vallecano",
+    "away": "Espanyol",
+    "score_str": "2 - 1",
+    "raw_total": 55.8,
+    "score": 42.9,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 18,
+      "tier2": 27.0,
+      "tier3": 9.8,
+      "tier4": 1.0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5868061": {
+    "match_id": "5868061",
+    "league": "La Liga",
+    "date": "2026-09-15T18:00:00Z",
+    "home": "Deportivo Alavés",
+    "away": "Valencia",
+    "score_str": "0 - 1",
+    "raw_total": 30.89,
+    "score": 23.8,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 18,
+      "tier2": 3.0,
+      "tier3": 9.39,
+      "tier4": 0.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5868065": {
+    "match_id": "5868065",
+    "league": "La Liga",
+    "date": "2026-09-15T19:30:00Z",
+    "home": "Elche",
+    "away": "Real Madrid",
+    "score_str": "2 - 3",
+    "raw_total": 67.61,
+    "score": 52.0,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 59,
+      "tier2": 7.0,
+      "tier3": 1.11,
+      "tier4": 0.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5868062": {
+    "match_id": "5868062",
+    "league": "La Liga",
+    "date": "2026-09-16T17:00:00Z",
+    "home": "Atlético Madrid",
+    "away": "Osasuna",
+    "score_str": "4 - 0",
+    "raw_total": 55.0,
+    "score": 42.3,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 15.0,
+      "tier3": 8,
+      "tier4": 1.0,
+      "tier5": 23
+    },
+    "highlight": null
+  },
+  "5868064": {
+    "match_id": "5868064",
+    "league": "La Liga",
+    "date": "2026-09-16T17:00:00Z",
+    "home": "Deportivo A Coruña",
+    "away": "Sevilla",
+    "score_str": "0 - 1",
+    "raw_total": 44.19,
+    "score": 34.0,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 18,
+      "tier2": 12.0,
+      "tier3": 13.19,
+      "tier4": 1.0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5868066": {
+    "match_id": "5868066",
+    "league": "La Liga",
+    "date": "2026-09-16T19:30:00Z",
+    "home": "Barcelona",
+    "away": "Racing Santander",
+    "score_str": "7 - 2",
+    "raw_total": 72.72,
+    "score": 55.9,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 25.0,
+      "tier3": 3.72,
+      "tier4": 3,
+      "tier5": 33
+    },
+    "highlight": null
+  },
+  "5868063": {
+    "match_id": "5868063",
+    "league": "La Liga",
+    "date": "2026-09-17T17:00:00Z",
+    "home": "Real Betis",
+    "away": "Getafe",
+    "score_str": "1 - 0",
+    "raw_total": 32.97,
+    "score": 25.4,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 18,
+      "tier2": 4.0,
+      "tier3": 10.47,
+      "tier4": 0.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5868068": {
+    "match_id": "5868068",
+    "league": "La Liga",
+    "date": "2026-09-17T19:30:00Z",
+    "home": "Málaga",
+    "away": "Villarreal",
+    "score_str": "1 - 3",
+    "raw_total": 47.94,
+    "score": 36.9,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 34,
+      "tier2": 9.0,
+      "tier3": 1.94,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5868075": {
+    "match_id": "5868075",
+    "league": "La Liga",
+    "date": "2026-09-18T19:00:00.000Z",
+    "home": "Espanyol",
+    "away": "Elche",
+    "score_str": "1 - 3",
+    "raw_total": 44.34,
+    "score": 34.1,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 23.0,
+      "tier3": 13.34,
+      "tier4": 0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5749645": {
+    "match_id": "5749645",
+    "league": "Serie A",
+    "date": "2026-08-22T16:30:00Z",
+    "home": "Inter",
+    "away": "Monza",
+    "score_str": "4 - 1",
+    "raw_total": 65.5,
+    "score": 50.4,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 24,
+      "tier2": 15.0,
+      "tier3": 0,
+      "tier4": 0,
+      "tier5": 26.5
+    },
+    "highlight": null
+  },
+  "5749648": {
+    "match_id": "5749648",
+    "league": "Serie A",
+    "date": "2026-08-22T16:30:00Z",
+    "home": "Udinese",
+    "away": "Como",
+    "score_str": "1 - 1",
+    "raw_total": 56.98,
+    "score": 43.8,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 26,
+      "tier2": 15.0,
+      "tier3": 13.48,
+      "tier4": 2.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5749644": {
+    "match_id": "5749644",
+    "league": "Serie A",
+    "date": "2026-08-22T18:45:00Z",
+    "home": "Genoa",
+    "away": "Napoli",
+    "score_str": "0 - 2",
+    "raw_total": 44.67,
+    "score": 34.4,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 33,
+      "tier2": 0.0,
+      "tier3": 9.67,
+      "tier4": 2.0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5749646": {
+    "match_id": "5749646",
+    "league": "Serie A",
+    "date": "2026-08-22T18:45:00Z",
+    "home": "Parma",
+    "away": "Cagliari",
+    "score_str": "0 - 1",
+    "raw_total": 47.22,
+    "score": 36.3,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 18,
+      "tier2": 19.0,
+      "tier3": 10.22,
+      "tier4": 0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5749643": {
+    "match_id": "5749643",
+    "league": "Serie A",
+    "date": "2026-08-23T16:30:00Z",
+    "home": "Frosinone",
+    "away": "Juventus",
+    "score_str": "0 - 1",
+    "raw_total": 34.63,
+    "score": 26.6,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 18,
+      "tier2": 8.0,
+      "tier3": 5.63,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5749649": {
+    "match_id": "5749649",
+    "league": "Serie A",
+    "date": "2026-08-23T16:30:00Z",
+    "home": "Venezia",
+    "away": "Lecce",
+    "score_str": "0 - 2",
+    "raw_total": 57.77,
+    "score": 44.4,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 18,
+      "tier2": 23.0,
+      "tier3": 15.77,
+      "tier4": 1.0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5749641": {
+    "match_id": "5749641",
+    "league": "Serie A",
+    "date": "2026-08-23T18:45:00Z",
+    "home": "Atalanta",
+    "away": "Sassuolo",
+    "score_str": "2 - 1",
+    "raw_total": 53.93,
+    "score": 41.5,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 34,
+      "tier2": 7.0,
+      "tier3": 11.93,
+      "tier4": 1.0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5749647": {
+    "match_id": "5749647",
+    "league": "Serie A",
+    "date": "2026-08-23T18:45:00Z",
+    "home": "Torino",
+    "away": "Milan",
+    "score_str": "1 - 2",
+    "raw_total": 30.13,
+    "score": 23.2,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 15.0,
+      "tier3": 7.13,
+      "tier4": 0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5749642": {
+    "match_id": "5749642",
+    "league": "Serie A",
+    "date": "2026-08-24T16:30:00Z",
+    "home": "Bologna",
+    "away": "Lazio",
+    "score_str": "0 - 1",
+    "raw_total": 37.26,
+    "score": 28.7,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 18,
+      "tier2": 7.0,
+      "tier3": 7.26,
+      "tier4": 5.0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5749640": {
+    "match_id": "5749640",
+    "league": "Serie A",
+    "date": "2026-08-24T18:45:00Z",
+    "home": "Roma",
+    "away": "Fiorentina",
+    "score_str": "4 - 0",
+    "raw_total": 38.15,
+    "score": 29.3,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 0.0,
+      "tier3": 7.15,
+      "tier4": 0,
+      "tier5": 23
+    },
+    "highlight": null
+  },
+  "5749650": {
+    "match_id": "5749650",
+    "league": "Serie A",
+    "date": "2026-08-28T18:45:00Z",
+    "home": "Milan",
+    "away": "Venezia",
+    "score_str": "2 - 0",
+    "raw_total": 40.35,
+    "score": 31.0,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 18,
+      "tier2": 15.0,
+      "tier3": 7.35,
+      "tier4": 0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5749653": {
+    "match_id": "5749653",
+    "league": "Serie A",
+    "date": "2026-08-29T16:30:00Z",
+    "home": "Fiorentina",
+    "away": "Frosinone",
+    "score_str": "0 - 3",
+    "raw_total": 48.97,
+    "score": 37.7,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 19.0,
+      "tier3": 4.27,
+      "tier4": 3,
+      "tier5": 14.7
+    },
+    "highlight": null
+  },
+  "5749657": {
+    "match_id": "5749657",
+    "league": "Serie A",
+    "date": "2026-08-29T16:30:00Z",
+    "home": "Monza",
+    "away": "Udinese",
+    "score_str": "2 - 3",
+    "raw_total": 45.07,
+    "score": 34.7,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 34,
+      "tier2": 0.0,
+      "tier3": 11.07,
+      "tier4": 0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5749659": {
+    "match_id": "5749659",
+    "league": "Serie A",
+    "date": "2026-08-29T16:30:00Z",
+    "home": "Sassuolo",
+    "away": "Torino",
+    "score_str": "2 - 1",
+    "raw_total": 63.32,
+    "score": 48.7,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 34,
+      "tier2": 15.0,
+      "tier3": 13.82,
+      "tier4": 0.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5749654": {
+    "match_id": "5749654",
+    "league": "Serie A",
+    "date": "2026-08-29T18:45:00Z",
+    "home": "Juventus",
+    "away": "Parma",
+    "score_str": "2 - 0",
+    "raw_total": 39.18,
+    "score": 30.1,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 18,
+      "tier2": 8.0,
+      "tier3": 10.18,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5749658": {
+    "match_id": "5749658",
+    "league": "Serie A",
+    "date": "2026-08-30T16:30:00Z",
+    "home": "Napoli",
+    "away": "Como",
+    "score_str": "1 - 2",
+    "raw_total": 45.81,
+    "score": 35.2,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 34,
+      "tier2": 0.0,
+      "tier3": 10.31,
+      "tier4": 1.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5749652": {
+    "match_id": "5749652",
+    "league": "Serie A",
+    "date": "2026-08-30T18:45:00Z",
+    "home": "Cagliari",
+    "away": "Inter",
+    "score_str": "0 - 1",
+    "raw_total": 21.73,
+    "score": 16.7,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 18,
+      "tier2": 0.0,
+      "tier3": 0.73,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5749655": {
+    "match_id": "5749655",
+    "league": "Serie A",
+    "date": "2026-08-30T18:45:00Z",
+    "home": "Lazio",
+    "away": "Genoa",
+    "score_str": "1 - 0",
+    "raw_total": 39.0,
+    "score": 30.0,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 18,
+      "tier2": 15.0,
+      "tier3": 6.0,
+      "tier4": 0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5749656": {
+    "match_id": "5749656",
+    "league": "Serie A",
+    "date": "2026-08-31T16:30:00Z",
+    "home": "Lecce",
+    "away": "Roma",
+    "score_str": "0 - 4",
+    "raw_total": 51.32,
+    "score": 39.5,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 15.0,
+      "tier3": 5.32,
+      "tier4": 0,
+      "tier5": 23
+    },
+    "highlight": null
+  },
+  "5749651": {
+    "match_id": "5749651",
+    "league": "Serie A",
+    "date": "2026-08-31T18:45:00Z",
+    "home": "Atalanta",
+    "away": "Bologna",
+    "score_str": "1 - 0",
+    "raw_total": 44.0,
+    "score": 33.8,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 33,
+      "tier2": 4.0,
+      "tier3": 7.0,
+      "tier4": 0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5749665": {
+    "match_id": "5749665",
+    "league": "Serie A",
+    "date": "2026-09-04T18:45:00Z",
+    "home": "Genoa",
+    "away": "Como",
+    "score_str": "1 - 4",
+    "raw_total": 61.22,
+    "score": 47.1,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 24,
+      "tier2": 7.0,
+      "tier3": 4.79,
+      "tier4": 1.5,
+      "tier5": 23.93
+    },
+    "highlight": null
+  },
+  "5749663": {
+    "match_id": "5749663",
+    "league": "Serie A",
+    "date": "2026-09-05T13:00:00Z",
+    "home": "Fiorentina",
+    "away": "Torino",
+    "score_str": "1 - 2",
+    "raw_total": 62.82,
+    "score": 48.3,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 49,
+      "tier2": 3.0,
+      "tier3": 9.82,
+      "tier4": 1.0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5749666": {
+    "match_id": "5749666",
+    "league": "Serie A",
+    "date": "2026-09-05T16:00:00Z",
+    "home": "Inter",
+    "away": "Napoli",
+    "score_str": "3 - 2",
+    "raw_total": 98.23,
+    "score": 75.6,
+    "badge": "Tatmin Edici",
+    "boxed": true,
+    "tiers": {
+      "tier1": 59,
+      "tier2": 23.0,
+      "tier3": 13.23,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5749660": {
+    "match_id": "5749660",
+    "league": "Serie A",
+    "date": "2026-09-05T18:45:00Z",
+    "home": "Roma",
+    "away": "Atalanta",
+    "score_str": "2 - 1",
+    "raw_total": 103.43,
+    "score": 79.6,
+    "badge": "Futbol Ziyafeti",
+    "boxed": true,
+    "tiers": {
+      "tier1": 59,
+      "tier2": 31.0,
+      "tier3": 10.43,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5749664": {
+    "match_id": "5749664",
+    "league": "Serie A",
+    "date": "2026-09-06T13:00:00Z",
+    "home": "Frosinone",
+    "away": "Venezia",
+    "score_str": "3 - 2",
+    "raw_total": 72.92,
+    "score": 56.1,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 49,
+      "tier2": 7.0,
+      "tier3": 16.42,
+      "tier4": 0.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5749668": {
+    "match_id": "5749668",
+    "league": "Serie A",
+    "date": "2026-09-06T13:00:00Z",
+    "home": "Parma",
+    "away": "Monza",
+    "score_str": "1 - 1",
+    "raw_total": 52.72,
+    "score": 40.6,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 26,
+      "tier2": 15.0,
+      "tier3": 10.22,
+      "tier4": 1.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5749661": {
+    "match_id": "5749661",
+    "league": "Serie A",
+    "date": "2026-09-06T16:00:00Z",
+    "home": "Bologna",
+    "away": "Sassuolo",
+    "score_str": "2 - 2",
+    "raw_total": 90.11,
+    "score": 69.3,
+    "badge": "Tatmin Edici",
+    "boxed": true,
+    "tiers": {
+      "tier1": 49,
+      "tier2": 23.0,
+      "tier3": 15.11,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5749667": {
+    "match_id": "5749667",
+    "league": "Serie A",
+    "date": "2026-09-06T18:45:00Z",
+    "home": "Juventus",
+    "away": "Milan",
+    "score_str": "1 - 1",
+    "raw_total": 51.07,
+    "score": 39.3,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 41,
+      "tier2": 4.0,
+      "tier3": 5.07,
+      "tier4": 1.0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5749662": {
+    "match_id": "5749662",
+    "league": "Serie A",
+    "date": "2026-09-07T16:30:00Z",
+    "home": "Cagliari",
+    "away": "Lecce",
+    "score_str": "1 - 0",
+    "raw_total": 54.3,
+    "score": 41.8,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 18,
+      "tier2": 19.0,
+      "tier3": 14.3,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5749669": {
+    "match_id": "5749669",
+    "league": "Serie A",
+    "date": "2026-09-07T18:45:00Z",
+    "home": "Udinese",
+    "away": "Lazio",
+    "score_str": "1 - 2",
+    "raw_total": 72.73,
+    "score": 55.9,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 49,
+      "tier2": 7.0,
+      "tier3": 14.73,
+      "tier4": 2.0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5749679": {
+    "match_id": "5749679",
+    "league": "Serie A",
+    "date": "2026-09-11T18:45:00Z",
+    "home": "Venezia",
+    "away": "Fiorentina",
+    "score_str": "2 - 4",
+    "raw_total": 43.6,
+    "score": 33.5,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 24,
+      "tier2": 11.0,
+      "tier3": 8.6,
+      "tier4": 0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5749672": {
+    "match_id": "5749672",
+    "league": "Serie A",
+    "date": "2026-09-12T13:00:00Z",
+    "home": "Genoa",
+    "away": "Frosinone",
+    "score_str": "1 - 1",
+    "raw_total": 67.83,
+    "score": 52.2,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 26,
+      "tier2": 21.0,
+      "tier3": 17.83,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5749674": {
+    "match_id": "5749674",
+    "league": "Serie A",
+    "date": "2026-09-12T16:00:00Z",
+    "home": "Lazio",
+    "away": "Milan",
+    "score_str": "2 - 2",
+    "raw_total": 56.97,
+    "score": 43.8,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 26,
+      "tier2": 15.0,
+      "tier3": 15.47,
+      "tier4": 0.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5749670": {
+    "match_id": "5749670",
+    "league": "Serie A",
+    "date": "2026-09-12T18:45:00Z",
+    "home": "Atalanta",
+    "away": "Cagliari",
+    "score_str": "1 - 2",
+    "raw_total": 54.27,
+    "score": 41.7,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 34,
+      "tier2": 8.0,
+      "tier3": 12.27,
+      "tier4": 0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5749675": {
+    "match_id": "5749675",
+    "league": "Serie A",
+    "date": "2026-09-13T13:00:00Z",
+    "home": "Lecce",
+    "away": "Monza",
+    "score_str": "3 - 2",
+    "raw_total": 34.33,
+    "score": 26.4,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 11.0,
+      "tier3": 13.33,
+      "tier4": 2.0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5749676": {
+    "match_id": "5749676",
+    "league": "Serie A",
+    "date": "2026-09-13T16:00:00Z",
+    "home": "Napoli",
+    "away": "Bologna",
+    "score_str": "1 - 0",
+    "raw_total": 27.0,
+    "score": 20.8,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 18,
+      "tier2": 0.0,
+      "tier3": 7.0,
+      "tier4": 2.0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5749677": {
+    "match_id": "5749677",
+    "league": "Serie A",
+    "date": "2026-09-13T18:45:00Z",
+    "home": "Sassuolo",
+    "away": "Juventus",
+    "score_str": "3 - 2",
+    "raw_total": 94.73,
+    "score": 72.9,
+    "badge": "Tatmin Edici",
+    "boxed": true,
+    "tiers": {
+      "tier1": 59,
+      "tier2": 15.0,
+      "tier3": 17.73,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5749671": {
+    "match_id": "5749671",
+    "league": "Serie A",
+    "date": "2026-09-14T16:30:00Z",
+    "home": "Como",
+    "away": "Parma",
+    "score_str": "2 - 1",
+    "raw_total": 47.93,
+    "score": 36.9,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 18,
+      "tier2": 15.0,
+      "tier3": 11.93,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5749678": {
+    "match_id": "5749678",
+    "league": "Serie A",
+    "date": "2026-09-14T16:30:00Z",
+    "home": "Torino",
+    "away": "Roma",
+    "score_str": "0 - 2",
+    "raw_total": 40.55,
+    "score": 31.2,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 18,
+      "tier2": 11.0,
+      "tier3": 10.05,
+      "tier4": 1.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5749673": {
+    "match_id": "5749673",
+    "league": "Serie A",
+    "date": "2026-09-14T18:45:00Z",
+    "home": "Inter",
+    "away": "Udinese",
+    "score_str": "5 - 3",
+    "raw_total": 44.4,
+    "score": 34.2,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 24,
+      "tier2": 7.0,
+      "tier3": 10.9,
+      "tier4": 2.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5749686": {
+    "match_id": "5749686",
+    "league": "Serie A",
+    "date": "2026-09-18T18:45:00.000Z",
+    "home": "Monza",
+    "away": "Sassuolo",
+    "score_str": "2 - 1",
+    "raw_total": 48.57,
+    "score": 37.4,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 20.0,
+      "tier3": 17.57,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5904710": {
+    "match_id": "5904710",
+    "league": "Süper Lig",
+    "date": "2026-08-14T18:30:00Z",
+    "home": "Galatasaray",
+    "away": "Çorum FK",
+    "score_str": "2 - 2",
+    "raw_total": 83.87,
+    "score": 64.5,
+    "badge": "Tatmin Edici",
+    "boxed": true,
+    "tiers": {
+      "tier1": 49,
+      "tier2": 23.0,
+      "tier3": 10.37,
+      "tier4": 1.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5904705": {
+    "match_id": "5904705",
+    "league": "Süper Lig",
+    "date": "2026-08-15T16:00:00Z",
+    "home": "Kasımpaşa",
+    "away": "Trabzonspor",
+    "score_str": "1 - 1",
+    "raw_total": 56.03,
+    "score": 43.1,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 26,
+      "tier2": 16.0,
+      "tier3": 11.03,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5904709": {
+    "match_id": "5904709",
+    "league": "Süper Lig",
+    "date": "2026-08-15T16:00:00Z",
+    "home": "Konyaspor",
+    "away": "Rizespor",
+    "score_str": "0 - 1",
+    "raw_total": 64.6,
+    "score": 49.7,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 33,
+      "tier2": 20.0,
+      "tier3": 10.6,
+      "tier4": 1.0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5904704": {
+    "match_id": "5904704",
+    "league": "Süper Lig",
+    "date": "2026-08-15T18:30:00Z",
+    "home": "Gaziantep FK",
+    "away": "Alanyaspor",
+    "score_str": "1 - 1",
+    "raw_total": 41.78,
+    "score": 32.1,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 26,
+      "tier2": 3.0,
+      "tier3": 12.78,
+      "tier4": 0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5904708": {
+    "match_id": "5904708",
+    "league": "Süper Lig",
+    "date": "2026-08-15T18:30:00Z",
+    "home": "Gençlerbirliği",
+    "away": "Fenerbahçe",
+    "score_str": "2 - 1",
+    "raw_total": 60.3,
+    "score": 46.4,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 34,
+      "tier2": 11.0,
+      "tier3": 12.3,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5904706": {
+    "match_id": "5904706",
+    "league": "Süper Lig",
+    "date": "2026-08-16T16:00:00Z",
+    "home": "Başakşehir",
+    "away": "Kocaelispor",
+    "score_str": "2 - 0",
+    "raw_total": 22.51,
+    "score": 17.3,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 3.0,
+      "tier3": 9.51,
+      "tier4": 2.0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5904707": {
+    "match_id": "5904707",
+    "league": "Süper Lig",
+    "date": "2026-08-16T18:30:00Z",
+    "home": "Amed Sportif",
+    "away": "Erzurumspor FK",
+    "score_str": "3 - 0",
+    "raw_total": 23.0,
+    "score": 17.7,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 0.0,
+      "tier3": 0,
+      "tier4": 1.0,
+      "tier5": 14.0
+    },
+    "highlight": null
+  },
+  "5904711": {
+    "match_id": "5904711",
+    "league": "Süper Lig",
+    "date": "2026-08-16T18:30:00Z",
+    "home": "Beşiktaş",
+    "away": "Eyüpspor",
+    "score_str": "1 - 0",
+    "raw_total": 30.03,
+    "score": 23.1,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 18,
+      "tier2": 4.0,
+      "tier3": 6.03,
+      "tier4": 2.0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5904712": {
+    "match_id": "5904712",
+    "league": "Süper Lig",
+    "date": "2026-08-17T18:30:00Z",
+    "home": "Samsunspor",
+    "away": "Göztepe",
+    "score_str": "3 - 3",
+    "raw_total": 89.34,
+    "score": 68.7,
+    "badge": "Tatmin Edici",
+    "boxed": true,
+    "tiers": {
+      "tier1": 49,
+      "tier2": 29.0,
+      "tier3": 8.34,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5904721": {
+    "match_id": "5904721",
+    "league": "Süper Lig",
+    "date": "2026-08-21T18:30:00Z",
+    "home": "Erzurumspor FK",
+    "away": "Galatasaray",
+    "score_str": "0 - 4",
+    "raw_total": 31.05,
+    "score": 23.9,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 0.0,
+      "tier3": 2.05,
+      "tier4": 0,
+      "tier5": 21
+    },
+    "highlight": null
+  },
+  "5904718": {
+    "match_id": "5904718",
+    "league": "Süper Lig",
+    "date": "2026-08-22T16:00:00Z",
+    "home": "Çorum FK",
+    "away": "Kasımpaşa",
+    "score_str": "0 - 1",
+    "raw_total": 25.87,
+    "score": 19.9,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 18,
+      "tier2": 0.0,
+      "tier3": 7.37,
+      "tier4": 0.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5904716": {
+    "match_id": "5904716",
+    "league": "Süper Lig",
+    "date": "2026-08-22T16:00:00Z",
+    "home": "Rizespor",
+    "away": "Samsunspor",
+    "score_str": "0 - 2",
+    "raw_total": 32.65,
+    "score": 25.1,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 11.0,
+      "tier3": 11.15,
+      "tier4": 2.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5904719": {
+    "match_id": "5904719",
+    "league": "Süper Lig",
+    "date": "2026-08-22T18:30:00Z",
+    "home": "Fenerbahçe",
+    "away": "Konyaspor",
+    "score_str": "4 - 2",
+    "raw_total": 68.3,
+    "score": 52.5,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 24,
+      "tier2": 25.0,
+      "tier3": 17.3,
+      "tier4": 2.0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5904714": {
+    "match_id": "5904714",
+    "league": "Süper Lig",
+    "date": "2026-08-23T16:00:00Z",
+    "home": "Eyüpspor",
+    "away": "Gaziantep FK",
+    "score_str": "0 - 1",
+    "raw_total": 37.77,
+    "score": 29.1,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 18,
+      "tier2": 12.0,
+      "tier3": 7.77,
+      "tier4": 0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5904713": {
+    "match_id": "5904713",
+    "league": "Süper Lig",
+    "date": "2026-08-23T16:00:00Z",
+    "home": "Trabzonspor",
+    "away": "Başakşehir",
+    "score_str": "2 - 1",
+    "raw_total": 67.93,
+    "score": 52.3,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 34,
+      "tier2": 16.0,
+      "tier3": 16.93,
+      "tier4": 1.0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5904715": {
+    "match_id": "5904715",
+    "league": "Süper Lig",
+    "date": "2026-08-23T18:30:00Z",
+    "home": "Alanyaspor",
+    "away": "Beşiktaş",
+    "score_str": "1 - 0",
+    "raw_total": 35.01,
+    "score": 26.9,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 18,
+      "tier2": 0.0,
+      "tier3": 14.01,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5904717": {
+    "match_id": "5904717",
+    "league": "Süper Lig",
+    "date": "2026-08-23T18:30:00Z",
+    "home": "Göztepe",
+    "away": "Gençlerbirliği",
+    "score_str": "0 - 1",
+    "raw_total": 60.17,
+    "score": 46.3,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 18,
+      "tier2": 25.0,
+      "tier3": 14.67,
+      "tier4": 2.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5904720": {
+    "match_id": "5904720",
+    "league": "Süper Lig",
+    "date": "2026-08-24T18:30:00Z",
+    "home": "Kocaelispor",
+    "away": "Amed Sportif",
+    "score_str": "2 - 0",
+    "raw_total": 27.63,
+    "score": 21.3,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 18,
+      "tier2": 0.0,
+      "tier3": 7.63,
+      "tier4": 2.0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5904726": {
+    "match_id": "5904726",
+    "league": "Süper Lig",
+    "date": "2026-08-28T18:30:00Z",
+    "home": "Gençlerbirliği",
+    "away": "Erzurumspor FK",
+    "score_str": "1 - 1",
+    "raw_total": 42.46,
+    "score": 32.7,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 26,
+      "tier2": 4.0,
+      "tier3": 11.46,
+      "tier4": 1.0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5904727": {
+    "match_id": "5904727",
+    "league": "Süper Lig",
+    "date": "2026-08-29T16:00:00Z",
+    "home": "Konyaspor",
+    "away": "Kocaelispor",
+    "score_str": "1 - 2",
+    "raw_total": 75.78,
+    "score": 58.3,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 49,
+      "tier2": 15.0,
+      "tier3": 11.78,
+      "tier4": 0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5904728": {
+    "match_id": "5904728",
+    "league": "Süper Lig",
+    "date": "2026-08-29T18:30:00Z",
+    "home": "Galatasaray",
+    "away": "Göztepe",
+    "score_str": "3 - 2",
+    "raw_total": 57.53,
+    "score": 44.3,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 34,
+      "tier2": 12.0,
+      "tier3": 10.53,
+      "tier4": 1.0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5904722": {
+    "match_id": "5904722",
+    "league": "Süper Lig",
+    "date": "2026-08-29T18:30:00Z",
+    "home": "Gaziantep FK",
+    "away": "Rizespor",
+    "score_str": "1 - 2",
+    "raw_total": 32.45,
+    "score": 25.0,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 11.0,
+      "tier3": 12.45,
+      "tier4": 1.0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5904723": {
+    "match_id": "5904723",
+    "league": "Süper Lig",
+    "date": "2026-08-30T16:00:00Z",
+    "home": "Eyüpspor",
+    "away": "Alanyaspor",
+    "score_str": "2 - 1",
+    "raw_total": 59.93,
+    "score": 46.1,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 49,
+      "tier2": 3.0,
+      "tier3": 7.93,
+      "tier4": 0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5904724": {
+    "match_id": "5904724",
+    "league": "Süper Lig",
+    "date": "2026-08-30T18:30:00Z",
+    "home": "Başakşehir",
+    "away": "Kasımpaşa",
+    "score_str": "1 - 1",
+    "raw_total": 56.9,
+    "score": 43.8,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 41,
+      "tier2": 8.0,
+      "tier3": 6.9,
+      "tier4": 1.0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5904730": {
+    "match_id": "5904730",
+    "league": "Süper Lig",
+    "date": "2026-08-30T18:30:00Z",
+    "home": "Samsunspor",
+    "away": "Fenerbahçe",
+    "score_str": "0 - 2",
+    "raw_total": 31.22,
+    "score": 24.0,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 15.0,
+      "tier3": 7.72,
+      "tier4": 0.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5904725": {
+    "match_id": "5904725",
+    "league": "Süper Lig",
+    "date": "2026-08-31T18:30:00Z",
+    "home": "Amed Sportif",
+    "away": "Trabzonspor",
+    "score_str": "2 - 1",
+    "raw_total": 84.63,
+    "score": 65.1,
+    "badge": "Tatmin Edici",
+    "boxed": true,
+    "tiers": {
+      "tier1": 49,
+      "tier2": 21.0,
+      "tier3": 12.13,
+      "tier4": 2.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5904729": {
+    "match_id": "5904729",
+    "league": "Süper Lig",
+    "date": "2026-08-31T18:30:00Z",
+    "home": "Beşiktaş",
+    "away": "Çorum FK",
+    "score_str": "6 - 2",
+    "raw_total": 49.9,
+    "score": 38.4,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 16.0,
+      "tier3": 0,
+      "tier4": 3,
+      "tier5": 22.9
+    },
+    "highlight": null
+  },
+  "5904733": {
+    "match_id": "5904733",
+    "league": "Süper Lig",
+    "date": "2026-09-04T17:00:00Z",
+    "home": "Başakşehir",
+    "away": "Galatasaray",
+    "score_str": "2 - 3",
+    "raw_total": 105.84,
+    "score": 81.4,
+    "badge": "Futbol Ziyafeti",
+    "boxed": true,
+    "tiers": {
+      "tier1": 49,
+      "tier2": 40.0,
+      "tier3": 14.34,
+      "tier4": 2.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5904739": {
+    "match_id": "5904739",
+    "league": "Süper Lig",
+    "date": "2026-09-05T14:00:00Z",
+    "home": "Erzurumspor FK",
+    "away": "Konyaspor",
+    "score_str": "1 - 0",
+    "raw_total": 34.97,
+    "score": 26.9,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 18,
+      "tier2": 8.0,
+      "tier3": 8.47,
+      "tier4": 0.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5904737": {
+    "match_id": "5904737",
+    "league": "Süper Lig",
+    "date": "2026-09-05T17:00:00Z",
+    "home": "Fenerbahçe",
+    "away": "Beşiktaş",
+    "score_str": "1 - 2",
+    "raw_total": 52.43,
+    "score": 40.3,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 34,
+      "tier2": 7.0,
+      "tier3": 8.93,
+      "tier4": 2.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5904736": {
+    "match_id": "5904736",
+    "league": "Süper Lig",
+    "date": "2026-09-06T14:00:00Z",
+    "home": "Çorum FK",
+    "away": "Eyüpspor",
+    "score_str": "3 - 0",
+    "raw_total": 53.1,
+    "score": 40.8,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 15.0,
+      "tier3": 8,
+      "tier4": 2.5,
+      "tier5": 19.6
+    },
+    "highlight": null
+  },
+  "5904732": {
+    "match_id": "5904732",
+    "league": "Süper Lig",
+    "date": "2026-09-06T14:00:00Z",
+    "home": "Kasımpaşa",
+    "away": "Amed Sportif",
+    "score_str": "2 - 2",
+    "raw_total": 68.85,
+    "score": 53.0,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 41,
+      "tier2": 11.0,
+      "tier3": 13.35,
+      "tier4": 3.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5904738": {
+    "match_id": "5904738",
+    "league": "Süper Lig",
+    "date": "2026-09-06T17:00:00Z",
+    "home": "Kocaelispor",
+    "away": "Samsunspor",
+    "score_str": "1 - 0",
+    "raw_total": 47.86,
+    "score": 36.8,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 18,
+      "tier2": 15.0,
+      "tier3": 13.86,
+      "tier4": 1.0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5904731": {
+    "match_id": "5904731",
+    "league": "Süper Lig",
+    "date": "2026-09-06T17:00:00Z",
+    "home": "Trabzonspor",
+    "away": "Gençlerbirliği",
+    "score_str": "5 - 0",
+    "raw_total": 61.5,
+    "score": 47.3,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 24.0,
+      "tier3": 8,
+      "tier4": 1.5,
+      "tier5": 20
+    },
+    "highlight": null
+  },
+  "5904735": {
+    "match_id": "5904735",
+    "league": "Süper Lig",
+    "date": "2026-09-07T17:00:00Z",
+    "home": "Göztepe",
+    "away": "Gaziantep FK",
+    "score_str": "2 - 4",
+    "raw_total": 57.17,
+    "score": 44.0,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 37.0,
+      "tier3": 9.67,
+      "tier4": 2.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5904734": {
+    "match_id": "5904734",
+    "league": "Süper Lig",
+    "date": "2026-09-07T17:00:00Z",
+    "home": "Rizespor",
+    "away": "Alanyaspor",
+    "score_str": "0 - 1",
+    "raw_total": 44.75,
+    "score": 34.4,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 18,
+      "tier2": 15.0,
+      "tier3": 8.75,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5904747": {
+    "match_id": "5904747",
+    "league": "Süper Lig",
+    "date": "2026-09-11T17:00:00Z",
+    "home": "Beşiktaş",
+    "away": "Erzurumspor FK",
+    "score_str": "3 - 0",
+    "raw_total": 33.69,
+    "score": 25.9,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 4.0,
+      "tier3": 0.56,
+      "tier4": 2.5,
+      "tier5": 18.63
+    },
+    "highlight": null
+  },
+  "5904741": {
+    "match_id": "5904741",
+    "league": "Süper Lig",
+    "date": "2026-09-12T14:00:00Z",
+    "home": "Eyüpspor",
+    "away": "Rizespor",
+    "score_str": "0 - 2",
+    "raw_total": 54.55,
+    "score": 42.0,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 18,
+      "tier2": 23.0,
+      "tier3": 11.55,
+      "tier4": 2.0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5904748": {
+    "match_id": "5904748",
+    "league": "Süper Lig",
+    "date": "2026-09-12T14:00:00Z",
+    "home": "Samsunspor",
+    "away": "Çorum FK",
+    "score_str": "1 - 5",
+    "raw_total": 59.98,
+    "score": 46.1,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 24,
+      "tier2": 3.0,
+      "tier3": 4.21,
+      "tier4": 2.0,
+      "tier5": 26.77
+    },
+    "highlight": null
+  },
+  "5904742": {
+    "match_id": "5904742",
+    "league": "Süper Lig",
+    "date": "2026-09-12T17:00:00Z",
+    "home": "Alanyaspor",
+    "away": "Göztepe",
+    "score_str": "2 - 2",
+    "raw_total": 59.77,
+    "score": 46.0,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 34,
+      "tier2": 12.0,
+      "tier3": 10.77,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5904745": {
+    "match_id": "5904745",
+    "league": "Süper Lig",
+    "date": "2026-09-12T17:00:00Z",
+    "home": "Konyaspor",
+    "away": "Trabzonspor",
+    "score_str": "1 - 0",
+    "raw_total": 49.8,
+    "score": 38.3,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 18,
+      "tier2": 15.0,
+      "tier3": 14.8,
+      "tier4": 2.0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5904744": {
+    "match_id": "5904744",
+    "league": "Süper Lig",
+    "date": "2026-09-13T14:00:00Z",
+    "home": "Gençlerbirliği",
+    "away": "Kasımpaşa",
+    "score_str": "1 - 2",
+    "raw_total": 82.55,
+    "score": 63.5,
+    "badge": "Tatmin Edici",
+    "boxed": true,
+    "tiers": {
+      "tier1": 49,
+      "tier2": 19.0,
+      "tier3": 11.55,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5904743": {
+    "match_id": "5904743",
+    "league": "Süper Lig",
+    "date": "2026-09-13T17:00:00Z",
+    "home": "Amed Sportif",
+    "away": "Başakşehir",
+    "score_str": "5 - 0",
+    "raw_total": 40.21,
+    "score": 30.9,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 11.0,
+      "tier3": 1.21,
+      "tier4": 0,
+      "tier5": 20
+    },
+    "highlight": null
+  },
+  "5904746": {
+    "match_id": "5904746",
+    "league": "Süper Lig",
+    "date": "2026-09-13T17:00:00Z",
+    "home": "Galatasaray",
+    "away": "Kocaelispor",
+    "score_str": "1 - 0",
+    "raw_total": 55.96,
+    "score": 43.0,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 18,
+      "tier2": 23,
+      "tier3": 11.96,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5904740": {
+    "match_id": "5904740",
+    "league": "Süper Lig",
+    "date": "2026-09-14T17:00:00Z",
+    "home": "Gaziantep FK",
+    "away": "Fenerbahçe",
+    "score_str": "0 - 0",
+    "raw_total": 40.17,
+    "score": 30.9,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 10,
+      "tier2": 19.0,
+      "tier3": 7.17,
+      "tier4": 4.0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5904750": {
+    "match_id": "5904750",
+    "league": "Süper Lig",
+    "date": "2026-09-18T17:00:00.000Z",
+    "home": "Kasımpaşa",
+    "away": "Konyaspor",
+    "score_str": "0 - 0",
+    "raw_total": 34.67,
+    "score": 26.7,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 10,
+      "tier2": 11.0,
+      "tier3": 10.67,
+      "tier4": 3.0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5802905": {
+    "match_id": "5802905",
+    "league": "Ligue 1",
+    "date": "2026-08-21T18:45:00Z",
+    "home": "Marseille",
+    "away": "Strasbourg",
+    "score_str": "4 - 0",
+    "raw_total": 50.5,
+    "score": 38.8,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 17.0,
+      "tier3": 2.8,
+      "tier4": 0.5,
+      "tier5": 22.2
+    },
+    "highlight": null
+  },
+  "5802904": {
+    "match_id": "5802904",
+    "league": "Ligue 1",
+    "date": "2026-08-22T15:15:00Z",
+    "home": "Lens",
+    "away": "Auxerre",
+    "score_str": "5 - 2",
+    "raw_total": 63.11,
+    "score": 48.5,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 20.0,
+      "tier3": 7.61,
+      "tier4": 2.5,
+      "tier5": 25
+    },
+    "highlight": null
+  },
+  "5802903": {
+    "match_id": "5802903",
+    "league": "Ligue 1",
+    "date": "2026-08-22T18:45:00Z",
+    "home": "Le Mans",
+    "away": "Brest",
+    "score_str": "2 - 2",
+    "raw_total": 47.84,
+    "score": 36.8,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 34,
+      "tier2": 3.0,
+      "tier3": 8.34,
+      "tier4": 2.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5802906": {
+    "match_id": "5802906",
+    "league": "Ligue 1",
+    "date": "2026-08-22T18:45:00Z",
+    "home": "Nice",
+    "away": "Lorient",
+    "score_str": "0 - 0",
+    "raw_total": 33.23,
+    "score": 25.6,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 10,
+      "tier2": 11.0,
+      "tier3": 9.23,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5802908": {
+    "match_id": "5802908",
+    "league": "Ligue 1",
+    "date": "2026-08-22T18:45:00Z",
+    "home": "Toulouse",
+    "away": "Lyon",
+    "score_str": "0 - 2",
+    "raw_total": 38.6,
+    "score": 29.7,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 18,
+      "tier2": 15.0,
+      "tier3": 3.1,
+      "tier4": 2.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5802909": {
+    "match_id": "5802909",
+    "league": "Ligue 1",
+    "date": "2026-08-22T18:45:00Z",
+    "home": "Troyes",
+    "away": "Paris FC",
+    "score_str": "0 - 0",
+    "raw_total": 20.4,
+    "score": 15.7,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 10,
+      "tier2": 4.0,
+      "tier3": 5.4,
+      "tier4": 1.0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5802901": {
+    "match_id": "5802901",
+    "league": "Ligue 1",
+    "date": "2026-08-23T13:00:00Z",
+    "home": "Angers",
+    "away": "Lille",
+    "score_str": "0 - 2",
+    "raw_total": 35.04,
+    "score": 27.0,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 11.0,
+      "tier3": 13.54,
+      "tier4": 2.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5802902": {
+    "match_id": "5802902",
+    "league": "Ligue 1",
+    "date": "2026-08-23T15:15:00Z",
+    "home": "Le Havre",
+    "away": "Monaco",
+    "score_str": "0 - 1",
+    "raw_total": 34.28,
+    "score": 26.4,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 18,
+      "tier2": 0.0,
+      "tier3": 13.78,
+      "tier4": 2.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5803105": {
+    "match_id": "5803105",
+    "league": "Ligue 1",
+    "date": "2026-08-23T18:45:00Z",
+    "home": "Rennes",
+    "away": "Paris Saint-Germain",
+    "score_str": "2 - 2",
+    "raw_total": 60.03,
+    "score": 46.2,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 41,
+      "tier2": 11.0,
+      "tier3": 6.03,
+      "tier4": 2.0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5802918": {
+    "match_id": "5802918",
+    "league": "Ligue 1",
+    "date": "2026-08-28T19:00:00Z",
+    "home": "Lille",
+    "away": "Paris Saint-Germain",
+    "score_str": "2 - 2",
+    "raw_total": 67.57,
+    "score": 52.0,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 41,
+      "tier2": 15.0,
+      "tier3": 11.57,
+      "tier4": 0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5802917": {
+    "match_id": "5802917",
+    "league": "Ligue 1",
+    "date": "2026-08-29T15:15:00Z",
+    "home": "Strasbourg",
+    "away": "Lens",
+    "score_str": "2 - 1",
+    "raw_total": 88.9,
+    "score": 68.4,
+    "badge": "Tatmin Edici",
+    "boxed": true,
+    "tiers": {
+      "tier1": 49,
+      "tier2": 24.0,
+      "tier3": 14.4,
+      "tier4": 1.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5802910": {
+    "match_id": "5802910",
+    "league": "Ligue 1",
+    "date": "2026-08-29T18:45:00Z",
+    "home": "Auxerre",
+    "away": "Angers",
+    "score_str": "1 - 3",
+    "raw_total": 59.13,
+    "score": 45.5,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 24,
+      "tier2": 15.0,
+      "tier3": 17.13,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5802911": {
+    "match_id": "5802911",
+    "league": "Ligue 1",
+    "date": "2026-08-29T18:45:00Z",
+    "home": "Brest",
+    "away": "Toulouse",
+    "score_str": "2 - 2",
+    "raw_total": 82.39,
+    "score": 63.4,
+    "badge": "Tatmin Edici",
+    "boxed": true,
+    "tiers": {
+      "tier1": 49,
+      "tier2": 23.0,
+      "tier3": 8.89,
+      "tier4": 1.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5802912": {
+    "match_id": "5802912",
+    "league": "Ligue 1",
+    "date": "2026-08-29T18:45:00Z",
+    "home": "Lorient",
+    "away": "Troyes",
+    "score_str": "1 - 2",
+    "raw_total": 48.25,
+    "score": 37.1,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 18,
+      "tier2": 20.0,
+      "tier3": 9.75,
+      "tier4": 0.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5802913": {
+    "match_id": "5802913",
+    "league": "Ligue 1",
+    "date": "2026-08-29T18:45:00Z",
+    "home": "Lyon",
+    "away": "Le Havre",
+    "score_str": "1 - 1",
+    "raw_total": 66.73,
+    "score": 51.3,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 41,
+      "tier2": 11.0,
+      "tier3": 12.73,
+      "tier4": 2.0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5802915": {
+    "match_id": "5802915",
+    "league": "Ligue 1",
+    "date": "2026-08-30T13:00:00Z",
+    "home": "Paris FC",
+    "away": "Nice",
+    "score_str": "3 - 0",
+    "raw_total": 39.79,
+    "score": 30.6,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 16.0,
+      "tier3": 1.85,
+      "tier4": 0,
+      "tier5": 13.93
+    },
+    "highlight": null
+  },
+  "5802916": {
+    "match_id": "5802916",
+    "league": "Ligue 1",
+    "date": "2026-08-30T15:15:00Z",
+    "home": "Rennes",
+    "away": "Le Mans",
+    "score_str": "3 - 2",
+    "raw_total": 105.8,
+    "score": 81.4,
+    "badge": "Futbol Ziyafeti",
+    "boxed": true,
+    "tiers": {
+      "tier1": 49,
+      "tier2": 36.0,
+      "tier3": 17.8,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5802914": {
+    "match_id": "5802914",
+    "league": "Ligue 1",
+    "date": "2026-08-30T18:45:00Z",
+    "home": "Monaco",
+    "away": "Marseille",
+    "score_str": "2 - 0",
+    "raw_total": 37.85,
+    "score": 29.1,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 15.0,
+      "tier3": 11.85,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5802926": {
+    "match_id": "5802926",
+    "league": "Ligue 1",
+    "date": "2026-09-03T18:45:00Z",
+    "home": "Toulouse",
+    "away": "Lille",
+    "score_str": "0 - 1",
+    "raw_total": 36.5,
+    "score": 28.1,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 18,
+      "tier2": 7.0,
+      "tier3": 10.5,
+      "tier4": 1.0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5802922": {
+    "match_id": "5802922",
+    "league": "Ligue 1",
+    "date": "2026-09-04T17:00:00Z",
+    "home": "Lyon",
+    "away": "Auxerre",
+    "score_str": "3 - 1",
+    "raw_total": 37.25,
+    "score": 28.7,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 19.0,
+      "tier3": 7.25,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5802925": {
+    "match_id": "5802925",
+    "league": "Ligue 1",
+    "date": "2026-09-04T19:05:00Z",
+    "home": "Paris Saint-Germain",
+    "away": "Monaco",
+    "score_str": "1 - 2",
+    "raw_total": 48.97,
+    "score": 37.7,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 34,
+      "tier2": 3.0,
+      "tier3": 11.97,
+      "tier4": 0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5802921": {
+    "match_id": "5802921",
+    "league": "Ligue 1",
+    "date": "2026-09-05T15:15:00Z",
+    "home": "Lens",
+    "away": "Lorient",
+    "score_str": "0 - 1",
+    "raw_total": 43.37,
+    "score": 33.4,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 18,
+      "tier2": 11.0,
+      "tier3": 13.37,
+      "tier4": 1.0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5802920": {
+    "match_id": "5802920",
+    "league": "Ligue 1",
+    "date": "2026-09-05T18:45:00Z",
+    "home": "Le Havre",
+    "away": "Brest",
+    "score_str": "1 - 2",
+    "raw_total": 60.83,
+    "score": 46.8,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 18,
+      "tier2": 24.0,
+      "tier3": 16.83,
+      "tier4": 2.0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5802924": {
+    "match_id": "5802924",
+    "league": "Ligue 1",
+    "date": "2026-09-05T18:45:00Z",
+    "home": "Nice",
+    "away": "Le Mans",
+    "score_str": "1 - 1",
+    "raw_total": 50.97,
+    "score": 39.2,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 26,
+      "tier2": 15.0,
+      "tier3": 9.47,
+      "tier4": 0.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5802927": {
+    "match_id": "5802927",
+    "league": "Ligue 1",
+    "date": "2026-09-06T13:00:00Z",
+    "home": "Troyes",
+    "away": "Strasbourg",
+    "score_str": "2 - 6",
+    "raw_total": 73.33,
+    "score": 56.4,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 24,
+      "tier2": 11.0,
+      "tier3": 8,
+      "tier4": 2.5,
+      "tier5": 27.83
+    },
+    "highlight": null
+  },
+  "5802919": {
+    "match_id": "5802919",
+    "league": "Ligue 1",
+    "date": "2026-09-06T15:15:00Z",
+    "home": "Angers",
+    "away": "Rennes",
+    "score_str": "1 - 2",
+    "raw_total": 48.57,
+    "score": 37.4,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 18,
+      "tier2": 15.0,
+      "tier3": 12.57,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5802923": {
+    "match_id": "5802923",
+    "league": "Ligue 1",
+    "date": "2026-09-06T18:45:00Z",
+    "home": "Marseille",
+    "away": "Paris FC",
+    "score_str": "2 - 3",
+    "raw_total": 82.27,
+    "score": 63.3,
+    "badge": "Tatmin Edici",
+    "boxed": true,
+    "tiers": {
+      "tier1": 49,
+      "tier2": 20.0,
+      "tier3": 11.77,
+      "tier4": 1.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5802935": {
+    "match_id": "5802935",
+    "league": "Ligue 1",
+    "date": "2026-09-11T18:45:00Z",
+    "home": "Rennes",
+    "away": "Marseille",
+    "score_str": "1 - 0",
+    "raw_total": 54.2,
+    "score": 41.7,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 18,
+      "tier2": 19.0,
+      "tier3": 16.2,
+      "tier4": 1.0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5802936": {
+    "match_id": "5802936",
+    "league": "Ligue 1",
+    "date": "2026-09-12T15:15:00Z",
+    "home": "Strasbourg",
+    "away": "Monaco",
+    "score_str": "1 - 1",
+    "raw_total": 37.4,
+    "score": 28.8,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 26,
+      "tier2": 0.0,
+      "tier3": 9.9,
+      "tier4": 1.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5802928": {
+    "match_id": "5802928",
+    "league": "Ligue 1",
+    "date": "2026-09-12T18:45:00Z",
+    "home": "Auxerre",
+    "away": "Nice",
+    "score_str": "1 - 0",
+    "raw_total": 34.38,
+    "score": 26.4,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 18,
+      "tier2": 0.0,
+      "tier3": 13.88,
+      "tier4": 2.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5802930": {
+    "match_id": "5802930",
+    "league": "Ligue 1",
+    "date": "2026-09-12T18:45:00Z",
+    "home": "Le Havre",
+    "away": "Angers",
+    "score_str": "0 - 0",
+    "raw_total": 26.77,
+    "score": 20.6,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 10,
+      "tier2": 4.0,
+      "tier3": 10.77,
+      "tier4": 2.0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5802933": {
+    "match_id": "5802933",
+    "league": "Ligue 1",
+    "date": "2026-09-12T18:45:00Z",
+    "home": "Lorient",
+    "away": "Toulouse",
+    "score_str": "2 - 2",
+    "raw_total": 42.17,
+    "score": 32.4,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 26,
+      "tier2": 8.0,
+      "tier3": 7.67,
+      "tier4": 0.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5802934": {
+    "match_id": "5802934",
+    "league": "Ligue 1",
+    "date": "2026-09-12T18:45:00Z",
+    "home": "Paris FC",
+    "away": "Lyon",
+    "score_str": "0 - 0",
+    "raw_total": 19.83,
+    "score": 15.3,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 10,
+      "tier2": 0.0,
+      "tier3": 9.33,
+      "tier4": 0.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5802932": {
+    "match_id": "5802932",
+    "league": "Ligue 1",
+    "date": "2026-09-13T13:00:00Z",
+    "home": "Lille",
+    "away": "Troyes",
+    "score_str": "2 - 0",
+    "raw_total": 41.91,
+    "score": 32.2,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 18,
+      "tier2": 15.0,
+      "tier3": 8.41,
+      "tier4": 0.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5802931": {
+    "match_id": "5802931",
+    "league": "Ligue 1",
+    "date": "2026-09-13T15:15:00Z",
+    "home": "Le Mans",
+    "away": "Lens",
+    "score_str": "2 - 2",
+    "raw_total": 59.55,
+    "score": 45.8,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 26,
+      "tier2": 19.0,
+      "tier3": 11.55,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5802929": {
+    "match_id": "5802929",
+    "league": "Ligue 1",
+    "date": "2026-09-13T18:45:00Z",
+    "home": "Brest",
+    "away": "Paris Saint-Germain",
+    "score_str": "0 - 1",
+    "raw_total": 50.03,
+    "score": 38.5,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 18,
+      "tier2": 15.0,
+      "tier3": 17.03,
+      "tier4": 0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5802941": {
+    "match_id": "5802941",
+    "league": "Ligue 1",
+    "date": "2026-09-18T18:45:00.000Z",
+    "home": "Monaco",
+    "away": "Lens",
+    "score_str": "2 - 1",
+    "raw_total": 77.64,
+    "score": 59.7,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 49,
+      "tier2": 11.0,
+      "tier3": 15.64,
+      "tier4": 2.0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5881143": {
+    "match_id": "5881143",
+    "league": "Bundesliga",
+    "date": "2026-08-28T18:30:00Z",
+    "home": "Bayern München",
+    "away": "VfB Stuttgart",
+    "score_str": "5 - 1",
+    "raw_total": 74.0,
+    "score": 56.9,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 24,
+      "tier2": 19.0,
+      "tier3": 8,
+      "tier4": 3,
+      "tier5": 20
+    },
+    "highlight": null
+  },
+  "5881146": {
+    "match_id": "5881146",
+    "league": "Bundesliga",
+    "date": "2026-08-29T13:30:00Z",
+    "home": "Elversberg",
+    "away": "Bayer Leverkusen",
+    "score_str": "3 - 2",
+    "raw_total": 39.72,
+    "score": 30.6,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 19.0,
+      "tier3": 12.22,
+      "tier4": 0.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5881147": {
+    "match_id": "5881147",
+    "league": "Bundesliga",
+    "date": "2026-08-29T13:30:00Z",
+    "home": "1. FC Köln",
+    "away": "Hoffenheim",
+    "score_str": "3 - 2",
+    "raw_total": 87.87,
+    "score": 67.6,
+    "badge": "Tatmin Edici",
+    "boxed": true,
+    "tiers": {
+      "tier1": 49,
+      "tier2": 21.0,
+      "tier3": 14.87,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5881149": {
+    "match_id": "5881149",
+    "league": "Bundesliga",
+    "date": "2026-08-29T13:30:00Z",
+    "home": "Mainz 05",
+    "away": "Paderborn",
+    "score_str": "0 - 0",
+    "raw_total": 36.33,
+    "score": 27.9,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 10,
+      "tier2": 15.0,
+      "tier3": 8.33,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5881150": {
+    "match_id": "5881150",
+    "league": "Bundesliga",
+    "date": "2026-08-29T13:30:00Z",
+    "home": "RB Leipzig",
+    "away": "Borussia Mönchengladbach",
+    "score_str": "3 - 0",
+    "raw_total": 59.0,
+    "score": 45.4,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 19.0,
+      "tier3": 8,
+      "tier4": 3,
+      "tier5": 21
+    },
+    "highlight": null
+  },
+  "5881151": {
+    "match_id": "5881151",
+    "league": "Bundesliga",
+    "date": "2026-08-29T13:30:00Z",
+    "home": "Union Berlin",
+    "away": "Eintracht Frankfurt",
+    "score_str": "3 - 3",
+    "raw_total": 77.27,
+    "score": 59.4,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 49,
+      "tier2": 11.0,
+      "tier3": 16.77,
+      "tier4": 0.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5881145": {
+    "match_id": "5881145",
+    "league": "Bundesliga",
+    "date": "2026-08-29T16:30:00Z",
+    "home": "Borussia Dortmund",
+    "away": "Hamburger SV",
+    "score_str": "2 - 0",
+    "raw_total": 38.03,
+    "score": 29.3,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 16.0,
+      "tier3": 14.03,
+      "tier4": 0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5881148": {
+    "match_id": "5881148",
+    "league": "Bundesliga",
+    "date": "2026-08-30T13:30:00Z",
+    "home": "Freiburg",
+    "away": "Werder Bremen",
+    "score_str": "4 - 1",
+    "raw_total": 38.84,
+    "score": 29.9,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 7.0,
+      "tier3": 0.44,
+      "tier4": 2.5,
+      "tier5": 20.9
+    },
+    "highlight": null
+  },
+  "5881144": {
+    "match_id": "5881144",
+    "league": "Bundesliga",
+    "date": "2026-08-30T15:30:00Z",
+    "home": "Augsburg",
+    "away": "Schalke 04",
+    "score_str": "3 - 0",
+    "raw_total": 66.0,
+    "score": 50.8,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 23.0,
+      "tier3": 8,
+      "tier4": 3,
+      "tier5": 24
+    },
+    "highlight": null
+  },
+  "5881159": {
+    "match_id": "5881159",
+    "league": "Bundesliga",
+    "date": "2026-09-04T18:30:00Z",
+    "home": "VfB Stuttgart",
+    "away": "1. FC Köln",
+    "score_str": "4 - 1",
+    "raw_total": 64.23,
+    "score": 49.4,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 19.0,
+      "tier3": 6.23,
+      "tier4": 3,
+      "tier5": 28
+    },
+    "highlight": null
+  },
+  "5881152": {
+    "match_id": "5881152",
+    "league": "Bundesliga",
+    "date": "2026-09-05T13:30:00Z",
+    "home": "Bayer Leverkusen",
+    "away": "Union Berlin",
+    "score_str": "4 - 0",
+    "raw_total": 45.57,
+    "score": 35.1,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 4.0,
+      "tier3": 4.57,
+      "tier4": 3,
+      "tier5": 26
+    },
+    "highlight": null
+  },
+  "5881153": {
+    "match_id": "5881153",
+    "league": "Bundesliga",
+    "date": "2026-09-05T13:30:00Z",
+    "home": "Borussia Mönchengladbach",
+    "away": "Elversberg",
+    "score_str": "3 - 4",
+    "raw_total": 98.83,
+    "score": 76.0,
+    "badge": "Futbol Ziyafeti",
+    "boxed": true,
+    "tiers": {
+      "tier1": 59,
+      "tier2": 19.0,
+      "tier3": 17.83,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5881156": {
+    "match_id": "5881156",
+    "league": "Bundesliga",
+    "date": "2026-09-05T13:30:00Z",
+    "home": "Hoffenheim",
+    "away": "Borussia Dortmund",
+    "score_str": "2 - 3",
+    "raw_total": 76.63,
+    "score": 58.9,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 49,
+      "tier2": 11.0,
+      "tier3": 13.63,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5881157": {
+    "match_id": "5881157",
+    "league": "Bundesliga",
+    "date": "2026-09-05T13:30:00Z",
+    "home": "Paderborn",
+    "away": "Freiburg",
+    "score_str": "0 - 1",
+    "raw_total": 32.99,
+    "score": 25.4,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 18,
+      "tier2": 0.0,
+      "tier3": 13.49,
+      "tier4": 1.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5881160": {
+    "match_id": "5881160",
+    "league": "Bundesliga",
+    "date": "2026-09-05T13:30:00Z",
+    "home": "Werder Bremen",
+    "away": "RB Leipzig",
+    "score_str": "3 - 1",
+    "raw_total": 33.29,
+    "score": 25.6,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 11.0,
+      "tier3": 12.79,
+      "tier4": 1.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5881158": {
+    "match_id": "5881158",
+    "league": "Bundesliga",
+    "date": "2026-09-05T16:30:00Z",
+    "home": "Schalke 04",
+    "away": "Bayern München",
+    "score_str": "0 - 0",
+    "raw_total": 18.67,
+    "score": 14.4,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 10,
+      "tier2": 0.0,
+      "tier3": 6.17,
+      "tier4": 2.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5881155": {
+    "match_id": "5881155",
+    "league": "Bundesliga",
+    "date": "2026-09-06T13:30:00Z",
+    "home": "Hamburger SV",
+    "away": "Mainz 05",
+    "score_str": "0 - 5",
+    "raw_total": 30.08,
+    "score": 23.1,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 0.0,
+      "tier3": 1.35,
+      "tier4": 1.5,
+      "tier5": 19.23
+    },
+    "highlight": null
+  },
+  "5881154": {
+    "match_id": "5881154",
+    "league": "Bundesliga",
+    "date": "2026-09-06T15:30:00Z",
+    "home": "Eintracht Frankfurt",
+    "away": "Augsburg",
+    "score_str": "1 - 4",
+    "raw_total": 59.77,
+    "score": 46.0,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 24,
+      "tier2": 3.0,
+      "tier3": 8,
+      "tier4": 3,
+      "tier5": 21.77
+    },
+    "highlight": null
+  },
+  "5881169": {
+    "match_id": "5881169",
+    "league": "Bundesliga",
+    "date": "2026-09-11T18:30:00Z",
+    "home": "Union Berlin",
+    "away": "Schalke 04",
+    "score_str": "1 - 3",
+    "raw_total": 40.6,
+    "score": 31.2,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 15.0,
+      "tier3": 16.1,
+      "tier4": 1.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5881161": {
+    "match_id": "5881161",
+    "league": "Bundesliga",
+    "date": "2026-09-12T13:30:00Z",
+    "home": "Augsburg",
+    "away": "Bayer Leverkusen",
+    "score_str": "2 - 2",
+    "raw_total": 63.91,
+    "score": 49.2,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 49,
+      "tier2": 3.0,
+      "tier3": 8.91,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5881162": {
+    "match_id": "5881162",
+    "league": "Bundesliga",
+    "date": "2026-09-12T13:30:00Z",
+    "home": "Borussia Dortmund",
+    "away": "Paderborn",
+    "score_str": "3 - 0",
+    "raw_total": 49.45,
+    "score": 38.0,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 18,
+      "tier2": 15.0,
+      "tier3": 2.59,
+      "tier4": 2.0,
+      "tier5": 11.87
+    },
+    "highlight": null
+  },
+  "5881165": {
+    "match_id": "5881165",
+    "league": "Bundesliga",
+    "date": "2026-09-12T13:30:00Z",
+    "home": "Freiburg",
+    "away": "Borussia Mönchengladbach",
+    "score_str": "5 - 0",
+    "raw_total": 41.76,
+    "score": 32.1,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 0.0,
+      "tier3": 3.09,
+      "tier4": 1.0,
+      "tier5": 29.67
+    },
+    "highlight": null
+  },
+  "5881166": {
+    "match_id": "5881166",
+    "league": "Bundesliga",
+    "date": "2026-09-12T13:30:00Z",
+    "home": "Hoffenheim",
+    "away": "VfB Stuttgart",
+    "score_str": "2 - 1",
+    "raw_total": 64.0,
+    "score": 49.2,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 34,
+      "tier2": 11.0,
+      "tier3": 16.0,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5881167": {
+    "match_id": "5881167",
+    "league": "Bundesliga",
+    "date": "2026-09-12T13:30:00Z",
+    "home": "Mainz 05",
+    "away": "Eintracht Frankfurt",
+    "score_str": "1 - 3",
+    "raw_total": 42.1,
+    "score": 32.4,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 17.0,
+      "tier3": 15.6,
+      "tier4": 1.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5881164": {
+    "match_id": "5881164",
+    "league": "Bundesliga",
+    "date": "2026-09-12T16:30:00Z",
+    "home": "1. FC Köln",
+    "away": "Werder Bremen",
+    "score_str": "1 - 1",
+    "raw_total": 69.22,
+    "score": 53.2,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 26,
+      "tier2": 25.0,
+      "tier3": 15.22,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5881168": {
+    "match_id": "5881168",
+    "league": "Bundesliga",
+    "date": "2026-09-13T13:30:00Z",
+    "home": "RB Leipzig",
+    "away": "Hamburger SV",
+    "score_str": "5 - 0",
+    "raw_total": 46.46,
+    "score": 35.7,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 0.0,
+      "tier3": 4.36,
+      "tier4": 3,
+      "tier5": 31.1
+    },
+    "highlight": null
+  },
+  "5881163": {
+    "match_id": "5881163",
+    "league": "Bundesliga",
+    "date": "2026-09-13T15:30:00Z",
+    "home": "Elversberg",
+    "away": "Bayern München",
+    "score_str": "1 - 2",
+    "raw_total": 55.7,
+    "score": 42.8,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 34,
+      "tier2": 15.0,
+      "tier3": 3.7,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "5881171": {
+    "match_id": "5881171",
+    "league": "Bundesliga",
+    "date": "2026-09-18T18:30:00.000Z",
+    "home": "Bayern München",
+    "away": "Union Berlin",
+    "score_str": "7 - 0",
+    "raw_total": 65.46,
+    "score": 50.4,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 16.0,
+      "tier3": 7.96,
+      "tier4": 2.5,
+      "tier5": 31
+    },
+    "highlight": null
+  },
+  "6106404": {
+    "match_id": "6106404",
+    "league": "Şampiyonlar Ligi",
+    "date": "2026-09-08T16:45:00Z",
+    "home": "AEK Athens",
+    "away": "LASK",
+    "score_str": "1 - 0",
+    "raw_total": 38.27,
+    "score": 29.4,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 18,
+      "tier2": 11.0,
+      "tier3": 7.27,
+      "tier4": 2.0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "6106295": {
+    "match_id": "6106295",
+    "league": "Şampiyonlar Ligi",
+    "date": "2026-09-08T16:45:00Z",
+    "home": "Club Brugge",
+    "away": "Aston Villa",
+    "score_str": "2 - 3",
+    "raw_total": 59.87,
+    "score": 46.1,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 34,
+      "tier2": 12.0,
+      "tier3": 12.37,
+      "tier4": 1.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "6106272": {
+    "match_id": "6106272",
+    "league": "Şampiyonlar Ligi",
+    "date": "2026-09-08T19:00:00Z",
+    "home": "Borussia Dortmund",
+    "away": "Villarreal",
+    "score_str": "3 - 2",
+    "raw_total": 85.43,
+    "score": 65.7,
+    "badge": "Tatmin Edici",
+    "boxed": true,
+    "tiers": {
+      "tier1": 49,
+      "tier2": 20.0,
+      "tier3": 13.43,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "6106286": {
+    "match_id": "6106286",
+    "league": "Şampiyonlar Ligi",
+    "date": "2026-09-08T19:00:00Z",
+    "home": "FC Porto",
+    "away": "Manchester City",
+    "score_str": "0 - 2",
+    "raw_total": 28.89,
+    "score": 22.2,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 18,
+      "tier2": 0.0,
+      "tier3": 10.39,
+      "tier4": 0.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "6106311": {
+    "match_id": "6106311",
+    "league": "Şampiyonlar Ligi",
+    "date": "2026-09-08T19:00:00Z",
+    "home": "Lille",
+    "away": "Real Betis",
+    "score_str": "2 - 3",
+    "raw_total": 57.77,
+    "score": 44.4,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 34,
+      "tier2": 15.0,
+      "tier3": 6.77,
+      "tier4": 2.0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "6106242": {
+    "match_id": "6106242",
+    "league": "Şampiyonlar Ligi",
+    "date": "2026-09-08T19:00:00Z",
+    "home": "Real Madrid",
+    "away": "Inter",
+    "score_str": "2 - 1",
+    "raw_total": 54.9,
+    "score": 42.2,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 18,
+      "tier2": 19.0,
+      "tier3": 14.9,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "6106264": {
+    "match_id": "6106264",
+    "league": "Şampiyonlar Ligi",
+    "date": "2026-09-09T16:45:00Z",
+    "home": "Barcelona",
+    "away": "Feyenoord",
+    "score_str": "5 - 1",
+    "raw_total": 60.12,
+    "score": 46.2,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 19.0,
+      "tier3": 5.12,
+      "tier4": 0,
+      "tier5": 28.0
+    },
+    "highlight": null
+  },
+  "6106400": {
+    "match_id": "6106400",
+    "league": "Şampiyonlar Ligi",
+    "date": "2026-09-09T16:45:00Z",
+    "home": "VfB Stuttgart",
+    "away": "Viking",
+    "score_str": "3 - 1",
+    "raw_total": 33.83,
+    "score": 26.0,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 24,
+      "tier2": 4.0,
+      "tier3": 4.83,
+      "tier4": 1.0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "6106246": {
+    "match_id": "6106246",
+    "league": "Şampiyonlar Ligi",
+    "date": "2026-09-09T19:00:00Z",
+    "home": "Liverpool",
+    "away": "Atlético Madrid",
+    "score_str": "2 - 1",
+    "raw_total": 50.91,
+    "score": 39.2,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 34,
+      "tier2": 3.0,
+      "tier3": 10.91,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "6106237": {
+    "match_id": "6106237",
+    "league": "Şampiyonlar Ligi",
+    "date": "2026-09-09T19:00:00Z",
+    "home": "Paris Saint-Germain",
+    "away": "Slovan Bratislava",
+    "score_str": "6 - 1",
+    "raw_total": 56.5,
+    "score": 43.5,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 11.0,
+      "tier3": 8,
+      "tier4": 1.5,
+      "tier5": 28
+    },
+    "highlight": null
+  },
+  "6106280": {
+    "match_id": "6106280",
+    "league": "Şampiyonlar Ligi",
+    "date": "2026-09-09T19:00:00Z",
+    "home": "Sporting CP",
+    "away": "Galatasaray",
+    "score_str": "3 - 1",
+    "raw_total": 50.36,
+    "score": 38.7,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 24,
+      "tier2": 16.0,
+      "tier3": 10.36,
+      "tier4": 0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "6106318": {
+    "match_id": "6106318",
+    "league": "Şampiyonlar Ligi",
+    "date": "2026-09-09T19:00:00Z",
+    "home": "Napoli",
+    "away": "Arsenal",
+    "score_str": "0 - 1",
+    "raw_total": 24.39,
+    "score": 18.8,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 18,
+      "tier2": 0.0,
+      "tier3": 6.39,
+      "tier4": 0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "6106331": {
+    "match_id": "6106331",
+    "league": "Şampiyonlar Ligi",
+    "date": "2026-09-10T16:45:00Z",
+    "home": "Fenerbahçe",
+    "away": "Roma",
+    "score_str": "1 - 1",
+    "raw_total": 51.25,
+    "score": 39.4,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 26,
+      "tier2": 15.0,
+      "tier3": 10.25,
+      "tier4": 0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "6106304": {
+    "match_id": "6106304",
+    "league": "Şampiyonlar Ligi",
+    "date": "2026-09-10T16:45:00Z",
+    "home": "PSV Eindhoven",
+    "away": "Shakhtar Donetsk",
+    "score_str": "1 - 1",
+    "raw_total": 38.4,
+    "score": 29.5,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 26,
+      "tier2": 0.0,
+      "tier3": 9.4,
+      "tier4": 3.0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "6106240": {
+    "match_id": "6106240",
+    "league": "Şampiyonlar Ligi",
+    "date": "2026-09-10T19:00:00Z",
+    "home": "Bayern München",
+    "away": "Bodø/Glimt",
+    "score_str": "5 - 0",
+    "raw_total": 58.84,
+    "score": 45.3,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 16.0,
+      "tier3": 3.64,
+      "tier4": 1.5,
+      "tier5": 29.7
+    },
+    "highlight": null
+  },
+  "6106411": {
+    "match_id": "6106411",
+    "league": "Şampiyonlar Ligi",
+    "date": "2026-09-10T19:00:00Z",
+    "home": "Como",
+    "away": "RB Leipzig",
+    "score_str": "4 - 1",
+    "raw_total": 50.77,
+    "score": 39.1,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 11.0,
+      "tier3": 3.84,
+      "tier4": 0,
+      "tier5": 27.93
+    },
+    "highlight": null
+  },
+  "6106293": {
+    "match_id": "6106293",
+    "league": "Şampiyonlar Ligi",
+    "date": "2026-09-10T19:00:00Z",
+    "home": "Manchester United",
+    "away": "Sabah FK",
+    "score_str": "4 - 0",
+    "raw_total": 45.95,
+    "score": 35.3,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 15.0,
+      "tier3": 3.45,
+      "tier4": 1.5,
+      "tier5": 18
+    },
+    "highlight": null
+  },
+  "6106392": {
+    "match_id": "6106392",
+    "league": "Şampiyonlar Ligi",
+    "date": "2026-09-10T19:00:00Z",
+    "home": "Slavia Prague",
+    "away": "Lens",
+    "score_str": "2 - 3",
+    "raw_total": 101.13,
+    "score": 77.8,
+    "badge": "Futbol Ziyafeti",
+    "boxed": true,
+    "tiers": {
+      "tier1": 59,
+      "tier2": 23.0,
+      "tier3": 16.13,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "6112383": {
+    "match_id": "6112383",
+    "league": "Avrupa Ligi",
+    "date": "2026-09-16T16:45:00Z",
+    "home": "Ararat Armenia",
+    "away": "Sparta Prague",
+    "score_str": "1 - 4",
+    "raw_total": 53.92,
+    "score": 41.5,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 15.0,
+      "tier3": 4.19,
+      "tier4": 3,
+      "tier5": 23.73
+    },
+    "highlight": null
+  },
+  "6112344": {
+    "match_id": "6112344",
+    "league": "Avrupa Ligi",
+    "date": "2026-09-16T16:45:00Z",
+    "home": "Omonia Nicosia",
+    "away": "Celta Vigo",
+    "score_str": "1 - 0",
+    "raw_total": 49.17,
+    "score": 37.8,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 33,
+      "tier2": 4.0,
+      "tier3": 9.17,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "6112254": {
+    "match_id": "6112254",
+    "league": "Avrupa Ligi",
+    "date": "2026-09-16T19:00:00Z",
+    "home": "Milan",
+    "away": "Benfica",
+    "score_str": "0 - 2",
+    "raw_total": 25.55,
+    "score": 19.7,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 4.0,
+      "tier3": 11.05,
+      "tier4": 2.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "6112310": {
+    "match_id": "6112310",
+    "league": "Avrupa Ligi",
+    "date": "2026-09-16T19:00:00Z",
+    "home": "Anderlecht",
+    "away": "Lyon",
+    "score_str": "1 - 2",
+    "raw_total": 50.93,
+    "score": 39.2,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 18,
+      "tier2": 15.0,
+      "tier3": 15.93,
+      "tier4": 2.0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "6112244": {
+    "match_id": "6112244",
+    "league": "Avrupa Ligi",
+    "date": "2026-09-16T19:00:00Z",
+    "home": "Bayer Leverkusen",
+    "away": "NK Celje",
+    "score_str": "2 - 0",
+    "raw_total": 40.97,
+    "score": 31.5,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 19.0,
+      "tier3": 12.97,
+      "tier4": 1.0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "6112363": {
+    "match_id": "6112363",
+    "league": "Avrupa Ligi",
+    "date": "2026-09-16T19:00:00Z",
+    "home": "Hapoel Beer Sheva",
+    "away": "Dinamo Zagreb",
+    "score_str": "0 - 0",
+    "raw_total": 23.3,
+    "score": 17.9,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 10,
+      "tier2": 4.0,
+      "tier3": 8.3,
+      "tier4": 1.0,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "6112268": {
+    "match_id": "6112268",
+    "league": "Avrupa Ligi",
+    "date": "2026-09-16T19:00:00Z",
+    "home": "Olympiacos",
+    "away": "Jagiellonia Białystok",
+    "score_str": "2 - 1",
+    "raw_total": 68.75,
+    "score": 52.9,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 49,
+      "tier2": 11.0,
+      "tier3": 5.75,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "6112315": {
+    "match_id": "6112315",
+    "league": "Avrupa Ligi",
+    "date": "2026-09-16T19:00:00Z",
+    "home": "Sturm Graz",
+    "away": "Rennes",
+    "score_str": "0 - 0",
+    "raw_total": 27.5,
+    "score": 21.2,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 10,
+      "tier2": 4.0,
+      "tier3": 12.0,
+      "tier4": 1.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "6112330": {
+    "match_id": "6112330",
+    "league": "Avrupa Ligi",
+    "date": "2026-09-16T19:00:00Z",
+    "home": "Sunderland",
+    "away": "AZ Alkmaar",
+    "score_str": "1 - 0",
+    "raw_total": 48.19,
+    "score": 37.1,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 18,
+      "tier2": 20.0,
+      "tier3": 7.19,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "6112379": {
+    "match_id": "6112379",
+    "league": "Avrupa Ligi",
+    "date": "2026-09-17T16:45:00Z",
+    "home": "Levski Sofia",
+    "away": "Salzburg",
+    "score_str": "0 - 1",
+    "raw_total": 40.83,
+    "score": 31.4,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 18,
+      "tier2": 11.0,
+      "tier3": 10.33,
+      "tier4": 1.5,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "6112373": {
+    "match_id": "6112373",
+    "league": "Avrupa Ligi",
+    "date": "2026-09-17T16:45:00Z",
+    "home": "OFI Crete",
+    "away": "Hoffenheim",
+    "score_str": "2 - 0",
+    "raw_total": 44.11,
+    "score": 33.9,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 18,
+      "tier2": 11.0,
+      "tier3": 12.11,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "6112354": {
+    "match_id": "6112354",
+    "league": "Avrupa Ligi",
+    "date": "2026-09-17T19:00:00Z",
+    "home": "Beşiktaş",
+    "away": "Marseille",
+    "score_str": "4 - 1",
+    "raw_total": 60.83,
+    "score": 46.8,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 24,
+      "tier2": 7.0,
+      "tier3": 5.07,
+      "tier4": 0,
+      "tier5": 24.77
+    },
+    "highlight": null
+  },
+  "6112299": {
+    "match_id": "6112299",
+    "league": "Avrupa Ligi",
+    "date": "2026-09-17T19:00:00Z",
+    "home": "Celtic",
+    "away": "Ferencváros",
+    "score_str": "1 - 3",
+    "raw_total": 51.94,
+    "score": 40.0,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 24,
+      "tier2": 11.0,
+      "tier3": 13.94,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "6112324": {
+    "match_id": "6112324",
+    "league": "Avrupa Ligi",
+    "date": "2026-09-17T19:00:00Z",
+    "home": "Crystal Palace",
+    "away": "Lech Poznań",
+    "score_str": "4 - 0",
+    "raw_total": 54.93,
+    "score": 42.3,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 16.0,
+      "tier3": 8,
+      "tier4": 2.5,
+      "tier5": 20.43
+    },
+    "highlight": null
+  },
+  "6112253": {
+    "match_id": "6112253",
+    "league": "Avrupa Ligi",
+    "date": "2026-09-17T19:00:00Z",
+    "home": "Juventus",
+    "away": "NEC Nijmegen",
+    "score_str": "5 - 0",
+    "raw_total": 39.2,
+    "score": 30.2,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 5.0,
+      "tier3": 6.2,
+      "tier4": 0,
+      "tier5": 20
+    },
+    "highlight": null
+  },
+  "6112377": {
+    "match_id": "6112377",
+    "league": "Avrupa Ligi",
+    "date": "2026-09-17T19:00:00Z",
+    "home": "Lillestrøm",
+    "away": "Torreense",
+    "score_str": "1 - 2",
+    "raw_total": 41.96,
+    "score": 32.3,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 18,
+      "tier2": 11.0,
+      "tier3": 9.96,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "6112272": {
+    "match_id": "6112272",
+    "league": "Avrupa Ligi",
+    "date": "2026-09-17T19:00:00Z",
+    "home": "Real Sociedad",
+    "away": "AFC Bournemouth",
+    "score_str": "1 - 2",
+    "raw_total": 45.46,
+    "score": 35.0,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 18,
+      "tier2": 15.0,
+      "tier3": 9.46,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": null
+  },
+  "6112283": {
+    "match_id": "6112283",
+    "league": "Avrupa Ligi",
+    "date": "2026-09-17T19:00:00Z",
+    "home": "Viktoria Plzeň",
+    "away": "Union St.Gilloise",
+    "score_str": "0 - 3",
+    "raw_total": 48.0,
+    "score": 36.9,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 11.0,
+      "tier3": 8,
+      "tier4": 0,
+      "tier5": 21
+    },
+    "highlight": null
+  }
+}
