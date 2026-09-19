@@ -380,10 +380,9 @@
 </div>
 
 <script>
-// Worth90 - veri data/matches.json'dan (ayni repo, ayni origin) fetch ile cekiliyor
+// Worth90 - veri data/matches.json'dan fetch ile çekiliyor
 let MATCHES = [];
 let leagues = [];
-let days = [];
 
 function badgeFor(score) {
   if (score < 30) return { tr: "Uyutabilir", color: "var(--dull)", boxed: false, stars: 0 };
@@ -417,20 +416,82 @@ let currentLeague = "all";
 let currentSort = "date";
 let expandedId = null;
 
+// Tarih Filtresi Kontrolü
+function isMatchInSelectedDateRange(matchDateStr, filterId) {
+  if (filterId === "all") return true;
+
+  // Tekil gün seçimi (YYYY-MM-DD)
+  if (filterId.match(/^\d{4}-\d{2}-\d{2}$/)) {
+    return dayKey(matchDateStr) === filterId;
+  }
+
+  const matchDate = new Date(matchDateStr);
+  const today = new Date();
+
+  // Last week
+  if (filterId === "last_week") {
+    const start = new Date(today);
+    start.setDate(today.getDate() - 14);
+    const end = new Date(today);
+    end.setDate(today.getDate() - 7);
+    return matchDate >= start && matchDate <= end;
+  }
+
+  // Last 30 days
+  if (filterId === "last_30_days") {
+    const past30 = new Date(today);
+    past30.setDate(today.getDate() - 30);
+    return matchDate >= past30;
+  }
+
+  // This month
+  if (filterId === "this_month") {
+    return matchDate.getFullYear() === today.getFullYear() &&
+           matchDate.getMonth() === today.getMonth();
+  }
+
+  return true;
+}
+
 function renderControls() {
   const dayFilter = document.getElementById("dayFilter");
   dayFilter.innerHTML = "";
-  const allChip = document.createElement("button");
-  allChip.className = "chip" + (currentDay === "all" ? " active" : "");
-  allChip.textContent = "Tümü";
-  allChip.onclick = () => { currentDay = "all"; render(); };
-  dayFilter.appendChild(allChip);
 
-  days.forEach(d => {
+  const today = new Date();
+  const dayNames = ["Pa", "Pzt", "Sa", "Çarş", "Per", "Cum", "Cmt"];
+
+  const filterOptions = [
+    { id: "all", label: "Tümü" }
+  ];
+
+  // Son 7 Gün
+  for (let i = 0; i < 7; i++) {
+    const d = new Date(today);
+    d.setDate(today.getDate() - i);
+    
+    const isoDate = d.toISOString().slice(0, 10);
+    const dayNum = d.getDate();
+
+    let label = "";
+    if (i === 0) label = `${dayNum} bugün`;
+    else if (i === 1) label = `${dayNum} dün`;
+    else label = `${dayNum} ${dayNames[d.getDay()]}`;
+
+    filterOptions.push({ id: isoDate, label: label });
+  }
+
+  // Özel Aralıklar
+  filterOptions.push(
+    { id: "last_week", label: "Last week" },
+    { id: "last_30_days", label: "Last 30 days" },
+    { id: "this_month", label: "This month" }
+  );
+
+  filterOptions.forEach(opt => {
     const chip = document.createElement("button");
-    chip.className = "chip" + (currentDay === d ? " active" : "");
-    chip.textContent = formatDate(d + "T00:00:00Z");
-    chip.onclick = () => { currentDay = d; render(); };
+    chip.className = "chip" + (currentDay === opt.id ? " active" : "");
+    chip.textContent = opt.label;
+    chip.onclick = () => { currentDay = opt.id; render(); };
     dayFilter.appendChild(chip);
   });
 
@@ -474,15 +535,15 @@ function renderAccordionPanel(m) {
   return `
     <div class="accordion-panel">
       <div class="accordion-inner">${inner}</div>
-
     </div>
   `;
 }
 
 function render() {
   renderControls();
+
   let filtered = MATCHES.filter(m =>
-    (currentDay === "all" || dayKey(m.date) === currentDay) &&
+    isMatchInSelectedDateRange(m.date, currentDay) &&
     (currentLeague === "all" || m.league === currentLeague)
   );
 
@@ -556,7 +617,6 @@ async function init() {
     const data = await resp.json();
     MATCHES = Object.values(data);
     leagues = [...new Set(MATCHES.map(m => m.league))].sort();
-    days = [...new Set(MATCHES.map(m => dayKey(m.date)))].sort();
     render();
   } catch (err) {
     list.innerHTML = `<div class="empty">Veri yüklenemedi: ${err.message}<br>data/matches.json dosyasının reponun kökündeki data/ klasöründe olduğundan emin ol.</div>`;
