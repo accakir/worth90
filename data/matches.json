@@ -6704,5 +6704,97 @@
     "highlight": {
       "Durum": "❌ TRT_SPOR kanalında 'Viktoria Plzeň - Union St.Gilloise' bulunamadı."
     }
+  },
+  "5795464": {
+    "match_id": "5795464",
+    "league": "Premier Lig",
+    "date": "2026-09-19T11:30:00.000Z",
+    "home": "Tottenham Hotspur",
+    "away": "Aston Villa",
+    "score_str": "2 - 3",
+    "raw_total": 39.35,
+    "score": 30.3,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 11.0,
+      "tier3": 17.35,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "BEIN_SPORTS_TR",
+      "Başlık": "Tottenham - Aston Villa | 5. Hafta MAÇ ÖZETİ | Premier League - 2026/27",
+      "URL": "https://www.youtube.com/watch?v=h8Q-dnv31-Q",
+      "Tarih": "2026-09-19T14:05:24Z"
+    }
+  },
+  "5868077": {
+    "match_id": "5868077",
+    "league": "La Liga",
+    "date": "2026-09-19T12:00:00.000Z",
+    "home": "Osasuna",
+    "away": "Rayo Vallecano",
+    "score_str": "1 - 1",
+    "raw_total": 37.87,
+    "score": 29.1,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 26,
+      "tier2": 3.0,
+      "tier3": 7.87,
+      "tier4": 1.0,
+      "tier5": 0
+    },
+    "highlight": {
+      "Durum": "❌ S_SPORT kanalında 'Osasuna - Rayo Vallecano' bulunamadı."
+    }
+  },
+  "5749682": {
+    "match_id": "5749682",
+    "league": "Serie A",
+    "date": "2026-09-19T13:00:00.000Z",
+    "home": "Bologna",
+    "away": "Torino",
+    "score_str": "1 - 1",
+    "raw_total": 35.6,
+    "score": 27.4,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 26,
+      "tier2": 0.0,
+      "tier3": 9.1,
+      "tier4": 0.5,
+      "tier5": 0
+    },
+    "highlight": {
+      "Durum": "❌ S_SPORT kanalında 'Bologna - Torino' bulunamadı."
+    }
+  },
+  "5749688": {
+    "match_id": "5749688",
+    "league": "Serie A",
+    "date": "2026-09-19T13:00:00.000Z",
+    "home": "Udinese",
+    "away": "Cagliari",
+    "score_str": "0 - 1",
+    "raw_total": 35.89,
+    "score": 27.6,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 18,
+      "tier2": 3.0,
+      "tier3": 11.89,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": {
+      "Durum": "❌ S_SPORT kanalında 'Udinese - Cagliari' bulunamadı."
+    }
   }
 }
