@@ -1,24 +1,35 @@
-
-name: Python Dosyasini Calistir
+name: Reset Highlights
 
 on:
-  workflow_dispatch: # Arayüzden manuel tetikleme butonu ekler
+  workflow_dispatch: {}  # Sadece Actions sekmesinden manuel butonla tetiklenir
+
+permissions:
+  contents: write
 
 jobs:
-  build:
+  reset:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      
-      - name: Python Kurulumu
-        uses: actions/setup-python@v4
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.10'
-          
-      - name: Kütüphaneleri Kur
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run reset highlights script
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: python reset_highlights.py
+
+      - name: Commit updated data
         run: |
-          python -m pip install --upgrade pip
-          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-          
-      - name: Kodu Çalıştır
-        run: python reset_highlights.py  # Çalıştırılacak .py dosyasının adı
+          git config user.name "worth90-bot"
+          git config user.email "actions@github.com"
+          git add data/matches.json
+          git diff --staged --quiet || git commit -m "chore: reset highlights in matches.json [skip ci]"
+          git push
