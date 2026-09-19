@@ -1,9 +1,9 @@
 name: Worth90 Scan
 
 on:
-  # schedule:
+  schedule:
     # Her 3 saatte bir çalışır (UTC). İhtiyaca göre sıklığı ayarlayabilirsin.
-    # - cron: "0 */3 * * *"
+    - cron: "0 */3 * * *"
   workflow_dispatch: {}  # Actions sekmesinden manuel tetiklemeye izin verir
 
 permissions:
