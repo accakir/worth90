@@ -153,7 +153,7 @@ def search_match_highlight_in_playlist(youtube, playlist_id: str, channel_label:
     return {"Durum": f"❌ '{team_a} - {team_b}' playlist'te bulunamadı."}
 
 
-def find_highlight_for_match(youtube, league_name: str, home: str, away: str, match_date_iso: str) -> dict | None:
+def find_highlight_for_match(youtube, league_name: str, home: str, away: str) -> dict | None:
     """İlgili ligin resmi özet playlist'inde arama yapar."""
     playlist_id = get_playlist_for_league(league_name)
     if playlist_id is None:
