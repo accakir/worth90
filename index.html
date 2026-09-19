@@ -416,17 +416,29 @@ let currentLeague = "all";
 let currentSort = "date";
 let expandedId = null;
 
+// Yardımcı Fonksiyon: Date objesini yerel tarihe göre YYYY-MM-DD formatına çevirir (UTC kaymasını önler)
+function getLocalDateString(dateObj) {
+  const year = dateObj.getFullYear();
+  const month = String(dateObj.getMonth() + 1).padStart(2, '0');
+  const day = String(dateObj.getDate()).padStart(2, '0');
+  return `${year}-${month}-${day}`;
+}
+
 // Tarih Filtresi Kontrolü
 function isMatchInSelectedDateRange(matchDateStr, filterId) {
   if (filterId === "all") return true;
 
+  // Maçın tarihini yerel zaman diliminde YYYY-MM-DD formatına getir
+  const matchDate = new Date(matchDateStr);
+  const matchLocalDateStr = getLocalDateString(matchDate);
+
   // Tekil gün seçimi (YYYY-MM-DD)
   if (filterId.match(/^\d{4}-\d{2}-\d{2}$/)) {
-    return dayKey(matchDateStr) === filterId;
+    return matchLocalDateStr === filterId;
   }
 
-  const matchDate = new Date(matchDateStr);
   const today = new Date();
+  today.setHours(0, 0, 0, 0);
 
   // Last week
   if (filterId === "last_week") {
@@ -457,19 +469,19 @@ function renderControls() {
   const dayFilter = document.getElementById("dayFilter");
   dayFilter.innerHTML = "";
 
-  const today = new Date();
+  const today = new Date(); // Artık yerel saati baz alacak
   const dayNames = ["Pa", "Pzt", "Sa", "Çarş", "Per", "Cum", "Cmt"];
 
   const filterOptions = [
     { id: "all", label: "Tümü" }
   ];
 
-  // Son 7 Gün
+  // Son 7 Gün (Yerel Saate Göre)
   for (let i = 0; i < 7; i++) {
     const d = new Date(today);
     d.setDate(today.getDate() - i);
     
-    const isoDate = d.toISOString().slice(0, 10);
+    const isoDate = getLocalDateString(d); // UTC yerine yerel tarih string'i kullanıyoruz
     const dayNum = d.getDate();
 
     let label = "";
