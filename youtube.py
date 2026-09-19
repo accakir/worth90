@@ -1,30 +1,35 @@
-"""Worth90 — yayıncı YouTube kanallarından maç özeti bulma."""
+"""Worth90 — yayıncı YouTube kanallarının resmi özet playlist'lerinden maç özeti bulma."""
 
-import datetime as dt
 import unicodedata
 from googleapiclient.discovery import build
 
-BROADCASTER_CHANNELS = {
-    "BEIN_SPORTS_TR": "UCPe9vNjHF1kEExT5kHwc7aw",
-    "S_SPORT": "UCpdSUUHlxMjO0c5824FGcsA",
-    "TRT_SPOR": "UCfYNqluOf8EbQkL44otydMw",
+# Her ligin, ilgili yayıncının resmi "sezon özetleri" playlist'i.
+# Playlist'ler zaten sadece o ligin özetlerine ayrılmış olduğu için hem daha
+# isabetli hem çok daha az kota harcıyor (tüm kanal geçmişini taramaya gerek yok).
+LEAGUE_PLAYLISTS: dict[str, str] = {
+    "Bundesliga": "PLVwTHtGF6Uwc",
+    "Serie A": "PLWi99Pdx7Qjo",
+    "La Liga": "PLc1u-zFXPFvA",
+    "Ligue 1": "PLN2uIXbY_9ZA",
+    "Premier Lig": "PLC-ntSjW5uvU",
+    "Süper Lig": "PLSBL5_PlWv-4",
+    "Avrupa Ligi": "PLOWxTUd8YsIs",
+    "Şampiyonlar Ligi": "PLQs_w-FaXbl0",
+    "Konferans Ligi": "PLFwIjFJS4so0",
 }
 
-# Hangi lig hangi kanalda özetleniyor
-LEAGUE_CHANNEL_MAP = {
-    "Premier Lig": "BEIN_SPORTS_TR",
-    "Ligue 1": "BEIN_SPORTS_TR",
-    "Süper Lig": "BEIN_SPORTS_TR",  # özetler 3-5 gün gecikmeli yükleniyor
+# Sadece gösterim/bilgi amaçlı: hangi lig hangi yayıncıya ait
+LEAGUE_CHANNEL_MAP: dict[str, str] = {
     "Bundesliga": "S_SPORT",
     "Serie A": "S_SPORT",
     "La Liga": "S_SPORT",
-    "Şampiyonlar Ligi": "TRT_SPOR",
+    "Ligue 1": "BEIN_SPORTS_TR",
+    "Premier Lig": "BEIN_SPORTS_TR",
+    "Süper Lig": "BEIN_SPORTS_TR",
     "Avrupa Ligi": "TRT_SPOR",
+    "Şampiyonlar Ligi": "TRT_SPOR",
     "Konferans Ligi": "TRT_SPOR",
 }
-
-# Süper Lig için, maç bitiminden bu kadar gün geçmeden arama yapılmaz (kota israfı olmasın diye)
-SUPER_LIG_DELAY_DAYS = 5
 
 HIGHLIGHT_KEYWORDS = ["ozet", "highlights", "goller", "mac ozeti"]
 JUNK_KEYWORDS = [
@@ -39,6 +44,9 @@ JUNK_KEYWORDS = [
 # farklı ad(lar). Bu sözlük sadece kelime-bazlı eşleşmenin YAKALAYAMADIĞI
 # gerçek farkları içeriyor (çoğu takım zaten ortak kelime sayesinde
 # otomatik eşleşiyor, örn. "Athletic Club" ~ "Athletic Bilbao").
+# NOT: İki takım adının da eşleşmesi şartı korunuyor -- playlist'e geçmek
+# tek-takım-adıyla arama yapmayı GÜVENLİ hale getirmiyor (Real Madrid/Betis/
+# Valladolid, Deportivo A Coruña/Alavés gibi çakışma riskleri hâlâ geçerli).
 TEAM_ALIASES: dict[str, list[str]] = {
     "Bayern München": ["Bayern Münih"],
     "Hamburger SV": ["Hamburg"],
@@ -86,35 +94,18 @@ def _match_team_name(team_input: str, title_clean: str) -> bool:
     return False
 
 
-def get_channel_for_league(league_name: str) -> str | None:
-    return LEAGUE_CHANNEL_MAP.get(league_name)
+def get_playlist_for_league(league_name: str) -> str | None:
+    return LEAGUE_PLAYLISTS.get(league_name)
 
 
-def is_ready_for_search(league_name: str, match_date_iso: str) -> bool:
-    """Süper Lig için gecikme süresini kontrol eder, diğer liglerde her zaman True döner."""
-    if league_name != "Süper Lig":
-        return True
-    try:
-        match_date = dt.datetime.fromisoformat(match_date_iso.replace("Z", "+00:00"))
-    except ValueError:
-        return True
-    now = dt.datetime.now(dt.timezone.utc)
-    return (now - match_date).days >= SUPER_LIG_DELAY_DAYS
-
-
-def search_match_highlight(youtube, channel_key: str, team_a: str, team_b: str) -> dict:
-    channel_id = BROADCASTER_CHANNELS.get(channel_key)
-    if not channel_id:
-        return {"Durum": "❌ Kanal anahtarı geçersiz."}
-
-    uploads_playlist_id = "UU" + channel_id[2:]
+def search_match_highlight_in_playlist(youtube, playlist_id: str, channel_label: str, team_a: str, team_b: str) -> dict:
     items = []
     next_page_token = None
 
-    # İlk 100 videoyu tara (2 birim kota)
-    for _ in range(2):
+    # Playlist'ler küçük (birkaç - birkaç düzine video), genelde 1-2 sayfa yeter
+    for _ in range(3):
         request = youtube.playlistItems().list(
-            playlistId=uploads_playlist_id,
+            playlistId=playlist_id,
             part="snippet",
             maxResults=50,
             pageToken=next_page_token,
@@ -139,11 +130,11 @@ def search_match_highlight(youtube, channel_key: str, team_a: str, team_b: str) 
             is_junk = any(junk in title_clean for junk in JUNK_KEYWORDS)
 
             if is_junk:
-                continue  # shorts, basketbol, röportaj vb. -- hiç aday olarak bile alma
+                continue
 
             video_data = {
                 "Durum": "✅ KESİN MAÇ ÖZETİ",
-                "Kanal": channel_key,
+                "Kanal": channel_label,
                 "Başlık": title,
                 "URL": f"https://www.youtube.com/watch?v={item['snippet']['resourceId']['videoId']}",
                 "Tarih": item["snippet"]["publishedAt"],
@@ -159,20 +150,17 @@ def search_match_highlight(youtube, channel_key: str, team_a: str, team_b: str) 
     if best_match:
         return best_match
 
-    return {"Durum": f"❌ {channel_key} kanalında '{team_a} - {team_b}' bulunamadı."}
+    return {"Durum": f"❌ '{team_a} - {team_b}' playlist'te bulunamadı."}
 
 
 def find_highlight_for_match(youtube, league_name: str, home: str, away: str, match_date_iso: str) -> dict | None:
-    """Lig -> kanal eşleşmesi + Süper Lig gecikme kontrolünü yapıp arama sonucunu döndürür.
-    None dönerse: henüz arama zamanı gelmedi (bekle, tekrar deneme)."""
-    channel_key = get_channel_for_league(league_name)
-    if channel_key is None:
-        return {"Durum": f"❌ {league_name} için kanal eşleşmesi tanımlı değil."}
+    """İlgili ligin resmi özet playlist'inde arama yapar."""
+    playlist_id = get_playlist_for_league(league_name)
+    if playlist_id is None:
+        return {"Durum": f"❌ {league_name} için playlist tanımlı değil."}
 
-    if not is_ready_for_search(league_name, match_date_iso):
-        return None  # henüz erken, scan.py bu maçı bu turda atlayacak
-
-    return search_match_highlight(youtube, channel_key, home, away)
+    channel_label = LEAGUE_CHANNEL_MAP.get(league_name, "?")
+    return search_match_highlight_in_playlist(youtube, playlist_id, channel_label, home, away)
 
 
 def build_youtube_client(api_key: str):

@@ -7,22 +7,35 @@ Tier 1–5 ağırlıklı bir formülle her maça 0–100 arası bir puan verir.
 
 ## YouTube özet araması
 
-`data/matches.json`'daki her maça, yayıncı kanalların uploads playlist'i
-taranarak eşleşen özet videosu ekleniyor (kota-dostu `playlistItems.list`
-kullanılıyor, `search.list` değil).
+`data/matches.json`'daki her maça, yayıncıların **resmi sezon özetleri
+playlist'i** taranarak eşleşen özet videosu ekleniyor (kota-dostu
+`playlistItems.list` kullanılıyor, `search.list` değil). Playlist'ler zaten
+sadece o ligin özetlerine ayrılmış olduğu için hem daha isabetli hem çok daha
+az kota harcıyor -- tüm kanal upload geçmişini taramaya gerek yok.
 
-Kanal eşleşmeleri (`youtube.py` içinde):
+Lig -> playlist eşleşmeleri (`youtube.py` içindeki `LEAGUE_PLAYLISTS`):
 
-| Lig | Kanal |
-|---|---|
-| Premier Lig, Ligue 1 | beIN Sports Türkiye |
-| Bundesliga, Serie A, La Liga | S Sport |
-| Şampiyonlar Ligi, Avrupa Ligi, Konferans Ligi | TRT Spor |
-| Süper Lig | beIN Sports Türkiye (3-5 gün gecikmeli, `SUPER_LIG_DELAY_DAYS`) |
+| Lig | Yayıncı | Playlist |
+|---|---|---|
+| Premier Lig | beIN Sports Türkiye | PLC-ntSjW5uvU |
+| Ligue 1 | beIN Sports Türkiye | PLN2uIXbY_9ZA |
+| Süper Lig | beIN Sports Türkiye | PLSBL5_PlWv-4 |
+| Bundesliga | S Sport | PLVwTHtGF6Uwc |
+| Serie A | S Sport | PLWi99Pdx7Qjo |
+| La Liga | S Sport | PLc1u-zFXPFvA |
+| Şampiyonlar Ligi | TRT Spor | PLQs_w-FaXbl0 |
+| Avrupa Ligi | TRT Spor | PLOWxTUd8YsIs |
+| Konferans Ligi | TRT Spor | PLFwIjFJS4so0 |
 
-Süper Lig maçları için `scan.py`, maç bitiminden `SUPER_LIG_DELAY_DAYS` gün
-geçmeden arama yapmaz (kota israfı olmasın diye); sonraki taramalarda
-otomatik tekrar dener.
+**Önemli:** Eşleştirme her zaman **iki takım adının da** aynı video
+başlığında geçmesini şart koşuyor -- playlist'e geçmek tek-takım-adıyla
+arama yapmayı güvenli hale getirmiyor (`Real` → Madrid/Betis/Valladolid,
+`Deportivo` → A Coruña/Alavés gibi çakışma riskleri hâlâ geçerli).
+
+Takım adı eşleştirmesi FotMob'un resmi adını kullanıyor; Türkçe kanalların
+farklı isimlendirdiği takımlar (`Bayern Münih`, `Marsilya`, `PSG` vb.)
+`youtube.py`'deki `TEAM_ALIASES` sözlüğünde tanımlı -- yeni bir uyuşmazlık
+fark edersen buraya ekleyebilirsin.
 
 ### Kurulum
 

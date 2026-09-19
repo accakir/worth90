@@ -111,11 +111,8 @@ def main() -> None:
 
         for entry in pending:
             result = find_highlight_for_match(
-                youtube, entry["league"], entry["home"], entry["away"], entry["date"]
+                youtube, entry["league"], entry["home"], entry["away"]
             )
-            if result is None:
-                continue  # Süper Lig gecikme süresi henüz dolmadı
-
             entry["highlight"] = result
             if "URL" in result:
                 total_highlights_found += 1
