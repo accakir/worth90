@@ -245,6 +245,31 @@
     font-size: 14px;
   }
 
+  .watch-external {
+    padding: 28px 16px;
+    text-align: center;
+  }
+
+  .watch-external p {
+    margin: 0 0 14px;
+    color: var(--text-dim);
+    font-size: 14px;
+  }
+
+  .watch-btn {
+    display: inline-block;
+    background: var(--chip-active-bg);
+    color: var(--chip-active-text);
+    padding: 10px 20px;
+    border-radius: 100px;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 600;
+    transition: opacity 0.15s;
+  }
+
+  .watch-btn:hover { opacity: 0.85; }
+
   .meta {
     grid-column: 1 / -1;
     font-size: 12px;
@@ -393,107 +418,22 @@ let currentLeague = "all";
 let currentSort = "date";
 let expandedId = null;
 
-// Filtreleme butonlarını oluşturan fonksiyon
 function renderControls() {
   const dayFilter = document.getElementById("dayFilter");
   dayFilter.innerHTML = "";
+  const allChip = document.createElement("button");
+  allChip.className = "chip" + (currentDay === "all" ? " active" : "");
+  allChip.textContent = "Tümü";
+  allChip.onclick = () => { currentDay = "all"; render(); };
+  dayFilter.appendChild(allChip);
 
-  // 1. Dinamik Filtre Seçeneklerini Tanımla
-  const today = new Date();
-  
-  // Yardımcı fonksiyon: Tarihi YYYY-MM-DD formatına çevirir
-  const toISODate = (date) => date.toISOString().split("T")[0];
-
-  // Gün isimleri dizisi (Kısa adlar)
-  const dayNames = ["Pa", "Pzt", "Sa", "Çar", "Per", "Cum", "Cmt"];
-
-  // Filtre Listesi
-  const filters = [
-    { id: "all", label: "Tümü" }
-  ];
-
-  // Son 7 Günü Ekleyelim (0: Bugün, 1: Dün, 2..6: Önceki günler)
-  for (let i = 0; i < 7; i++) {
-    const d = new Date(today);
-    d.setDate(today.getDate() - i);
-    const dateStr = toISODate(d);
-    const dayNum = d.getDate();
-
-    let label = "";
-    if (i === 0) {
-      label = `${dayNum} bugün`;
-    } else if (i === 1) {
-      label = `${dayNum} dün`;
-    } else {
-      label = `${dayNum} ${dayNames[d.getDay()]}`;
-    }
-
-    filters.push({ id: dateStr, label: label, type: "single_day" });
-  }
-
-  // Özel Aralık Filtreleri
-  filters.push(
-    { id: "last_week", label: "Geçen Hafta", type: "range" },
-    { id: "last_30_days", label: "Son 30 Gün", type: "range" },
-    { id: "this_month", label: "Bu Ay", type: "range" }
-  );
-
-  // 2. Butonları DOM'a Ekle
-  filters.forEach(f => {
+  days.forEach(d => {
     const chip = document.createElement("button");
-    chip.className = "chip" + (currentDay === f.id ? " active" : "");
-    chip.textContent = f.label;
-    chip.onclick = () => {
-      currentDay = f.id;
-      render();
-    };
+    chip.className = "chip" + (currentDay === d ? " active" : "");
+    chip.textContent = formatDate(d + "T00:00:00Z");
+    chip.onclick = () => { currentDay = d; render(); };
     dayFilter.appendChild(chip);
   });
-}
-
-// Render sırasında maçları filtreleyen yardımcı fonksiyon (Örnek Kullanım)
-function filterMatchesByDay(matches) {
-  if (!currentDay || currentDay === "all") return matches;
-
-  const today = new Date();
-  const toISODate = (d) => d.toISOString().split("T")[0];
-
-  // Tek bir gün seçildiyse (YYYY-MM-DD)
-  if (currentDay.match(/^\d{4}-\d{2}-\d{2}$/)) {
-    return matches.filter(m => m.date.startsWith(currentDay));
-  }
-
-  // "Geçen Hafta" seçildiyse (Son 7 ile 14 gün arası)
-  if (currentDay === "last_week") {
-    const start = new Date(today);
-    start.setDate(today.getDate() - 14);
-    const end = new Date(today);
-    end.setDate(today.getDate() - 7);
-    return matches.filter(m => {
-      const mDate = new Date(m.date);
-      return mDate >= start && mDate <= end;
-    });
-  }
-
-  // "Son 30 Gün" seçildiyse
-  if (currentDay === "last_30_days") {
-    const past30 = new Date(today);
-    past30.setDate(today.getDate() - 30);
-    return matches.filter(m => new Date(m.date) >= past30);
-  }
-
-  // "Bu Ay" seçildiyse
-  if (currentDay === "this_month") {
-    const currentYear = today.getFullYear();
-    const currentMonth = today.getMonth();
-    return matches.filter(m => {
-      const mDate = new Date(m.date);
-      return mDate.getFullYear() === currentYear && mDate.getMonth() === currentMonth;
-    });
-  }
-
-  return matches;
-}
 
   const leagueSelect = document.getElementById("leagueFilter");
   leagueSelect.innerHTML = '<option value="all">Tüm Ligler</option>' +
@@ -517,7 +457,9 @@ function renderAccordionPanel(m) {
   let inner;
   if (hl && hl.URL) {
     const videoId = extractYoutubeId(hl.URL);
-    if (videoId) {
+    if (!videoId) {
+      inner = `<div class="no-highlight">Özet linki bulundu ama video ID okunamadı.</div>`;
+    } else {
       inner = `
         <div class="video-frame-wrap">
           <iframe src="https://www.youtube.com/embed/${videoId}"
@@ -526,8 +468,6 @@ function renderAccordionPanel(m) {
                   allowfullscreen></iframe>
         </div>
       `;
-    } else {
-      inner = `<div class="no-highlight">Özet linki bulundu ama video ID okunamadı.</div>`;
     }
   } else {
     inner = `<div class="no-highlight">Bu maç için özet henüz bulunamadı.</div>`;
@@ -535,6 +475,7 @@ function renderAccordionPanel(m) {
   return `
     <div class="accordion-panel">
       <div class="accordion-inner">${inner}</div>
+
     </div>
   `;
 }
