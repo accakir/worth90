@@ -1,6 +1,7 @@
 """Worth90 — yayıncı YouTube kanallarından maç özeti bulma."""
 
 import datetime as dt
+import unicodedata
 from googleapiclient.discovery import build
 
 BROADCASTER_CHANNELS = {
@@ -29,11 +30,31 @@ HIGHLIGHT_KEYWORDS = ["ozet", "highlights", "goller", "mac ozeti"]
 JUNK_KEYWORDS = [
     "canli", "mac sonu", "devre arasi", "trio",
     "aktuel futbol", "iptal edilen", "kafa goli", "aciklamalari",
+    "shorts", "short", "basketbol", "basket", "voleybol",
+    "roportaj", "soylesi", "aciklama", "flas",
 ]
 
 
+# FotMob'daki resmi takım adı -> Türkçe yayıncı kanallarının kullandığı
+# farklı ad(lar). Bu sözlük sadece kelime-bazlı eşleşmenin YAKALAYAMADIĞI
+# gerçek farkları içeriyor (çoğu takım zaten ortak kelime sayesinde
+# otomatik eşleşiyor, örn. "Athletic Club" ~ "Athletic Bilbao").
+TEAM_ALIASES: dict[str, list[str]] = {
+    "Bayern München": ["Bayern Münih"],
+    "Hamburger SV": ["Hamburg"],
+    "Marseille": ["Marsilya"],
+    "Paris Saint-Germain": ["PSG"],
+    "Bodø/Glimt": ["Bodo Glimt"],
+    "Union St.Gilloise": ["Gilloise", "U.S Gilloise"],
+    "Amed Sportif": ["Amed SF"],
+    "Olympiacos": ["Olympiakos"],
+}
+
+
 def _clean_text(text: str) -> str:
-    return (
+    # Önce Türkçe'ye özgü karakterleri elle çeviriyoruz çünkü unicodedata
+    # bunları bazen yanlış / eksik decompose ediyor (ı, ğ, ş gibi).
+    text = (
         text.lower()
         .replace("ı", "i")
         .replace("ğ", "g")
@@ -42,11 +63,27 @@ def _clean_text(text: str) -> str:
         .replace("ö", "o")
         .replace("ç", "c")
     )
+    # Sonra genel aksan temizliği: é->e, ü(diğer diller)->u, ñ->n, vs.
+    text = unicodedata.normalize("NFKD", text)
+    text = "".join(ch for ch in text if not unicodedata.combining(ch))
+    # NFKD'nin çözemediği özel harfler (İskandinav vb.)
+    text = (
+        text.replace("ø", "o")
+        .replace("æ", "ae")
+        .replace("þ", "th")
+        .replace("ß", "ss")
+        .replace("đ", "d")
+    )
+    return text
 
 
 def _match_team_name(team_input: str, title_clean: str) -> bool:
-    words = [_clean_text(w) for w in team_input.split() if len(w) > 2]
-    return any(word in title_clean for word in words)
+    candidates = [team_input] + TEAM_ALIASES.get(team_input, [])
+    for candidate in candidates:
+        words = [_clean_text(w) for w in candidate.split() if len(w) > 2]
+        if any(word in title_clean for word in words):
+            return True
+    return False
 
 
 def get_channel_for_league(league_name: str) -> str | None:
@@ -89,7 +126,6 @@ def search_match_highlight(youtube, channel_key: str, team_a: str, team_b: str) 
             break
 
     best_match = None
-    backup_match = None
 
     for item in items:
         title = item["snippet"]["title"]
@@ -102,6 +138,9 @@ def search_match_highlight(youtube, channel_key: str, team_a: str, team_b: str) 
             has_kw = any(kw in title_clean for kw in HIGHLIGHT_KEYWORDS)
             is_junk = any(junk in title_clean for junk in JUNK_KEYWORDS)
 
+            if is_junk:
+                continue  # shorts, basketbol, röportaj vb. -- hiç aday olarak bile alma
+
             video_data = {
                 "Durum": "✅ KESİN MAÇ ÖZETİ",
                 "Kanal": channel_key,
@@ -110,20 +149,15 @@ def search_match_highlight(youtube, channel_key: str, team_a: str, team_b: str) 
                 "Tarih": item["snippet"]["publishedAt"],
             }
 
-            if has_kw and not is_junk:
+            if has_kw:
                 return video_data
 
-            if not is_junk and not best_match:
+            if not best_match:
+                video_data["Durum"] = "⚡ MUHTEMEL EŞLEŞME"
                 best_match = video_data
-
-            if not backup_match:
-                backup_match = video_data
 
     if best_match:
         return best_match
-    if backup_match:
-        backup_match["Durum"] = "⚡ YEDEK İÇERİK"
-        return backup_match
 
     return {"Durum": f"❌ {channel_key} kanalında '{team_a} - {team_b}' bulunamadı."}
 
