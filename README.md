@@ -37,6 +37,32 @@ otomatik tekrar dener.
 `YOUTUBE_API_KEY` tanımlı değilse `scan.py` özet aramasını atlar, sadece
 puanlama çalışır (hata vermez).
 
+## Arayüz (GitHub Pages)
+
+`index.html`, `data/matches.json`'u aynı repodan (`fetch("data/matches.json")`)
+çalışma zamanında çeker — GitHub Pages'te aynı origin'den servis edildiği için
+canlı çalışır, ayrı bir hosting veya build adımına gerek yok.
+
+### Kurulum
+
+1. Repo → Settings → Pages
+2. "Build and deployment" → Source: **Deploy from a branch**
+3. Branch: `main`, klasör: `/ (root)`
+4. Kaydet, birkaç dakika sonra `https://<kullanici-adi>.github.io/worth90/` üzerinden erişilebilir
+
+`scan.py` her çalıştığında `data/matches.json`'u güncelleyip commit'liyor;
+Pages de bu commit'i otomatik yeniden yayınlıyor, ekstra bir işlem gerekmez.
+
+### Davranış notları
+
+- Sayfa açılışında hiçbir video aranmaz/yüklenmez.
+- Bir maç satırına tıklanınca sadece o satır akordeon gibi açılır ve
+  `data/matches.json`'daki `highlight.URL` alanına bakar (canlı arama yapmaz,
+  zaten `scan.py`'nin önceden bulduğu sonucu gösterir).
+- `highlight` boşsa "özet henüz bulunamadı" mesajı gösterilir.
+- Aynı anda tek satır açık kalır; başka bir satıra tıklanınca öncekinin
+  video embed'i kaldırılır (DOM'dan tamamen siliniyor, arka planda yüklü kalmıyor).
+
 ## Kurulum
 
 ```bash
@@ -74,10 +100,12 @@ elle de tetikleyebilirsin.
 ## Dosya yapısı
 
 ```
+index.html     -> Arayüz (GitHub Pages) - data/matches.json'u fetch ile çeker
 score.py       -> Puanlama formülü (Tier 1-5) + FotMob'dan maç verisi çekme
 leagues.py     -> Takip edilen ligler ve FotMob leagueId'leri
 fixtures.py    -> Bir ligin fikstürünü/bitmiş maçlarını çekme
-scan.py        -> Orkestratör: ligleri gez, yeni maçları puanla, JSON'a yaz
+youtube.py     -> Yayıncı YouTube kanallarından maç özeti bulma
+scan.py        -> Orkestratör: ligleri gez, yeni maçları puanla, özet ara, JSON'a yaz
 data/matches.json -> Puanlanmış tüm maçların biriktiği veri dosyası
 .github/workflows/scan.yml -> Cron job tanımı
 ```
