@@ -117,10 +117,12 @@ index.html     -> Arayüz (GitHub Pages) - data/matches.json'u fetch ile çeker
 score.py       -> Puanlama formülü (Tier 1-5) + FotMob'dan maç verisi çekme
 leagues.py     -> Takip edilen ligler ve FotMob leagueId'leri
 fixtures.py    -> Bir ligin fikstürünü/bitmiş maçlarını çekme
-youtube.py     -> Yayıncı YouTube kanallarından maç özeti bulma
+youtube.py     -> Yayıncı YouTube kanallarının resmi özet playlist'lerinden maç özeti bulma
 scan.py        -> Orkestratör: ligleri gez, yeni maçları puanla, özet ara, JSON'a yaz
+reset_highlights.py -> Tüm highlight alanlarını sıfırlayıp yeniden aratmak için (tek seferlik)
 data/matches.json -> Puanlanmış tüm maçların biriktiği veri dosyası
 .github/workflows/scan.yml -> Cron job tanımı
+METHODOLOGY.md -> Puanlama formülünün her bileşeninin gerekçesi
 ```
 
 ## Notlar
@@ -131,8 +133,5 @@ data/matches.json -> Puanlanmış tüm maçların biriktiği veri dosyası
 - `calculate_score_safe`, art arda isteklerde 2 saniyelik bekleme uygular
   (rate-limit/ban riskini azaltmak için). Büyük hacimde tarama yavaş
   olacaktır, bu bilinçli bir tercih.
-- Formülün tier ağırlıkları ve normalize bölümü (130) hakkındaki
-  gerekçeler için sohbet geçmişine bakılabilir; kısaca: Tier 1 sonuç
-  belirsizliğini, Tier 2 kıl payı anları, Tier 3 kalite/çekişmeyi, Tier 4
-  tansiyonu, Tier 5 ise 3+ farklı galibiyetlerde "dominasyon kalitesini"
-  ölçer ve sadece o durumda aktif olur.
+- Formülün her bileşeninin **neden** o ağırlığı/eşiği aldığına dair
+  ayrıntılı gerekçe için **[METHODOLOGY.md](./METHODOLOGY.md)**'ye bak.

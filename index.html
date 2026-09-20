@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="tr">
+<html lang="tr" data-theme="dark">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -9,23 +9,6 @@
 <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;700;900&family=Source+Sans+3:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
   :root {
-      color-scheme: dark;
-    --bg: #0F1613;
-    --surface: #172019;
-    --surface-hover: #1D2721;
-    --line: #26332C;
-    --text: #F5F3EE;
-    --text-dim: #8B978C;
-    --gold: #D4A24C;
-    --gold-dim: #6B5730;
-    --dull: #4A5550;
-    --good: #7FB88A;
-    --tarihegecer: #E4EBFB;
-    --chip-active-bg: #F5F3EE;
-    --chip-active-text: #0F1613;
-  }
-
-  :root[data-theme="light"] {
     color-scheme: light;
     --bg: #F2F2F2;
     --surface: #E7E2D5;
@@ -40,6 +23,23 @@
     --tarihegecer: #091840;
     --chip-active-bg: #1B211C;
     --chip-active-text: #F1EEE5;
+  }
+
+  :root[data-theme="dark"] {
+    color-scheme: dark;
+    --bg: #0F1613;
+    --surface: #172019;
+    --surface-hover: #1D2721;
+    --line: #26332C;
+    --text: #F5F3EE;
+    --text-dim: #8B978C;
+    --gold: #D4A24C;
+    --gold-dim: #6B5730;
+    --dull: #4A5550;
+    --good: #7FB88A;
+    --tarihegecer: #E4EBFB;
+    --chip-active-bg: #F5F3EE;
+    --chip-active-text: #0F1613;
   }
 
   * { box-sizing: border-box; }
@@ -332,6 +332,7 @@
   .stars-above span {
     font-size: 30px;
     line-height: 1;
+    filter: drop-shadow(0 1px 1px rgba(0,0,0,0.25));
   }
 
   .badge {
@@ -359,7 +360,7 @@
       <h1>Worth90</h1>
       <p>Futbol maçları için istatistiklere dayalı, heyecan &amp; keyif puanı hesaplamaya çalışan deneysel bir çalışma.</p>
     </header>
-    <button class="theme-toggle" id="themeToggle" aria-label="Tema değiştir">☀️</button>
+    <button class="theme-toggle" id="themeToggle" aria-label="Tema değiştir">🌙</button>
   </div>
 
   <div class="controls">
@@ -398,10 +399,6 @@ function formatDate(iso) {
   return d.toLocaleDateString("tr-TR", { day: "numeric", month: "short" });
 }
 
-function dayKey(iso) {
-  return iso.slice(0, 10);
-}
-
 function extractYoutubeId(url) {
   try {
     const u = new URL(url);
@@ -424,6 +421,16 @@ function getLocalDateString(dateObj) {
   return `${year}-${month}-${day}`;
 }
 
+// Haftanın Pazartesi'sini döndürür (saat 00:00)
+function startOfWeek(d) {
+  const date = new Date(d);
+  date.setHours(0, 0, 0, 0);
+  const day = date.getDay(); // 0 Pazar .. 6 Cumartesi
+  const diff = day === 0 ? -6 : 1 - day;
+  date.setDate(date.getDate() + diff);
+  return date;
+}
+
 // Tarih Filtresi Kontrolü
 function isMatchInSelectedDateRange(matchDateStr, filterId) {
   if (filterId === "all") return true;
@@ -440,23 +447,30 @@ function isMatchInSelectedDateRange(matchDateStr, filterId) {
   const today = new Date();
   today.setHours(0, 0, 0, 0);
 
-  // Last week
-  if (filterId === "last_week") {
-    const start = new Date(today);
-    start.setDate(today.getDate() - 14);
-    const end = new Date(today);
-    end.setDate(today.getDate() - 7);
-    return matchDate >= start && matchDate <= end;
+  // Bu hafta (Pazartesi - Pazar)
+  if (filterId === "this_week") {
+    const start = startOfWeek(today);
+    const end = new Date(start);
+    end.setDate(start.getDate() + 7);
+    return matchDate >= start && matchDate < end;
   }
 
-  // Last 30 days
+  // Son hafta (bir önceki Pazartesi - Pazar)
+  if (filterId === "last_week") {
+    const thisStart = startOfWeek(today);
+    const start = new Date(thisStart);
+    start.setDate(thisStart.getDate() - 7);
+    return matchDate >= start && matchDate < thisStart;
+  }
+
+  // Son 30 gün
   if (filterId === "last_30_days") {
     const past30 = new Date(today);
     past30.setDate(today.getDate() - 30);
     return matchDate >= past30;
   }
 
-  // This month
+  // Bu ay
   if (filterId === "this_month") {
     return matchDate.getFullYear() === today.getFullYear() &&
            matchDate.getMonth() === today.getMonth();
@@ -469,34 +483,35 @@ function renderControls() {
   const dayFilter = document.getElementById("dayFilter");
   dayFilter.innerHTML = "";
 
-  const today = new Date(); // Artık yerel saati baz alacak
+  const today = new Date(); // yerel saati baz alır
   const dayNames = ["Pa", "Pzt", "Sa", "Çarş", "Per", "Cum", "Cmt"];
 
   const filterOptions = [
     { id: "all", label: "Tümü" }
   ];
 
-  // Son 7 Gün (Yerel Saate Göre)
+  // Son 7 gün (yerel saate göre)
   for (let i = 0; i < 7; i++) {
     const d = new Date(today);
     d.setDate(today.getDate() - i);
-    
-    const isoDate = getLocalDateString(d); // UTC yerine yerel tarih string'i kullanıyoruz
+
+    const isoDate = getLocalDateString(d);
     const dayNum = d.getDate();
 
     let label = "";
-    if (i === 0) label = `${dayNum} bugün`;
-    else if (i === 1) label = `${dayNum} dün`;
+    if (i === 0) label = `${dayNum} Bugün`;
+    else if (i === 1) label = `${dayNum} Dün`;
     else label = `${dayNum} ${dayNames[d.getDay()]}`;
 
     filterOptions.push({ id: isoDate, label: label });
   }
 
-  // Özel Aralıklar
+  // Geniş aralıklar
   filterOptions.push(
-    { id: "last_week", label: "Last week" },
-    { id: "last_30_days", label: "Last 30 days" },
-    { id: "this_month", label: "This month" }
+    { id: "this_week", label: "Bu Hafta" },
+    { id: "last_week", label: "Son Hafta" },
+    { id: "last_30_days", label: "Son 30 Gün" },
+    { id: "this_month", label: "Bu Ay" }
   );
 
   filterOptions.forEach(opt => {
