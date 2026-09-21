@@ -8150,5 +8150,153 @@
     "highlight": {
       "Durum": "❌ 'Fenerbahçe - Eyüpspor' playlist'te bulunamadı."
     }
+  },
+  "5868074": {
+    "match_id": "5868074",
+    "league": "La Liga",
+    "date": "2026-09-20T16:30:00Z",
+    "home": "Deportivo A Coruña",
+    "away": "Real Betis",
+    "score_str": "1 - 1",
+    "raw_total": 71.27,
+    "score": 54.8,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "tiers": {
+      "tier1": 41,
+      "tier2": 15.0,
+      "tier3": 12.27,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "S_SPORT",
+      "Başlık": "Deportivo - Real Betis - Maç Özeti - LaLiga 2026/27",
+      "URL": "https://www.youtube.com/watch?v=uyhQpHpKXlA",
+      "Tarih": "2026-09-20T21:03:25Z"
+    }
+  },
+  "5868080": {
+    "match_id": "5868080",
+    "league": "La Liga",
+    "date": "2026-09-20T16:30:00Z",
+    "home": "Villarreal",
+    "away": "Levante",
+    "score_str": "3 - 1",
+    "raw_total": 46.6,
+    "score": 35.8,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 34,
+      "tier2": 11.0,
+      "tier3": 0.6,
+      "tier4": 1.0,
+      "tier5": 0
+    },
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "S_SPORT",
+      "Başlık": "Villarreal - Levante - Maç Özeti - LaLiga 2026/27",
+      "URL": "https://www.youtube.com/watch?v=NtbkYji_MpM",
+      "Tarih": "2026-09-20T18:50:28Z"
+    }
+  },
+  "5868079": {
+    "match_id": "5868079",
+    "league": "La Liga",
+    "date": "2026-09-20T19:00:00Z",
+    "home": "Valencia",
+    "away": "Real Sociedad",
+    "score_str": "2 - 3",
+    "raw_total": 90.51,
+    "score": 69.6,
+    "badge": "Tatmin Edici",
+    "boxed": true,
+    "tiers": {
+      "tier1": 59,
+      "tier2": 16.0,
+      "tier3": 12.51,
+      "tier4": 3,
+      "tier5": 0
+    },
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "S_SPORT",
+      "Başlık": "Valencia - Real Sociedad - Maç Özeti - LaLiga 2026/27",
+      "URL": "https://www.youtube.com/watch?v=CLk-Hpn-wpI",
+      "Tarih": "2026-09-20T21:21:03Z"
+    }
+  },
+  "5749680": {
+    "match_id": "5749680",
+    "league": "Serie A",
+    "date": "2026-09-20T18:45:00Z",
+    "home": "Milan",
+    "away": "Lecce",
+    "score_str": "3 - 0",
+    "raw_total": 26.26,
+    "score": 20.2,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 0.0,
+      "tier3": 0.83,
+      "tier4": 0,
+      "tier5": 17.43
+    },
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "S_SPORT",
+      "Başlık": "AC Milan - Lecce - Maç Özeti - Serie A 2026/27",
+      "URL": "https://www.youtube.com/watch?v=a6AvFPHkgK4",
+      "Tarih": "2026-09-20T21:10:42Z"
+    }
+  },
+  "5904752": {
+    "match_id": "5904752",
+    "league": "Süper Lig",
+    "date": "2026-09-20T17:00:00Z",
+    "home": "Amed Sportif",
+    "away": "Beşiktaş",
+    "score_str": "3 - 2",
+    "raw_total": 44.3,
+    "score": 34.1,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "tiers": {
+      "tier1": 8,
+      "tier2": 12.0,
+      "tier3": 15.8,
+      "tier4": 8.5,
+      "tier5": 0
+    },
+    "highlight": {
+      "Durum": "❌ 'Amed Sportif - Beşiktaş' playlist'te bulunamadı."
+    }
+  },
+  "5904753": {
+    "match_id": "5904753",
+    "league": "Süper Lig",
+    "date": "2026-09-20T17:00:00Z",
+    "home": "Göztepe",
+    "away": "Rizespor",
+    "score_str": "2 - 2",
+    "raw_total": 87.0,
+    "score": 66.9,
+    "badge": "Tatmin Edici",
+    "boxed": true,
+    "tiers": {
+      "tier1": 59,
+      "tier2": 16.0,
+      "tier3": 11.5,
+      "tier4": 0.5,
+      "tier5": 0
+    },
+    "highlight": {
+      "Durum": "❌ 'Göztepe - Rizespor' playlist'te bulunamadı."
+    }
   }
 }
