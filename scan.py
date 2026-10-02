@@ -4,12 +4,13 @@ Worth90 — ana tarama scripti.
 Yapılanlar:
 1. leagues.py'deki her lig için bitmiş maçları çeker
 2. data/matches.json'da zaten olmayan (yeni biten) maçları bulur
-3. Her yeni maç için score.py ile puan hesaplar
+3. Her yeni maç için score.py ile Drama/Dominasyon puanını hesaplar
 4. Sonucu data/matches.json'a ekleyip kaydeder
+5. highlight'ı hâlâ eksik olan maçlar için YouTube'da özet arar
 
 GitHub Actions'tan cron ile periyodik çalıştırılmak üzere tasarlandı.
-İstekler arasına kasıtlı bekleme (score.py -> calculate_score_safe) eklidir,
-bu yüzden büyük hacimlerde YAVAŞ çalışır -- bu bilinçli bir tercih (ban riskini azaltmak için).
+İstekler arasına kasıtlı bekleme eklidir (score.py -> calculate_score_safe),
+bu yüzden büyük hacimlerde YAVAŞ çalışır -- bu bilinçli bir tercih.
 """
 
 import json
@@ -42,7 +43,7 @@ def _highlight_missing(entry: dict) -> bool:
     h = entry.get("highlight")
     if h is None:
         return True
-    return "URL" not in h  # sadece bulunan videoların URL'si var
+    return "URL" not in h
 
 
 def main() -> None:
@@ -88,23 +89,20 @@ def main() -> None:
                 "home": m["home"]["name"],
                 "away": m["away"]["name"],
                 "score_str": m["status"].get("scoreStr", ""),
-                "raw_total": result["raw_total"],
+                "goal_diff": result["goal_diff"],
+                "drama_raw": result["drama_raw"],
+                "drama_score": result["drama_score"],
+                "domination_raw": result["domination_raw"],
+                "domination_score": result["domination_score"],
                 "score": result["score"],
                 "badge": badge["tr"],
                 "boxed": badge["boxed"],
-                "tiers": {
-                    "tier1": result["tier1"],
-                    "tier2": result["tier2"],
-                    "tier3": result["tier3"],
-                    "tier4": result["tier4"],
-                    "tier5": result["tier5"],
-                },
                 "highlight": None,
             }
             total_new += 1
             existing_ids.add(match_id)
 
-    # --- Özet araması: yeni + daha önce bulunamamış maçlar için ---
+    # --- Özet araması: highlight'ı hâlâ eksik olan tüm maçlar için ---
     if youtube is not None:
         pending = [e for e in existing.values() if _highlight_missing(e)]
         print(f"\n[ÖZET ARA] {len(pending)} maç için özet aranacak")

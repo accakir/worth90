@@ -2,8 +2,10 @@
 
 Futbol maçları için istatistiklere dayalı, heyecan & keyif puanı hesaplamaya
 çalışan deneysel bir çalışma. FotMob'un açık (dökümante edilmemiş) JSON
-uçlarından beslenir; kart, penaltı, direk, xG/xGOT, possession gibi verilerle
-Tier 1–5 ağırlıklı bir formülle her maça 0–100 arası bir puan verir.
+uçlarından beslenir; kart, penaltı, direk, xG, possession gibi verilerle,
+600 kişilik bir ankete dayanan **Drama** ve **Dominasyon** formülleriyle
+her maça 0–100 arası bir puan verir. Detaylar için
+**[METHODOLOGY.md](./METHODOLOGY.md)**.
 
 ## YouTube özet araması
 
@@ -114,15 +116,15 @@ elle de tetikleyebilirsin.
 
 ```
 index.html     -> Arayüz (GitHub Pages) - data/matches.json'u fetch ile çeker
-score.py       -> Puanlama formülü (Tier 1-5) + FotMob'dan maç verisi çekme
+score.py       -> Puanlama formülü (Drama + Dominasyon, v2) + FotMob'dan maç verisi çekme
 leagues.py     -> Takip edilen ligler ve FotMob leagueId'leri
-fixtures.py    -> Bir ligin fikstürünü/bitmiş maçlarını çekme
+fixtures.py    -> Bir ligin fikstürünü çekme
 youtube.py     -> Yayıncı YouTube kanallarının resmi özet playlist'lerinden maç özeti bulma
-scan.py        -> Orkestratör: ligleri gez, yeni maçları puanla, özet ara, JSON'a yaz
+scan.py        -> Orkestratör: ligleri gez, (yeniden) puanla, özet ara, JSON'a yaz
 reset_highlights.py -> Tüm highlight alanlarını sıfırlayıp yeniden aratmak için (tek seferlik)
 data/matches.json -> Puanlanmış tüm maçların biriktiği veri dosyası
 .github/workflows/scan.yml -> Cron job tanımı
-METHODOLOGY.md -> Puanlama formülünün her bileşeninin gerekçesi
+METHODOLOGY.md -> Puanlama formülünün her bileşeninin gerekçesi (anket verisi dahil)
 ```
 
 ## Notlar
@@ -135,3 +137,10 @@ METHODOLOGY.md -> Puanlama formülünün her bileşeninin gerekçesi
   olacaktır, bu bilinçli bir tercih.
 - Formülün her bileşeninin **neden** o ağırlığı/eşiği aldığına dair
   ayrıntılı gerekçe için **[METHODOLOGY.md](./METHODOLOGY.md)**'ye bak.
+- `score.py`'de `FORMULA_VERSION` değiştiğinde (formül güncellenince),
+  `scan.py` bir sonraki çalıştırmasında **tüm geçmiş maçları otomatik
+  olarak yeniden puanlar** (FotMob'a tekrar giderek -- ham istatistikler
+  saklanmadığı için bu kaçınılmaz). Bu yüzden bir formül güncellemesinden
+  sonraki ilk çalıştırma normalden çok daha uzun sürer; sabırlı ol,
+  `calculate_score_safe`'in 2 saniyelik bekleme süresi yüzünden yüzlerce
+  maçlık bir veri setinde bu işlem gerçekten yavaş ilerler.
