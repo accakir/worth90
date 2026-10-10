@@ -5141,5 +5141,280 @@
     "highlight": {
       "Durum": "❌ 'Galatasaray - Kasımpaşa' playlist'te bulunamadı."
     }
+  },
+  "5795465": {
+    "match_id": "5795465",
+    "league": "Premier Lig",
+    "date": "2026-10-10T11:30:00.000Z",
+    "home": "Arsenal",
+    "away": "Leeds United",
+    "score_str": "2 - 1",
+    "goal_diff": 1,
+    "drama_raw": 67.9,
+    "drama_score": 50.96,
+    "domination_raw": 43.45,
+    "domination_score": 25.11,
+    "score": 51.0,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "BEIN_SPORTS_TR",
+      "Başlık": "Arsenal - Leeds United | 6. Hafta MAÇ ÖZETİ | Premier League - 2026/27",
+      "URL": "https://www.youtube.com/watch?v=qMI-q1rvdMs",
+      "Tarih": "2026-10-10T15:05:09Z"
+    }
+  },
+  "5795466": {
+    "match_id": "5795466",
+    "league": "Premier Lig",
+    "date": "2026-10-10T14:00:00.000Z",
+    "home": "Aston Villa",
+    "away": "Brentford",
+    "score_str": "2 - 2",
+    "goal_diff": 0,
+    "drama_raw": 61.41,
+    "drama_score": 46.08,
+    "domination_raw": 44.27,
+    "domination_score": 25.58,
+    "score": 46.1,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "BEIN_SPORTS_TR",
+      "Başlık": "Aston Villa - Brentford | 6. Hafta MAÇ ÖZETİ | Premier League - 2026/27",
+      "URL": "https://www.youtube.com/watch?v=SeT_AIOWkVQ",
+      "Tarih": "2026-10-10T16:36:22Z"
+    }
+  },
+  "5795467": {
+    "match_id": "5795467",
+    "league": "Premier Lig",
+    "date": "2026-10-10T14:00:00.000Z",
+    "home": "Chelsea",
+    "away": "AFC Bournemouth",
+    "score_str": "5 - 1",
+    "goal_diff": 4,
+    "drama_raw": 47.13,
+    "drama_score": 35.37,
+    "domination_raw": 59.12,
+    "domination_score": 34.16,
+    "score": 34.2,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "BEIN_SPORTS_TR",
+      "Başlık": "Chelsea - Bournemouth | 6. Hafta MAÇ ÖZETİ | Premier League - 2026/27",
+      "URL": "https://www.youtube.com/watch?v=CGDPLOIAk2I",
+      "Tarih": "2026-10-10T16:32:58Z"
+    }
+  },
+  "5795471": {
+    "match_id": "5795471",
+    "league": "Premier Lig",
+    "date": "2026-10-10T14:00:00.000Z",
+    "home": "Ipswich Town",
+    "away": "Fulham",
+    "score_str": "2 - 1",
+    "goal_diff": 1,
+    "drama_raw": 86.12,
+    "drama_score": 64.63,
+    "domination_raw": 52.78,
+    "domination_score": 30.5,
+    "score": 64.6,
+    "badge": "Tatmin Edici",
+    "boxed": true,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "BEIN_SPORTS_TR",
+      "Başlık": "Ipswich Town - Fulham | 6. Hafta MAÇ ÖZETİ | Premier League - 2026/27",
+      "URL": "https://www.youtube.com/watch?v=IlyJwPEOyjo",
+      "Tarih": "2026-10-10T17:20:30Z"
+    }
+  },
+  "5795474": {
+    "match_id": "5795474",
+    "league": "Premier Lig",
+    "date": "2026-10-10T14:00:00.000Z",
+    "home": "Sunderland",
+    "away": "Brighton & Hove Albion",
+    "score_str": "0 - 2",
+    "goal_diff": 2,
+    "drama_raw": 61.42,
+    "drama_score": 46.1,
+    "domination_raw": 32.92,
+    "domination_score": 19.02,
+    "score": 32.6,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "BEIN_SPORTS_TR",
+      "Başlık": "Sunderland -  Brighton | 6. Hafta MAÇ ÖZETİ | Premier League - 2026/27",
+      "URL": "https://www.youtube.com/watch?v=mMFKym0ARwI",
+      "Tarih": "2026-10-10T17:16:32Z"
+    }
+  },
+  "5868088": {
+    "match_id": "5868088",
+    "league": "La Liga",
+    "date": "2026-10-10T12:00:00.000Z",
+    "home": "Rayo Vallecano",
+    "away": "Athletic Club",
+    "score_str": "0 - 0",
+    "goal_diff": 0,
+    "drama_raw": 24.53,
+    "drama_score": 18.41,
+    "domination_raw": 1.5,
+    "domination_score": 0.87,
+    "score": 18.4,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Rayo Vallecano - Athletic Club' playlist'te bulunamadı."
+    }
+  },
+  "5868081": {
+    "match_id": "5868081",
+    "league": "La Liga",
+    "date": "2026-10-10T14:15:00.000Z",
+    "home": "Deportivo Alavés",
+    "away": "Atlético Madrid",
+    "score_str": "1 - 2",
+    "goal_diff": 1,
+    "drama_raw": 74.63,
+    "drama_score": 56.0,
+    "domination_raw": 70.59,
+    "domination_score": 40.79,
+    "score": 56.0,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "S_SPORT",
+      "Başlık": "Alaves - Atletico Madrid - Maç Özeti - LaLiga 2026/27",
+      "URL": "https://www.youtube.com/watch?v=8jeIP9JnOq4",
+      "Tarih": "2026-10-10T17:08:40Z"
+    }
+  },
+  "5749693": {
+    "match_id": "5749693",
+    "league": "Serie A",
+    "date": "2026-10-10T13:00:00.000Z",
+    "home": "Genoa",
+    "away": "Fiorentina",
+    "score_str": "2 - 1",
+    "goal_diff": 1,
+    "drama_raw": 41.06,
+    "drama_score": 30.81,
+    "domination_raw": 25.93,
+    "domination_score": 14.99,
+    "score": 30.8,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "S_SPORT",
+      "Başlık": "Genoa - Fiorentina - Maç Özeti - Serie A 2026/27",
+      "URL": "https://www.youtube.com/watch?v=0mOY3ViZZXY",
+      "Tarih": "2026-10-10T15:28:02Z"
+    }
+  },
+  "5749694": {
+    "match_id": "5749694",
+    "league": "Serie A",
+    "date": "2026-10-10T16:00:00.000Z",
+    "home": "Inter",
+    "away": "Parma",
+    "score_str": "3 - 0",
+    "goal_diff": 3,
+    "drama_raw": 20.4,
+    "drama_score": 15.31,
+    "domination_raw": 31.05,
+    "domination_score": 17.94,
+    "score": 17.9,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Inter - Parma' playlist'te bulunamadı."
+    }
+  },
+  "5904762": {
+    "match_id": "5904762",
+    "league": "Süper Lig",
+    "date": "2026-10-10T10:30:00.000Z",
+    "home": "Gençlerbirliği",
+    "away": "Amed Sportif",
+    "score_str": "2 - 2",
+    "goal_diff": 0,
+    "drama_raw": 76.86,
+    "drama_score": 57.68,
+    "domination_raw": 49.75,
+    "domination_score": 28.75,
+    "score": 57.7,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Gençlerbirliği - Amed Sportif' playlist'te bulunamadı."
+    }
+  },
+  "5904760": {
+    "match_id": "5904760",
+    "league": "Süper Lig",
+    "date": "2026-10-10T13:00:00.000Z",
+    "home": "Alanyaspor",
+    "away": "Erzurumspor FK",
+    "score_str": "0 - 0",
+    "goal_diff": 0,
+    "drama_raw": 42.93,
+    "drama_score": 32.22,
+    "domination_raw": 20.28,
+    "domination_score": 11.72,
+    "score": 32.2,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Alanyaspor - Erzurumspor FK' playlist'te bulunamadı."
+    }
+  },
+  "5904766": {
+    "match_id": "5904766",
+    "league": "Süper Lig",
+    "date": "2026-10-10T13:00:00.000Z",
+    "home": "Samsunspor",
+    "away": "Trabzonspor",
+    "score_str": "0 - 3",
+    "goal_diff": 3,
+    "drama_raw": 48.74,
+    "drama_score": 36.57,
+    "domination_raw": 58.24,
+    "domination_score": 33.66,
+    "score": 33.7,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Samsunspor - Trabzonspor' playlist'te bulunamadı."
+    }
+  },
+  "5904761": {
+    "match_id": "5904761",
+    "league": "Süper Lig",
+    "date": "2026-10-10T16:00:00.000Z",
+    "home": "Rizespor",
+    "away": "Fenerbahçe",
+    "score_str": "0 - 3",
+    "goal_diff": 3,
+    "drama_raw": 56.54,
+    "drama_score": 42.43,
+    "domination_raw": 44.29,
+    "domination_score": 25.59,
+    "score": 25.6,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Rizespor - Fenerbahçe' playlist'te bulunamadı."
+    }
   }
 }
