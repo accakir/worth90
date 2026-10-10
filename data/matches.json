@@ -5099,5 +5099,47 @@
       "URL": "https://www.youtube.com/watch?v=3DikUVk9wy8",
       "Tarih": "2026-09-21T18:42:39Z"
     }
+  },
+  "5868086": {
+    "match_id": "5868086",
+    "league": "La Liga",
+    "date": "2026-10-09T19:00:00Z",
+    "home": "Málaga",
+    "away": "Espanyol",
+    "score_str": "1 - 1",
+    "goal_diff": 0,
+    "drama_raw": 56.1,
+    "drama_score": 42.1,
+    "domination_raw": 23.61,
+    "domination_score": 13.64,
+    "score": 42.1,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "S_SPORT",
+      "Başlık": "Malaga - Espanyol - Maç Özeti - LaLiga 2026/27",
+      "URL": "https://www.youtube.com/watch?v=Mj8T4Y6Ajdk",
+      "Tarih": "2026-10-09T21:50:26Z"
+    }
+  },
+  "5904764": {
+    "match_id": "5904764",
+    "league": "Süper Lig",
+    "date": "2026-10-09T17:00:00Z",
+    "home": "Galatasaray",
+    "away": "Kasımpaşa",
+    "score_str": "3 - 1",
+    "goal_diff": 2,
+    "drama_raw": 73.85,
+    "drama_score": 55.42,
+    "domination_raw": 59.29,
+    "domination_score": 34.26,
+    "score": 44.8,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Galatasaray - Kasımpaşa' playlist'te bulunamadı."
+    }
   }
 }
