@@ -20,7 +20,6 @@
     --gold-dim: #D9C09A;
     --dull: #ccc;
     --good: #c79639;
-    --tarihegecer: #091840;
     --chip-active-bg: #1B211C;
     --chip-active-text: #F1EEE5;
   }
@@ -37,7 +36,6 @@
     --gold-dim: #6B5730;
     --dull: #4A5550;
     --good: #7FB88A;
-    --tarihegecer: #E4EBFB;
     --chip-active-bg: #F5F3EE;
     --chip-active-text: #0F1613;
   }
@@ -245,31 +243,6 @@
     font-size: 14px;
   }
 
-  .watch-external {
-    padding: 28px 16px;
-    text-align: center;
-  }
-
-  .watch-external p {
-    margin: 0 0 14px;
-    color: var(--text-dim);
-    font-size: 14px;
-  }
-
-  .watch-btn {
-    display: inline-block;
-    background: var(--chip-active-bg);
-    color: var(--chip-active-text);
-    padding: 10px 20px;
-    border-radius: 100px;
-    text-decoration: none;
-    font-size: 14px;
-    font-weight: 600;
-    transition: opacity 0.15s;
-  }
-
-  .watch-btn:hover { opacity: 0.85; }
-
   .meta {
     grid-column: 1 / -1;
     font-size: 12px;
@@ -294,51 +267,20 @@
   .score-col {
     grid-row: 2 / span 1;
     grid-column: 2;
-    text-align: center;
-    width: 100px;
+    text-align: right;
+    width: 140px;
   }
 
-  .score-box {
-    font-family: 'Archivo', sans-serif;
-    font-weight: 900;
-    font-size: 30px;
+  .stars-display {
+    font-size: 16px;
+    letter-spacing: 1px;
     line-height: 1;
-    min-width: 56px;
-  }
-
-  .score-box.highlight {
-    display: inline-block;
-    padding: 6px 12px;
-    border-radius: 10px;
-    box-shadow: 0 2px 6px rgba(0,0,0,0.18);
-  }
-
-  .score-wrap {
-    position: relative;
-    display: inline-block;
-  }
-
-  .stars-above {
-    position: absolute;
-    top: -24px;
-    left: 50%;
-    transform: translateX(-50%);
-    display: flex;
-    gap: 2px;
-    z-index: 2;
-    pointer-events: none;
-  }
-
-  .stars-above span {
-    font-size: 30px;
-    line-height: 1;
-    filter: drop-shadow(0 1px 1px rgba(0,0,0,0.25));
+    margin-bottom: 4px;
   }
 
   .badge {
     font-size: 13px;
     font-weight: 600;
-    margin-top: -4px;
   }
 
   .empty {
@@ -349,7 +291,7 @@
 
   @media (max-width: 480px) {
     .teams { font-size: 14.5px; }
-    .score-box { font-size: 24px; }
+    .score-col { width: 120px; }
   }
 </style>
 </head>
@@ -386,12 +328,11 @@ let MATCHES = [];
 let leagues = [];
 
 function badgeFor(score) {
-  if (score < 30) return { tr: "Uyutabilir", color: "var(--dull)", boxed: false, stars: 0 };
-  if (score < 45) return { tr: "İdare Eder", color: "var(--text-dim)", boxed: false, stars: 0 };
-  if (score < 61) return { tr: "İyi Maç", color: "var(--good)", boxed: false, stars: 0 };
-  if (score < 76) return { tr: "Tatmin Edici", color: "var(--gold)", boxed: true, stars: 1 };
-  if (score < 84) return { tr: "Futbol Ziyafeti", color: "#44A2FF", boxed: true, stars: 2 };
-  return { tr: "Tarihe Geçer", color: "var(--tarihegecer)", boxed: true, stars: 3 };
+  if (score < 40) return { tr: "Uyutur", color: "var(--text-dim)", stars: 1 };
+  if (score < 50) return { tr: "İdare Eder", color: "var(--text-dim)", stars: 2 };
+  if (score < 60) return { tr: "İyi Maç", color: "var(--good)", stars: 3 };
+  if (score < 75) return { tr: "Tatmin Edici", color: "var(--gold)", stars: 4 };
+  return { tr: "Futbol Ziyafeti", color: "#44A2FF", stars: 5 };
 }
 
 function formatDate(iso) {
@@ -413,7 +354,7 @@ let currentLeague = "all";
 let currentSort = "date";
 let expandedId = null;
 
-// Yardımcı Fonksiyon: Date objesini yerel tarihe göre YYYY-MM-DD formatına çevirir (UTC kaymasını önler)
+// Yardımcı Fonksiyon: Date objesini yerel tarihe göre YYYY-MM-DD formatına çevirir
 function getLocalDateString(dateObj) {
   const year = dateObj.getFullYear();
   const month = String(dateObj.getMonth() + 1).padStart(2, '0');
@@ -435,11 +376,9 @@ function startOfWeek(d) {
 function isMatchInSelectedDateRange(matchDateStr, filterId) {
   if (filterId === "all") return true;
 
-  // Maçın tarihini yerel zaman diliminde YYYY-MM-DD formatına getir
   const matchDate = new Date(matchDateStr);
   const matchLocalDateStr = getLocalDateString(matchDate);
 
-  // Tekil gün seçimi (YYYY-MM-DD)
   if (filterId.match(/^\d{4}-\d{2}-\d{2}$/)) {
     return matchLocalDateStr === filterId;
   }
@@ -447,7 +386,6 @@ function isMatchInSelectedDateRange(matchDateStr, filterId) {
   const today = new Date();
   today.setHours(0, 0, 0, 0);
 
-  // Bu hafta (Pazartesi - Pazar)
   if (filterId === "this_week") {
     const start = startOfWeek(today);
     const end = new Date(start);
@@ -455,7 +393,6 @@ function isMatchInSelectedDateRange(matchDateStr, filterId) {
     return matchDate >= start && matchDate < end;
   }
 
-  // Son hafta (bir önceki Pazartesi - Pazar)
   if (filterId === "last_week") {
     const thisStart = startOfWeek(today);
     const start = new Date(thisStart);
@@ -463,14 +400,12 @@ function isMatchInSelectedDateRange(matchDateStr, filterId) {
     return matchDate >= start && matchDate < thisStart;
   }
 
-  // Son 30 gün
   if (filterId === "last_30_days") {
     const past30 = new Date(today);
     past30.setDate(today.getDate() - 30);
     return matchDate >= past30;
   }
 
-  // Bu ay
   if (filterId === "this_month") {
     return matchDate.getFullYear() === today.getFullYear() &&
            matchDate.getMonth() === today.getMonth();
@@ -483,14 +418,13 @@ function renderControls() {
   const dayFilter = document.getElementById("dayFilter");
   dayFilter.innerHTML = "";
 
-  const today = new Date(); // yerel saati baz alır
+  const today = new Date();
   const dayNames = ["Pa", "Pzt", "Sa", "Çarş", "Per", "Cum", "Cmt"];
 
   const filterOptions = [
     { id: "all", label: "Tümü" }
   ];
 
-  // Son 7 gün (yerel saate göre)
   for (let i = 0; i < 7; i++) {
     const d = new Date(today);
     d.setDate(today.getDate() - i);
@@ -506,7 +440,6 @@ function renderControls() {
     filterOptions.push({ id: isoDate, label: label });
   }
 
-  // Geniş aralıklar
   filterOptions.push(
     { id: "this_week", label: "Bu Hafta" },
     { id: "last_week", label: "Son Hafta" },
@@ -587,11 +520,7 @@ function render() {
 
   list.innerHTML = filtered.map(m => {
     const b = badgeFor(m.score);
-    const scoreStyle = `color:${b.color};`;
-    const badgeStyle = `color:${b.color};`;
-    const starsHtml = b.stars > 0
-      ? `<div class="stars-above"><span style="color:${b.color}">${"★".repeat(b.stars)}</span></div>`
-      : "";
+    const colorStyle = `color:${b.color};`;
     const isExpanded = expandedId === m.match_id;
     const cleanScore = m.score_str.split(" ").join("");
     return `
@@ -602,11 +531,8 @@ function render() {
             <div class="teams">${m.home} ${cleanScore} ${m.away}</div>
           </div>
           <div class="score-col">
-            <div class="score-wrap">
-              ${starsHtml}
-              <div class="score-box" style="${scoreStyle}">${Math.round(m.score)}</div>
-            </div>
-            <div class="badge" style="${badgeStyle}">${b.tr}</div>
+            <div class="stars-display" style="${colorStyle}">${"★".repeat(b.stars)}</div>
+            <div class="badge" style="${colorStyle}">${b.tr}</div>
           </div>
         </div>
         ${isExpanded ? renderAccordionPanel(m) : ""}
