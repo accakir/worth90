@@ -247,23 +247,24 @@ def calculate_score(match_id: str) -> dict:
         "score": round(final_score, 1),
     }
 
-
 def badge_for(score: float) -> dict:
-    """0-100 normalize skora gore Turkce badge dondurur.
-    NOT: dominasyon formulunun tavani 77 oldugu icin, saf bir 3+ farkli
-    galibiyet (fark>=3) hicbir zaman 'Tarihe Gecer' (84+) bandina ulasamaz --
-    bu formulun bilincli bir tasarim sonucu (bkz. METHODOLOGY.md)."""
-    if score < 30:
-        return {"tr": "Uyutabilir", "boxed": False}
-    if score < 45:
+    """0-100 normalize skora göre Türkçe badge döndürür.
+    Baremler:
+      - 0  - 39.99 : Uyutur
+      - 40 - 49.99 : İdare Eder
+      - 50 - 59.99 : İyi Maç
+      - 60 - 74.99 : Tatmin Edici
+      - 75 - 100   : Futbol Ziyafeti
+    """
+    if score < 40:
+        return {"tr": "Uyutur", "boxed": False}
+    if score < 50:
         return {"tr": "İdare Eder", "boxed": False}
-    if score < 61:
+    if score < 60:
         return {"tr": "İyi Maç", "boxed": False}
-    if score < 76:
+    if score < 75:
         return {"tr": "Tatmin Edici", "boxed": True}
-    if score < 84:
-        return {"tr": "Futbol Ziyafeti", "boxed": True}
-    return {"tr": "Tarihe Geçer", "boxed": True}
+    return {"tr": "Futbol Ziyafeti", "boxed": True}
 
 
 def calculate_score_safe(match_id: str, retries: int = 2, delay: float = 2.0) -> dict | None:
