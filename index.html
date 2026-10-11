@@ -15,6 +15,7 @@
     --surface-hover: #DEDACB;
     --line: #D5CFBC;
     --text: #1B211C;
+    --text-udim: ##C9CBC8;
     --text-dim: #9AA096;
     --gold: #12A628;
     --gold-dim: #D9C09A;
@@ -31,11 +32,12 @@
     --surface-hover: #1D2721;
     --line: #26332C;
     --text: #F5F3EE;
+    --text-udim: #5F615F;
     --text-dim: #8B978C;
     --gold: #D4A24C;
     --gold-dim: #6B5730;
     --dull: #4A5550;
-    --good: #7FB88A;
+    --good: #A3E774;
     --chip-active-bg: #F5F3EE;
     --chip-active-text: #0F1613;
   }
@@ -272,14 +274,14 @@
   }
 
   .stars-display {
-    font-size: 16px;
+    font-size: 23px;
     letter-spacing: 1px;
     line-height: 1;
     margin-bottom: 4px;
   }
 
   .badge {
-    font-size: 13px;
+    font-size: 14px;
     font-weight: 600;
   }
 
@@ -328,7 +330,7 @@ let MATCHES = [];
 let leagues = [];
 
 function badgeFor(score) {
-  if (score < 40) return { tr: "Uyutabilir", color: "var(--text-dim)", stars: 1 };
+  if (score < 40) return { tr: "Uyutabilir", color: "var(--text-udim)", stars: 1 };
   if (score < 50) return { tr: "İdare Eder", color: "var(--text-dim)", stars: 2 };
   if (score < 60) return { tr: "İyi Maç", color: "var(--good)", stars: 3 };
   if (score < 75) return { tr: "Tatmin Edici", color: "var(--gold)", stars: 4 };
