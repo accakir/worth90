@@ -5338,7 +5338,11 @@
     "badge": "Uyutabilir",
     "boxed": false,
     "highlight": {
-      "Durum": "❌ 'Inter - Parma' playlist'te bulunamadı."
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "S_SPORT",
+      "Başlık": "Inter - Parma - Maç Özeti - Serie A 2026/27",
+      "URL": "https://www.youtube.com/watch?v=F1H2IoBWV5Y",
+      "Tarih": "2026-10-10T18:48:39Z"
     }
   },
   "5904762": {
@@ -5415,6 +5419,98 @@
     "boxed": false,
     "highlight": {
       "Durum": "❌ 'Rizespor - Fenerbahçe' playlist'te bulunamadı."
+    }
+  },
+  "5795473": {
+    "match_id": "5795473",
+    "league": "Premier Lig",
+    "date": "2026-10-10T16:30:00Z",
+    "home": "Manchester United",
+    "away": "Tottenham Hotspur",
+    "score_str": "1 - 1",
+    "goal_diff": 0,
+    "drama_raw": 68.53,
+    "drama_score": 51.43,
+    "domination_raw": 31.94,
+    "domination_score": 18.46,
+    "score": 51.4,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "BEIN_SPORTS_TR",
+      "Başlık": "Manchester United - Tottenham | 6. Hafta MAÇ ÖZETİ | Premier League - 2026/27",
+      "URL": "https://www.youtube.com/watch?v=ccI7o0Mfh8A",
+      "Tarih": "2026-10-10T19:17:24Z"
+    }
+  },
+  "5868084": {
+    "match_id": "5868084",
+    "league": "La Liga",
+    "date": "2026-10-10T16:30:00Z",
+    "home": "Barcelona",
+    "away": "Getafe",
+    "score_str": "3 - 0",
+    "goal_diff": 3,
+    "drama_raw": 26.87,
+    "drama_score": 20.17,
+    "domination_raw": 48.22,
+    "domination_score": 27.87,
+    "score": 27.9,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "S_SPORT",
+      "Başlık": "Barcelona - Getafe - Maç Özeti - LaLiga 2026/27",
+      "URL": "https://www.youtube.com/watch?v=6UDx-XA4etc",
+      "Tarih": "2026-10-10T18:49:48Z"
+    }
+  },
+  "5868089": {
+    "match_id": "5868089",
+    "league": "La Liga",
+    "date": "2026-10-10T19:00:00Z",
+    "home": "Real Madrid",
+    "away": "Villarreal",
+    "score_str": "1 - 0",
+    "goal_diff": 1,
+    "drama_raw": 51.48,
+    "drama_score": 38.64,
+    "domination_raw": 25.56,
+    "domination_score": 14.77,
+    "score": 38.6,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "S_SPORT",
+      "Başlık": "Real Madrid - Villarreal - Maç Özeti - LaLiga 2026/27",
+      "URL": "https://www.youtube.com/watch?v=ZRw5udzUNUA",
+      "Tarih": "2026-10-10T21:06:21Z"
+    }
+  },
+  "5749697": {
+    "match_id": "5749697",
+    "league": "Serie A",
+    "date": "2026-10-10T18:45:00Z",
+    "home": "Napoli",
+    "away": "Frosinone",
+    "score_str": "3 - 0",
+    "goal_diff": 3,
+    "drama_raw": 24.09,
+    "drama_score": 18.08,
+    "domination_raw": 52.72,
+    "domination_score": 30.46,
+    "score": 30.5,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "S_SPORT",
+      "Başlık": "Napoli - Frosinone - Maç Özeti - Serie A 2026/27",
+      "URL": "https://www.youtube.com/watch?v=08M98_UO0_k",
+      "Tarih": "2026-10-10T20:57:03Z"
     }
   }
 }
