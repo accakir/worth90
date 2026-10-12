@@ -8636,7 +8636,11 @@
     "badge": "İdare Eder",
     "boxed": false,
     "highlight": {
-      "Durum": "❌ 'Lecce - Bologna' playlist'te bulunamadı."
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "S_SPORT",
+      "Başlık": "Lecce - Bologna - Maç Özeti - Serie A 2026/27",
+      "URL": "https://www.youtube.com/watch?v=3Ij4AcBL_bM",
+      "Tarih": "2026-10-11T19:15:15Z"
     }
   },
   "5749698": {
@@ -8655,7 +8659,11 @@
     "badge": "İdare Eder",
     "boxed": false,
     "highlight": {
-      "Durum": "❌ 'Sassuolo - Milan' playlist'te bulunamadı."
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "S_SPORT",
+      "Başlık": "Sassuolo - Milan - Maç Özeti - Serie A 2026/27",
+      "URL": "https://www.youtube.com/watch?v=X6H_iYSR_HQ",
+      "Tarih": "2026-10-11T18:35:54Z"
     }
   },
   "5904763": {
@@ -8754,7 +8762,11 @@
     "badge": "Uyutabilir",
     "boxed": false,
     "highlight": {
-      "Durum": "❌ 'Rennes - Auxerre' playlist'te bulunamadı."
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "BEIN_SPORTS_TR",
+      "Başlık": "Rennes - Auxerre | 6. Hafta MAÇ ÖZETİ | Ligue 1 McDonald's - 2026/2027",
+      "URL": "https://www.youtube.com/watch?v=7AvUqyM6tFk",
+      "Tarih": "2026-10-11T18:36:55Z"
     }
   },
   "5881181": {
@@ -8793,6 +8805,94 @@
     "boxed": false,
     "highlight": {
       "Durum": "❌ 'Freiburg - Schalke 04' playlist'te bulunamadı."
+    }
+  },
+  "5868082": {
+    "match_id": "5868082",
+    "league": "La Liga",
+    "date": "2026-10-11T16:30:00Z",
+    "home": "Real Betis",
+    "away": "Osasuna",
+    "score_str": "5 - 2",
+    "goal_diff": 3,
+    "drama_raw": 44.06,
+    "drama_score": 33.07,
+    "domination_raw": 71.55,
+    "domination_score": 41.34,
+    "score": 41.3,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Real Betis - Osasuna' playlist'te bulunamadı."
+    }
+  },
+  "5868087": {
+    "match_id": "5868087",
+    "league": "La Liga",
+    "date": "2026-10-11T19:00:00Z",
+    "home": "Racing Santander",
+    "away": "Valencia",
+    "score_str": "2 - 2",
+    "goal_diff": 0,
+    "drama_raw": 62.98,
+    "drama_score": 47.26,
+    "domination_raw": 51.72,
+    "domination_score": 29.89,
+    "score": 47.3,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "S_SPORT",
+      "Başlık": "Racing Santander - Valencia - Maç Özeti - LaLiga 2026/27",
+      "URL": "https://www.youtube.com/watch?v=GnIX5ZWzcSE",
+      "Tarih": "2026-10-11T21:49:17Z"
+    }
+  },
+  "5749691": {
+    "match_id": "5749691",
+    "league": "Serie A",
+    "date": "2026-10-11T18:45:00Z",
+    "home": "Cagliari",
+    "away": "Juventus",
+    "score_str": "1 - 1",
+    "goal_diff": 0,
+    "drama_raw": 61.55,
+    "drama_score": 46.19,
+    "domination_raw": 42.33,
+    "domination_score": 24.46,
+    "score": 46.2,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "S_SPORT",
+      "Başlık": "Cagliari - Juventus - Maç Özeti - Serie A 2026/27",
+      "URL": "https://www.youtube.com/watch?v=u65-Gx_ONpI",
+      "Tarih": "2026-10-11T21:01:06Z"
+    }
+  },
+  "5802954": {
+    "match_id": "5802954",
+    "league": "Ligue 1",
+    "date": "2026-10-11T18:45:00Z",
+    "home": "Troyes",
+    "away": "Marseille",
+    "score_str": "0 - 2",
+    "goal_diff": 2,
+    "drama_raw": 56.84,
+    "drama_score": 42.66,
+    "domination_raw": 53.28,
+    "domination_score": 30.79,
+    "score": 36.7,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "BEIN_SPORTS_TR",
+      "Başlık": "Troyes - Marsilya | 6. Hafta MAÇ ÖZETİ | Ligue 1 McDonald's - 2026/2027",
+      "URL": "https://www.youtube.com/watch?v=KEqpffXraO0",
+      "Tarih": "2026-10-11T21:56:40Z"
     }
   }
 }
