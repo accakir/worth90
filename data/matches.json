@@ -8898,5 +8898,116 @@
       "URL": "https://www.youtube.com/watch?v=KEqpffXraO0",
       "Tarih": "2026-10-11T21:56:40Z"
     }
+  },
+  "5795468": {
+    "match_id": "5795468",
+    "league": "Premier Lig",
+    "date": "2026-10-12T19:00:00Z",
+    "home": "Coventry City",
+    "away": "Newcastle United",
+    "score_str": "4 - 1",
+    "goal_diff": 3,
+    "drama_raw": 69.99,
+    "drama_score": 52.53,
+    "domination_raw": 64.67,
+    "domination_score": 37.37,
+    "score": 37.4,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "BEIN_SPORTS_TR",
+      "Başlık": "Coventry - Newcastle | 6. Hafta MAÇ ÖZETİ | Premier League - 2026/27",
+      "URL": "https://www.youtube.com/watch?v=NPDHAMuxr-I",
+      "Tarih": "2026-10-12T21:29:31Z"
+    }
+  },
+  "5868085": {
+    "match_id": "5868085",
+    "league": "La Liga",
+    "date": "2026-10-12T19:00:00Z",
+    "home": "Levante",
+    "away": "Sevilla",
+    "score_str": "3 - 3",
+    "goal_diff": 0,
+    "drama_raw": 93.77,
+    "drama_score": 70.37,
+    "domination_raw": 75.49,
+    "domination_score": 43.63,
+    "score": 70.4,
+    "badge": "Tatmin Edici",
+    "boxed": true,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "S_SPORT",
+      "Başlık": "Levante - Sevilla - Maç Özeti - LaLiga 2026/27",
+      "URL": "https://www.youtube.com/watch?v=rqyaumDvt8Q",
+      "Tarih": "2026-10-12T22:03:20Z"
+    }
+  },
+  "5749690": {
+    "match_id": "5749690",
+    "league": "Serie A",
+    "date": "2026-10-12T16:30:00Z",
+    "home": "Atalanta",
+    "away": "Venezia",
+    "score_str": "3 - 1",
+    "goal_diff": 2,
+    "drama_raw": 57.41,
+    "drama_score": 43.08,
+    "domination_raw": 64.82,
+    "domination_score": 37.46,
+    "score": 40.3,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "S_SPORT",
+      "Başlık": "Atalanta - Venezia - Maç Özeti - Serie A 2026/27",
+      "URL": "https://www.youtube.com/watch?v=5zXqZ6S9VRU",
+      "Tarih": "2026-10-12T20:20:37Z"
+    }
+  },
+  "5749699": {
+    "match_id": "5749699",
+    "league": "Serie A",
+    "date": "2026-10-12T18:45:00Z",
+    "home": "Torino",
+    "away": "Udinese",
+    "score_str": "2 - 1",
+    "goal_diff": 1,
+    "drama_raw": 39.47,
+    "drama_score": 29.62,
+    "domination_raw": 28.08,
+    "domination_score": 16.22,
+    "score": 29.6,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "S_SPORT",
+      "Başlık": "Torino - Udinese - Maç Özeti - Serie A 2026/27",
+      "URL": "https://www.youtube.com/watch?v=dFAQ4h6xJ8w",
+      "Tarih": "2026-10-12T21:45:54Z"
+    }
+  },
+  "5904759": {
+    "match_id": "5904759",
+    "league": "Süper Lig",
+    "date": "2026-10-12T17:00:00Z",
+    "home": "Eyüpspor",
+    "away": "Göztepe",
+    "score_str": "0 - 4",
+    "goal_diff": 4,
+    "drama_raw": 43.73,
+    "drama_score": 32.82,
+    "domination_raw": 62.09,
+    "domination_score": 35.88,
+    "score": 35.9,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Eyüpspor - Göztepe' playlist'te bulunamadı."
+    }
   }
 }
