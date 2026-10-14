@@ -250,15 +250,15 @@ def calculate_score(match_id: str) -> dict:
 def badge_for(score: float) -> dict:
     """0-100 normalize skora göre Türkçe badge döndürür.
     Baremler:
-      - 0  - 39.99 : Uyutabilir
-      - 40 - 49.99 : İdare Eder
+      - 0  - 24.99 : Uyutabilir
+      - 40 - 39.99 : İdare Eder
       - 50 - 59.99 : İyi Maç
       - 60 - 74.99 : Tatmin Edici
       - 75 - 100   : Futbol Ziyafeti
     """
-    if score < 40:
+    if score < 25:
         return {"tr": "Uyutabilir", "boxed": False}
-    if score < 50:
+    if score < 40:
         return {"tr": "İdare Eder", "boxed": False}
     if score < 60:
         return {"tr": "İyi Maç", "boxed": False}
