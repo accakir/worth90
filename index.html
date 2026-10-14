@@ -390,8 +390,8 @@ let MATCHES = [];
 let leagues = [];
 
 function badgeFor(score) {
-  if (score < 40) return { tr: "Uyutabilir", color: "var(--text-udim)", stars: 1 };
-  if (score < 50) return { tr: "İdare Eder", color: "var(--text-dim)", stars: 2 };
+  if (score < 25) return { tr: "Uyutabilir", color: "var(--text-udim)", stars: 1 };
+  if (score < 40) return { tr: "İdare Eder", color: "var(--text-dim)", stars: 2 };
   if (score < 60) return { tr: "İyi Maç", color: "var(--good)", stars: 3 };
   if (score < 75) return { tr: "Tatmin Edici", color: "var(--gold)", stars: 4 };
   return { tr: "Futbol Ziyafeti", color: "#44A2FF", stars: 5 };
