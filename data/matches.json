@@ -8714,7 +8714,11 @@
     "badge": "Uyutabilir",
     "boxed": false,
     "highlight": {
-      "Durum": "❌ 'Konyaspor - Başakşehir' playlist'te bulunamadı."
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "BEIN_SPORTS_TR",
+      "Başlık": "Konyaspor - Başakşehir | 7. HAFTA MAÇ ÖZETİ | Trendyol Süper Lig - 2026/27",
+      "URL": "https://www.youtube.com/watch?v=1s51Q6PNd8I",
+      "Tarih": "2026-10-12T15:49:51Z"
     }
   },
   "5904758": {
@@ -8752,7 +8756,11 @@
     "badge": "İyi Maç",
     "boxed": false,
     "highlight": {
-      "Durum": "❌ 'Beşiktaş - Kocaelispor' playlist'te bulunamadı."
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "BEIN_SPORTS_TR",
+      "Başlık": "Beşiktaş - Kocaelispor | 7. HAFTA MAÇ ÖZETİ | Trendyol Süper Lig - 2026/27",
+      "URL": "https://www.youtube.com/watch?v=i90Vk-It8E0",
+      "Tarih": "2026-10-12T15:51:55Z"
     }
   },
   "5802951": {
