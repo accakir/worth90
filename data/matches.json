@@ -9045,5 +9045,212 @@
     "highlight": {
       "Durum": "❌ 'Eyüpspor - Göztepe' playlist'te bulunamadı."
     }
+  },
+  "6106414": {
+    "match_id": "6106414",
+    "league": "Şampiyonlar Ligi",
+    "date": "2026-10-13T16:45:00Z",
+    "home": "Lens",
+    "away": "Sporting CP",
+    "score_str": "0 - 2",
+    "goal_diff": 2,
+    "drama_raw": 46.9,
+    "drama_score": 35.19,
+    "domination_raw": 50.05,
+    "domination_score": 28.92,
+    "score": 32.1,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "TRT_SPOR",
+      "Başlık": "Şampiyonlar Ligi 2. Hafta | Lens - Sporting (Özet) X Petrol Ofisi",
+      "URL": "https://www.youtube.com/watch?v=k7gO8cyP-8g",
+      "Tarih": "2026-10-13T19:19:44Z"
+    }
+  },
+  "6106424": {
+    "match_id": "6106424",
+    "league": "Şampiyonlar Ligi",
+    "date": "2026-10-13T16:45:00Z",
+    "home": "Sabah FK",
+    "away": "Slavia Prague",
+    "score_str": "2 - 0",
+    "goal_diff": 2,
+    "drama_raw": 56.15,
+    "drama_score": 42.14,
+    "domination_raw": 43.99,
+    "domination_score": 25.42,
+    "score": 33.8,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "TRT_SPOR",
+      "Başlık": "Şampiyonlar Ligi 2. Hafta | Sabah FK - Slavia Prag (Özet) X Petrol Ofisi",
+      "URL": "https://www.youtube.com/watch?v=YHh11wQnGRQ",
+      "Tarih": "2026-10-13T19:17:14Z"
+    }
+  },
+  "6106260": {
+    "match_id": "6106260",
+    "league": "Şampiyonlar Ligi",
+    "date": "2026-10-13T19:00:00Z",
+    "home": "Arsenal",
+    "away": "Lille",
+    "score_str": "3 - 0",
+    "goal_diff": 3,
+    "drama_raw": 18.88,
+    "drama_score": 14.17,
+    "domination_raw": 24.9,
+    "domination_score": 14.39,
+    "score": 14.4,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "TRT_SPOR",
+      "Başlık": "Şampiyonlar Ligi 2. Hafta | Arsenal - Lille (Özet) X Petrol Ofisi",
+      "URL": "https://www.youtube.com/watch?v=bpZMru8kW1s",
+      "Tarih": "2026-10-13T21:17:18Z"
+    }
+  },
+  "6106267": {
+    "match_id": "6106267",
+    "league": "Şampiyonlar Ligi",
+    "date": "2026-10-13T19:00:00Z",
+    "home": "Atlético Madrid",
+    "away": "Manchester United",
+    "score_str": "2 - 0",
+    "goal_diff": 2,
+    "drama_raw": 51.28,
+    "drama_score": 38.49,
+    "domination_raw": 36.48,
+    "domination_score": 21.08,
+    "score": 29.8,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "TRT_SPOR",
+      "Başlık": "Şampiyonlar Ligi 2. Hafta | Atletico Madrid - Manchester United (Özet) X Petrol Ofisi",
+      "URL": "https://www.youtube.com/watch?v=BI8D1Qd59I8",
+      "Tarih": "2026-10-13T21:23:09Z"
+    }
+  },
+  "6106338": {
+    "match_id": "6106338",
+    "league": "Şampiyonlar Ligi",
+    "date": "2026-10-13T19:00:00Z",
+    "home": "Galatasaray",
+    "away": "Barcelona",
+    "score_str": "1 - 4",
+    "goal_diff": 3,
+    "drama_raw": 25.0,
+    "drama_score": 18.76,
+    "domination_raw": 55.38,
+    "domination_score": 32.0,
+    "score": 32.0,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "TRT_SPOR",
+      "Başlık": "Şampiyonlar Ligi 2. Hafta | Galatasaray - Barcelona (Özet) X Petrol Ofisi",
+      "URL": "https://www.youtube.com/watch?v=aKKacU33UC0",
+      "Tarih": "2026-10-13T21:14:32Z"
+    }
+  },
+  "6106251": {
+    "match_id": "6106251",
+    "league": "Şampiyonlar Ligi",
+    "date": "2026-10-13T19:00:00Z",
+    "home": "Inter",
+    "away": "Club Brugge",
+    "score_str": "3 - 4",
+    "goal_diff": 1,
+    "drama_raw": 53.94,
+    "drama_score": 40.48,
+    "domination_raw": 72.32,
+    "domination_score": 41.79,
+    "score": 40.5,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "TRT_SPOR",
+      "Başlık": "Şampiyonlar Ligi 2. Hafta | Inter - Club Brugge (Özet) X Petrol Ofisi",
+      "URL": "https://www.youtube.com/watch?v=i9L0_8nTGaw",
+      "Tarih": "2026-10-13T21:34:13Z"
+    }
+  },
+  "6106323": {
+    "match_id": "6106323",
+    "league": "Şampiyonlar Ligi",
+    "date": "2026-10-13T19:00:00Z",
+    "home": "RB Leipzig",
+    "away": "PSV Eindhoven",
+    "score_str": "1 - 0",
+    "goal_diff": 1,
+    "drama_raw": 70.28,
+    "drama_score": 52.74,
+    "domination_raw": 53.74,
+    "domination_score": 31.06,
+    "score": 52.7,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "TRT_SPOR",
+      "Başlık": "Şampiyonlar Ligi 2. Hafta | Leipzig - PSV (Özet) X Petrol Ofisi",
+      "URL": "https://www.youtube.com/watch?v=72gK_x0z65c",
+      "Tarih": "2026-10-13T21:27:49Z"
+    }
+  },
+  "6106417": {
+    "match_id": "6106417",
+    "league": "Şampiyonlar Ligi",
+    "date": "2026-10-13T19:00:00Z",
+    "home": "Viking",
+    "away": "Bayern München",
+    "score_str": "3 - 3",
+    "goal_diff": 0,
+    "drama_raw": 62.55,
+    "drama_score": 46.94,
+    "domination_raw": 63.42,
+    "domination_score": 36.65,
+    "score": 46.9,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "TRT_SPOR",
+      "Başlık": "Şampiyonlar Ligi 2. Hafta | Viking - Bayern Münih (Özet) X Petrol Ofisi",
+      "URL": "https://www.youtube.com/watch?v=8-TpbVI-mO0",
+      "Tarih": "2026-10-13T21:42:05Z"
+    }
+  },
+  "6106328": {
+    "match_id": "6106328",
+    "league": "Şampiyonlar Ligi",
+    "date": "2026-10-13T19:00:00Z",
+    "home": "Villarreal",
+    "away": "Napoli",
+    "score_str": "3 - 1",
+    "goal_diff": 2,
+    "drama_raw": 66.0,
+    "drama_score": 49.53,
+    "domination_raw": 49.46,
+    "domination_score": 28.58,
+    "score": 39.1,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "TRT_SPOR",
+      "Başlık": "Şampiyonlar Ligi 2. Hafta | Villarreal - Napoli (Özet) X Petrol Ofisi",
+      "URL": "https://www.youtube.com/watch?v=jYIpbQN8oVM",
+      "Tarih": "2026-10-13T21:20:52Z"
+    }
   }
 }
