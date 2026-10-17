@@ -15,7 +15,6 @@ LEAGUE_PLAYLISTS: dict[str, str] = {
     "Süper Lig": "PLSBL5_PlWv-4",
     "Avrupa Ligi": "PLOWxTUd8YsIs",
     "Şampiyonlar Ligi": "PLQs_w-FaXbl0",
-    "Konferans Ligi": "PLFwIjFJS4so0",
 }
 
 # Sadece gösterim/bilgi amaçlı: hangi lig hangi yayıncıya ait
@@ -28,7 +27,6 @@ LEAGUE_CHANNEL_MAP: dict[str, str] = {
     "Süper Lig": "BEIN_SPORTS_TR",
     "Avrupa Ligi": "TRT_SPOR",
     "Şampiyonlar Ligi": "TRT_SPOR",
-    "Konferans Ligi": "TRT_SPOR",
 }
 
 HIGHLIGHT_KEYWORDS = ["ozet", "highlights", "goller", "mac ozeti"]
