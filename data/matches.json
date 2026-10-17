@@ -10207,5 +10207,100 @@
     "highlight": {
       "Durum": "❌ 'St.Truiden - Iberia 1999' playlist'te bulunamadı."
     }
+  },
+  "5868093": {
+    "match_id": "5868093",
+    "league": "La Liga",
+    "date": "2026-10-16T19:00:00Z",
+    "home": "Deportivo A Coruña",
+    "away": "Levante",
+    "score_str": "1 - 1",
+    "goal_diff": 0,
+    "drama_raw": 54.79,
+    "drama_score": 41.12,
+    "domination_raw": 34.93,
+    "domination_score": 20.19,
+    "score": 41.1,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Deportivo A Coruña - Levante' playlist'te bulunamadı."
+    }
+  },
+  "5749704": {
+    "match_id": "5749704",
+    "league": "Serie A",
+    "date": "2026-10-16T18:45:00Z",
+    "home": "Frosinone",
+    "away": "Sassuolo",
+    "score_str": "4 - 2",
+    "goal_diff": 2,
+    "drama_raw": 50.39,
+    "drama_score": 37.81,
+    "domination_raw": 61.79,
+    "domination_score": 35.71,
+    "score": 36.8,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Frosinone - Sassuolo' playlist'te bulunamadı."
+    }
+  },
+  "5904772": {
+    "match_id": "5904772",
+    "league": "Süper Lig",
+    "date": "2026-10-16T17:00:00Z",
+    "home": "Çorum FK",
+    "away": "Rizespor",
+    "score_str": "2 - 1",
+    "goal_diff": 1,
+    "drama_raw": 64.36,
+    "drama_score": 48.3,
+    "domination_raw": 30.47,
+    "domination_score": 17.61,
+    "score": 48.3,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Çorum FK - Rizespor' playlist'te bulunamadı."
+    }
+  },
+  "5802957": {
+    "match_id": "5802957",
+    "league": "Ligue 1",
+    "date": "2026-10-16T18:45:00Z",
+    "home": "Le Mans",
+    "away": "Toulouse",
+    "score_str": "0 - 3",
+    "goal_diff": 3,
+    "drama_raw": 30.93,
+    "drama_score": 23.21,
+    "domination_raw": 22.58,
+    "domination_score": 13.05,
+    "score": 13.0,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Le Mans - Toulouse' playlist'te bulunamadı."
+    }
+  },
+  "5881191": {
+    "match_id": "5881191",
+    "league": "Bundesliga",
+    "date": "2026-10-16T18:30:00Z",
+    "home": "Eintracht Frankfurt",
+    "away": "1. FC Köln",
+    "score_str": "1 - 0",
+    "goal_diff": 1,
+    "drama_raw": 55.36,
+    "drama_score": 41.54,
+    "domination_raw": 23.82,
+    "domination_score": 13.77,
+    "score": 41.5,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Eintracht Frankfurt - 1. FC Köln' playlist'te bulunamadı."
+    }
   }
 }
