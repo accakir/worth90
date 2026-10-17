@@ -22,5 +22,4 @@ LEAGUE_IDS = {
     "Bundesliga": 54,
     "Şampiyonlar Ligi": 42,
     "Avrupa Ligi": 73,
-    "Konferans Ligi": 10216,
 }
