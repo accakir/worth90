@@ -56,6 +56,16 @@ TEAM_ALIASES: dict[str, list[str]] = {
     "Union St.Gilloise": ["Gilloise", "U.S Gilloise"],
     "Amed Sportif": ["Amed SF"],
     "Olympiacos": ["Olympiakos"],
+    "NK Celje": ["Celje"],
+    "Omonia Nicosia": ["Omonia"],
+    "Sparta Prague": ["Sparta Prag"],
+    "Jagiellonia Białystok": ["J. Bialystok"],
+    "Lillestrøm": ["Lilleström"],
+    "AFC Bournemouth": ["Bournemouth"],
+    "Ferencváros": ["Ferencvaros"],
+    "Ararat Armenia": ["Ararat Armenia"],
+    "Viktoria Plzeň": ["Viktoria Plzen"],
+    "Levski Sofia": ["Levski Sofya"],
 }
 
 
