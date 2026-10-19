@@ -9916,7 +9916,11 @@
     "badge": "İyi Maç",
     "boxed": false,
     "highlight": {
-      "Durum": "❌ 'Çorum FK - Rizespor' playlist'te bulunamadı."
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "BEIN_SPORTS_TR",
+      "Başlık": "Çorum FK - Çaykur Rizespor | 8. HAFTA MAÇ ÖZETİ | Trendyol Süper Lig - 2026/27",
+      "URL": "https://www.youtube.com/watch?v=5vIl09Fl_V8",
+      "Tarih": "2026-10-19T20:14:25Z"
     }
   },
   "5802957": {
@@ -10996,6 +11000,105 @@
       "Başlık": "Lyon - Nice | 7. Hafta MAÇ ÖZETİ | Ligue 1 McDonald's - 2026/2027",
       "URL": "https://www.youtube.com/watch?v=2yrI1t4q07k",
       "Tarih": "2026-10-18T21:29:13Z"
+    }
+  },
+  "5795484": {
+    "match_id": "5795484",
+    "league": "Premier Lig",
+    "date": "2026-10-19T19:00:00.000Z",
+    "home": "Tottenham Hotspur",
+    "away": "Coventry City",
+    "score_str": "3 - 1",
+    "goal_diff": 2,
+    "drama_raw": 54.63,
+    "drama_score": 41.0,
+    "domination_raw": 46.49,
+    "domination_score": 26.86,
+    "score": 33.9,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "BEIN_SPORTS_TR",
+      "Başlık": "Tottenham - Coventry City | 7. Hafta MAÇ ÖZETİ | Premier League - 2026/27",
+      "URL": "https://www.youtube.com/watch?v=K8T88dGBoYg",
+      "Tarih": "2026-10-19T21:11:41Z"
+    }
+  },
+  "5868095": {
+    "match_id": "5868095",
+    "league": "La Liga",
+    "date": "2026-10-19T19:00:00.000Z",
+    "home": "Getafe",
+    "away": "Rayo Vallecano",
+    "score_str": "1 - 1",
+    "goal_diff": 0,
+    "drama_raw": 61.54,
+    "drama_score": 46.18,
+    "domination_raw": 51.9,
+    "domination_score": 29.99,
+    "score": 46.2,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Getafe - Rayo Vallecano' playlist'te bulunamadı."
+    }
+  },
+  "5749706": {
+    "match_id": "5749706",
+    "league": "Serie A",
+    "date": "2026-10-19T16:30:00.000Z",
+    "home": "Monza",
+    "away": "Cagliari",
+    "score_str": "4 - 0",
+    "goal_diff": 4,
+    "drama_raw": 50.48,
+    "drama_score": 37.88,
+    "domination_raw": 57.17,
+    "domination_score": 33.03,
+    "score": 33.0,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Monza - Cagliari' playlist'te bulunamadı."
+    }
+  },
+  "5749707": {
+    "match_id": "5749707",
+    "league": "Serie A",
+    "date": "2026-10-19T18:45:00.000Z",
+    "home": "Parma",
+    "away": "Torino",
+    "score_str": "0 - 3",
+    "goal_diff": 3,
+    "drama_raw": 33.0,
+    "drama_score": 24.76,
+    "domination_raw": 46.2,
+    "domination_score": 26.7,
+    "score": 26.7,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Parma - Torino' playlist'te bulunamadı."
+    }
+  },
+  "5904767": {
+    "match_id": "5904767",
+    "league": "Süper Lig",
+    "date": "2026-10-19T17:00:00.000Z",
+    "home": "Trabzonspor",
+    "away": "Beşiktaş",
+    "score_str": "2 - 0",
+    "goal_diff": 2,
+    "drama_raw": 37.64,
+    "drama_score": 28.25,
+    "domination_raw": 47.84,
+    "domination_score": 27.64,
+    "score": 27.9,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Trabzonspor - Beşiktaş' playlist'te bulunamadı."
     }
   }
 }
