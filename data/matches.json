@@ -10928,5 +10928,74 @@
       "URL": "https://www.youtube.com/watch?v=nHd6cCMVAm4",
       "Tarih": "2026-09-05T18:03:48Z"
     }
+  },
+  "5868098": {
+    "match_id": "5868098",
+    "league": "La Liga",
+    "date": "2026-10-18T19:00:00Z",
+    "home": "Real Madrid",
+    "away": "Sevilla",
+    "score_str": "4 - 1",
+    "goal_diff": 3,
+    "drama_raw": 43.15,
+    "drama_score": 32.38,
+    "domination_raw": 61.06,
+    "domination_score": 35.28,
+    "score": 35.3,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "S_SPORT",
+      "Başlık": "Real Madrid - Sevilla - Maç Özeti - LaLiga 2026/27",
+      "URL": "https://www.youtube.com/watch?v=R4ABUkfwlqw",
+      "Tarih": "2026-10-18T22:00:29Z"
+    }
+  },
+  "5749705": {
+    "match_id": "5749705",
+    "league": "Serie A",
+    "date": "2026-10-18T18:45:00Z",
+    "home": "Juventus",
+    "away": "Lazio",
+    "score_str": "0 - 3",
+    "goal_diff": 3,
+    "drama_raw": 22.62,
+    "drama_score": 16.98,
+    "domination_raw": 17.52,
+    "domination_score": 10.13,
+    "score": 10.1,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "S_SPORT",
+      "Başlık": "Juventus - Lazio - Maç Özeti - Serie A 2026/27",
+      "URL": "https://www.youtube.com/watch?v=XPLQJg5551o",
+      "Tarih": "2026-10-18T21:27:06Z"
+    }
+  },
+  "5802960": {
+    "match_id": "5802960",
+    "league": "Ligue 1",
+    "date": "2026-10-18T18:45:00Z",
+    "home": "Lyon",
+    "away": "Nice",
+    "score_str": "2 - 1",
+    "goal_diff": 1,
+    "drama_raw": 72.58,
+    "drama_score": 54.47,
+    "domination_raw": 52.71,
+    "domination_score": 30.46,
+    "score": 54.5,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "BEIN_SPORTS_TR",
+      "Başlık": "Lyon - Nice | 7. Hafta MAÇ ÖZETİ | Ligue 1 McDonald's - 2026/2027",
+      "URL": "https://www.youtube.com/watch?v=2yrI1t4q07k",
+      "Tarih": "2026-10-18T21:29:13Z"
+    }
   }
 }
