@@ -11148,5 +11148,184 @@
     "highlight": {
       "Durum": "❌ 'Trabzonspor - Beşiktaş' playlist'te bulunamadı."
     }
+  },
+  "6106333": {
+    "match_id": "6106333",
+    "league": "Şampiyonlar Ligi",
+    "date": "2026-10-20T16:45:00.000Z",
+    "home": "Fenerbahçe",
+    "away": "Slavia Prague",
+    "score_str": "2 - 2",
+    "goal_diff": 0,
+    "drama_raw": 64.47,
+    "drama_score": 48.38,
+    "domination_raw": 46.02,
+    "domination_score": 26.59,
+    "score": 48.4,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "TRT_SPOR",
+      "Başlık": "Şampiyonlar Ligi 3. Hafta | Fenerbahçe - Slavia Prag (Özet) X Petrol Ofisi",
+      "URL": "https://www.youtube.com/watch?v=AdLxGJKSdRk",
+      "Tarih": "2026-10-20T19:07:35Z"
+    }
+  },
+  "6106422": {
+    "match_id": "6106422",
+    "league": "Şampiyonlar Ligi",
+    "date": "2026-10-20T16:45:00.000Z",
+    "home": "Sabah FK",
+    "away": "Borussia Dortmund",
+    "score_str": "1 - 2",
+    "goal_diff": 1,
+    "drama_raw": 60.25,
+    "drama_score": 45.22,
+    "domination_raw": 53.22,
+    "domination_score": 30.76,
+    "score": 45.2,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "TRT_SPOR",
+      "Başlık": "Şampiyonlar Ligi 3. Hafta | Sabah - Dortmund (Özet) X Petrol Ofisi",
+      "URL": "https://www.youtube.com/watch?v=GNqH1awQUOg",
+      "Tarih": "2026-10-20T18:54:38Z"
+    }
+  },
+  "6106287": {
+    "match_id": "6106287",
+    "league": "Şampiyonlar Ligi",
+    "date": "2026-10-20T19:00:00.000Z",
+    "home": "FC Porto",
+    "away": "PSV Eindhoven",
+    "score_str": "0 - 1",
+    "goal_diff": 1,
+    "drama_raw": 61.59,
+    "drama_score": 46.22,
+    "domination_raw": 38.98,
+    "domination_score": 22.52,
+    "score": 46.2,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'FC Porto - PSV Eindhoven' playlist'te bulunamadı."
+    }
+  },
+  "6106248": {
+    "match_id": "6106248",
+    "league": "Şampiyonlar Ligi",
+    "date": "2026-10-20T19:00:00.000Z",
+    "home": "Liverpool",
+    "away": "Villarreal",
+    "score_str": "4 - 3",
+    "goal_diff": 1,
+    "drama_raw": 42.05,
+    "drama_score": 31.55,
+    "domination_raw": 57.87,
+    "domination_score": 33.44,
+    "score": 31.6,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Liverpool - Villarreal' playlist'te bulunamadı."
+    }
+  },
+  "6106257": {
+    "match_id": "6106257",
+    "league": "Şampiyonlar Ligi",
+    "date": "2026-10-20T19:00:00.000Z",
+    "home": "Manchester City",
+    "away": "AEK Athens",
+    "score_str": "5 - 1",
+    "goal_diff": 4,
+    "drama_raw": 30.04,
+    "drama_score": 22.55,
+    "domination_raw": 60.74,
+    "domination_score": 35.1,
+    "score": 35.1,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Manchester City - AEK Athens' playlist'te bulunamadı."
+    }
+  },
+  "6106234": {
+    "match_id": "6106234",
+    "league": "Şampiyonlar Ligi",
+    "date": "2026-10-20T19:00:00.000Z",
+    "home": "Paris Saint-Germain",
+    "away": "Barcelona",
+    "score_str": "4 - 2",
+    "goal_diff": 2,
+    "drama_raw": 85.69,
+    "drama_score": 64.31,
+    "domination_raw": 80.8,
+    "domination_score": 46.69,
+    "score": 55.5,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Paris Saint-Germain - Barcelona' playlist'te bulunamadı."
+    }
+  },
+  "6106277": {
+    "match_id": "6106277",
+    "league": "Şampiyonlar Ligi",
+    "date": "2026-10-20T19:00:00.000Z",
+    "home": "Roma",
+    "away": "Slovan Bratislava",
+    "score_str": "4 - 0",
+    "goal_diff": 4,
+    "drama_raw": 18.87,
+    "drama_score": 14.16,
+    "domination_raw": 52.87,
+    "domination_score": 30.55,
+    "score": 30.6,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Roma - Slovan Bratislava' playlist'te bulunamadı."
+    }
+  },
+  "6106320": {
+    "match_id": "6106320",
+    "league": "Şampiyonlar Ligi",
+    "date": "2026-10-20T19:00:00.000Z",
+    "home": "Napoli",
+    "away": "Bodø/Glimt",
+    "score_str": "4 - 3",
+    "goal_diff": 1,
+    "drama_raw": 67.57,
+    "drama_score": 50.71,
+    "domination_raw": 63.73,
+    "domination_score": 36.83,
+    "score": 50.7,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Napoli - Bodø/Glimt' playlist'te bulunamadı."
+    }
+  },
+  "6106397": {
+    "match_id": "6106397",
+    "league": "Şampiyonlar Ligi",
+    "date": "2026-10-20T19:00:00.000Z",
+    "home": "VfB Stuttgart",
+    "away": "Atlético Madrid",
+    "score_str": "1 - 1",
+    "goal_diff": 0,
+    "drama_raw": 56.53,
+    "drama_score": 42.42,
+    "domination_raw": 45.93,
+    "domination_score": 26.54,
+    "score": 42.4,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'VfB Stuttgart - Atlético Madrid' playlist'te bulunamadı."
+    }
   }
 }
