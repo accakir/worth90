@@ -10702,7 +10702,11 @@
     "badge": "İdare Eder",
     "boxed": false,
     "highlight": {
-      "Durum": "❌ 'Kasımpaşa - Samsunspor' playlist'te bulunamadı."
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "BEIN_SPORTS_TR",
+      "Başlık": "Kasımpaşa - Samsunspor | 8. HAFTA MAÇ ÖZETİ | Trendyol Süper Lig - 2026/27",
+      "URL": "https://www.youtube.com/watch?v=Zr4A60qTBC8",
+      "Tarih": "2026-10-20T14:12:04Z"
     }
   },
   "5904774": {
@@ -10721,7 +10725,11 @@
     "badge": "İdare Eder",
     "boxed": false,
     "highlight": {
-      "Durum": "❌ 'Kocaelispor - Göztepe' playlist'te bulunamadı."
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "BEIN_SPORTS_TR",
+      "Başlık": "Kocaelispor - Göztepe | 8. HAFTA MAÇ ÖZETİ | Trendyol Süper Lig - 2026/27",
+      "URL": "https://www.youtube.com/watch?v=9pqPB5c3MuQ",
+      "Tarih": "2026-10-20T14:18:19Z"
     }
   },
   "5802955": {
