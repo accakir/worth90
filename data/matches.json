@@ -10886,7 +10886,11 @@
     "badge": "İyi Maç",
     "boxed": false,
     "highlight": {
-      "Durum": "❌ 'Başakşehir - Gaziantep FK' playlist'te bulunamadı."
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "BEIN_SPORTS_TR",
+      "Başlık": "Başakşehir - Gaziantep FK | 8. HAFTA MAÇ ÖZETİ | Trendyol Süper Lig - 2026/27",
+      "URL": "https://www.youtube.com/watch?v=6DWpdALMhHc",
+      "Tarih": "2026-10-20T14:25:28Z"
     }
   },
   "5802956": {
@@ -11362,6 +11366,239 @@
       "Başlık": "Şampiyonlar Ligi 3. Hafta | Stuttgart - Atletico Madrid (Özet) X Petrol Ofisi",
       "URL": "https://www.youtube.com/watch?v=lPU12SeVYA8",
       "Tarih": "2026-10-20T21:24:59Z"
+    }
+  },
+  "5868067": {
+    "match_id": "5868067",
+    "league": "La Liga",
+    "date": "2026-10-21T18:00:00.000Z",
+    "home": "Levante",
+    "away": "Athletic Club",
+    "score_str": "3 - 1",
+    "goal_diff": 2,
+    "drama_raw": 60.29,
+    "drama_score": 45.25,
+    "domination_raw": 55.89,
+    "domination_score": 32.29,
+    "score": 38.8,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "S_SPORT",
+      "Başlık": "Levante - Athletic Bilbao - Maç Özeti - LaLiga 2026/27",
+      "URL": "https://www.youtube.com/watch?v=1cUK5mpshw0",
+      "Tarih": "2026-10-21T21:02:17Z"
+    }
+  },
+  "5987811": {
+    "match_id": "5987811",
+    "league": "Şampiyonlar Ligi",
+    "date": "2026-08-25T19:00:00Z",
+    "home": "Bodø/Glimt",
+    "away": "NEC Nijmegen",
+    "score_str": "3 - 0",
+    "goal_diff": 3,
+    "drama_raw": 39.1,
+    "drama_score": 29.34,
+    "domination_raw": 54.45,
+    "domination_score": 31.46,
+    "score": 31.5,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "TRT_SPOR",
+      "Başlık": "Şampiyonlar Ligi Play Off 2. maç | Bodo Glimt-NEC Nijmegen (Özet) x Petrol Ofisi",
+      "URL": "https://www.youtube.com/watch?v=8FQ62gIauAE",
+      "Tarih": "2026-08-25T21:12:49Z"
+    }
+  },
+  "6106410": {
+    "match_id": "6106410",
+    "league": "Şampiyonlar Ligi",
+    "date": "2026-10-21T16:45:00.000Z",
+    "home": "Como",
+    "away": "Manchester United",
+    "score_str": "4 - 1",
+    "goal_diff": 3,
+    "drama_raw": 31.11,
+    "drama_score": 23.35,
+    "domination_raw": 49.99,
+    "domination_score": 28.89,
+    "score": 28.9,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "TRT_SPOR",
+      "Başlık": "Şampiyonlar Ligi 3. Hafta | Como - Manchester United (Özet) X Petrol Ofisi",
+      "URL": "https://www.youtube.com/watch?v=OUixO4cXAT8",
+      "Tarih": "2026-10-21T19:26:39Z"
+    }
+  },
+  "6106312": {
+    "match_id": "6106312",
+    "league": "Şampiyonlar Ligi",
+    "date": "2026-10-21T16:45:00.000Z",
+    "home": "Lille",
+    "away": "Galatasaray",
+    "score_str": "2 - 4",
+    "goal_diff": 2,
+    "drama_raw": 40.8,
+    "drama_score": 30.62,
+    "domination_raw": 49.78,
+    "domination_score": 28.77,
+    "score": 29.7,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "TRT_SPOR",
+      "Başlık": "Şampiyonlar Ligi 3. Hafta | Lille - Galatasaray (Özet) X Petrol Ofisi",
+      "URL": "https://www.youtube.com/watch?v=trSabcA4How",
+      "Tarih": "2026-10-21T19:18:08Z"
+    }
+  },
+  "6106285": {
+    "match_id": "6106285",
+    "league": "Şampiyonlar Ligi",
+    "date": "2026-10-21T19:00:00.000Z",
+    "home": "Aston Villa",
+    "away": "Viking",
+    "score_str": "3 - 1",
+    "goal_diff": 2,
+    "drama_raw": 35.31,
+    "drama_score": 26.5,
+    "domination_raw": 41.45,
+    "domination_score": 23.95,
+    "score": 25.2,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Aston Villa - Viking' playlist'te bulunamadı."
+    }
+  },
+  "6106238": {
+    "match_id": "6106238",
+    "league": "Şampiyonlar Ligi",
+    "date": "2026-10-21T19:00:00.000Z",
+    "home": "Bayern München",
+    "away": "Arsenal",
+    "score_str": "2 - 2",
+    "goal_diff": 0,
+    "drama_raw": 71.13,
+    "drama_score": 53.38,
+    "domination_raw": 48.49,
+    "domination_score": 28.02,
+    "score": 53.4,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "TRT_SPOR",
+      "Başlık": "Şampiyonlar Ligi 3. Hafta | Bayern - Arsenal (Özet) X Petrol Ofisi",
+      "URL": "https://www.youtube.com/watch?v=mqHtQLVGBvA",
+      "Tarih": "2026-10-21T21:26:34Z"
+    }
+  },
+  "6106297": {
+    "match_id": "6106297",
+    "league": "Şampiyonlar Ligi",
+    "date": "2026-10-21T19:00:00.000Z",
+    "home": "Club Brugge",
+    "away": "Lens",
+    "score_str": "3 - 0",
+    "goal_diff": 3,
+    "drama_raw": 44.74,
+    "drama_score": 33.58,
+    "domination_raw": 51.02,
+    "domination_score": 29.48,
+    "score": 29.5,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Club Brugge - Lens' playlist'te bulunamadı."
+    }
+  },
+  "6106252": {
+    "match_id": "6106252",
+    "league": "Şampiyonlar Ligi",
+    "date": "2026-10-21T19:00:00.000Z",
+    "home": "Inter",
+    "away": "Shakhtar Donetsk",
+    "score_str": "1 - 0",
+    "goal_diff": 1,
+    "drama_raw": 40.31,
+    "drama_score": 30.25,
+    "domination_raw": 14.9,
+    "domination_score": 8.61,
+    "score": 30.3,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Inter - Shakhtar Donetsk' playlist'te bulunamadı."
+    }
+  },
+  "6106300": {
+    "match_id": "6106300",
+    "league": "Şampiyonlar Ligi",
+    "date": "2026-10-21T19:00:00.000Z",
+    "home": "Real Betis",
+    "away": "Feyenoord",
+    "score_str": "1 - 0",
+    "goal_diff": 1,
+    "drama_raw": 52.45,
+    "drama_score": 39.36,
+    "domination_raw": 26.18,
+    "domination_score": 15.13,
+    "score": 39.4,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "TRT_SPOR",
+      "Başlık": "Şampiyonlar Ligi 3. Hafta | Real Betis - Feyenoord (Özet) X Petrol Ofisi",
+      "URL": "https://www.youtube.com/watch?v=iX654rYVdA0",
+      "Tarih": "2026-10-21T21:24:00Z"
+    }
+  },
+  "6106244": {
+    "match_id": "6106244",
+    "league": "Şampiyonlar Ligi",
+    "date": "2026-10-21T19:00:00.000Z",
+    "home": "Real Madrid",
+    "away": "RB Leipzig",
+    "score_str": "4 - 1",
+    "goal_diff": 3,
+    "drama_raw": 43.04,
+    "drama_score": 32.3,
+    "domination_raw": 76.92,
+    "domination_score": 44.45,
+    "score": 44.5,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Real Madrid - RB Leipzig' playlist'te bulunamadı."
+    }
+  },
+  "6106281": {
+    "match_id": "6106281",
+    "league": "Şampiyonlar Ligi",
+    "date": "2026-10-21T19:00:00.000Z",
+    "home": "Sporting CP",
+    "away": "LASK",
+    "score_str": "2 - 3",
+    "goal_diff": 1,
+    "drama_raw": 37.42,
+    "drama_score": 28.08,
+    "domination_raw": 47.58,
+    "domination_score": 27.49,
+    "score": 28.1,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Sporting CP - LASK' playlist'te bulunamadı."
     }
   }
 }
