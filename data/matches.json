@@ -11476,7 +11476,11 @@
     "badge": "İdare Eder",
     "boxed": false,
     "highlight": {
-      "Durum": "❌ 'Aston Villa - Viking' playlist'te bulunamadı."
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "TRT_SPOR",
+      "Başlık": "Şampiyonlar Ligi 3. Hafta | Aston Villa - Viking (Özet) X Petrol Ofisi",
+      "URL": "https://www.youtube.com/watch?v=ewWIBKXS8Qk",
+      "Tarih": "2026-10-21T21:45:58Z"
     }
   },
   "6106238": {
@@ -11518,7 +11522,11 @@
     "badge": "İdare Eder",
     "boxed": false,
     "highlight": {
-      "Durum": "❌ 'Club Brugge - Lens' playlist'te bulunamadı."
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "TRT_SPOR",
+      "Başlık": "Şampiyonlar Ligi 3. Hafta | Club Brugge - Lens (Özet) X Petrol Ofisi",
+      "URL": "https://www.youtube.com/watch?v=fwzKB7cewKM",
+      "Tarih": "2026-10-21T22:00:20Z"
     }
   },
   "6106252": {
@@ -11537,7 +11545,11 @@
     "badge": "İdare Eder",
     "boxed": false,
     "highlight": {
-      "Durum": "❌ 'Inter - Shakhtar Donetsk' playlist'te bulunamadı."
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "TRT_SPOR",
+      "Başlık": "Şampiyonlar Ligi 3. Hafta | Inter - Shakhtar (Özet) X Petrol Ofisi",
+      "URL": "https://www.youtube.com/watch?v=9pLB9dALnPg",
+      "Tarih": "2026-10-21T21:31:43Z"
     }
   },
   "6106300": {
@@ -11579,7 +11591,11 @@
     "badge": "İyi Maç",
     "boxed": false,
     "highlight": {
-      "Durum": "❌ 'Real Madrid - RB Leipzig' playlist'te bulunamadı."
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "TRT_SPOR",
+      "Başlık": "Şampiyonlar Ligi 3. Hafta | Real Madrid - Leipzig (Özet) X Petrol Ofisi",
+      "URL": "https://www.youtube.com/watch?v=iE1fwWp1jgo",
+      "Tarih": "2026-10-21T21:34:43Z"
     }
   },
   "6106281": {
@@ -11598,7 +11614,57 @@
     "badge": "İdare Eder",
     "boxed": false,
     "highlight": {
-      "Durum": "❌ 'Sporting CP - LASK' playlist'te bulunamadı."
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "TRT_SPOR",
+      "Başlık": "Şampiyonlar Ligi 3. Hafta | Sporting - LASK (Özet) X Petrol Ofisi",
+      "URL": "https://www.youtube.com/watch?v=XgrpNUZVrWA",
+      "Tarih": "2026-10-21T21:35:36Z"
+    }
+  },
+  "1000022715": {
+    "match_id": "1000022715",
+    "league": "Şampiyonlar Ligi",
+    "date": "2026-08-19T19:00:00Z",
+    "home": "Hapoel Beer Sheva",
+    "away": "Sabah FK",
+    "score_str": "2 - 1",
+    "goal_diff": 1,
+    "drama_raw": 58.22,
+    "drama_score": 43.69,
+    "domination_raw": 45.04,
+    "domination_score": 26.02,
+    "score": 43.7,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "TRT_SPOR",
+      "Başlık": "Şampiyonlar Ligi Play Off 2. Maç | Sabah - HB Sheva (Özet) X Petrol Ofisi",
+      "URL": "https://www.youtube.com/watch?v=ddw8nfD0fRk",
+      "Tarih": "2026-08-26T08:12:55Z"
+    }
+  },
+  "1000022712": {
+    "match_id": "1000022712",
+    "league": "Şampiyonlar Ligi",
+    "date": "2026-08-25T16:45:00Z",
+    "home": "Sabah FK",
+    "away": "Hapoel Beer Sheva",
+    "score_str": "5 - 2",
+    "goal_diff": 3,
+    "drama_raw": 72.9,
+    "drama_score": 54.71,
+    "domination_raw": 80.08,
+    "domination_score": 46.27,
+    "score": 46.3,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "TRT_SPOR",
+      "Başlık": "Şampiyonlar Ligi Play Off 2. Maç | Sabah - HB Sheva (Özet) X Petrol Ofisi",
+      "URL": "https://www.youtube.com/watch?v=ddw8nfD0fRk",
+      "Tarih": "2026-08-26T08:12:55Z"
     }
   }
 }
