@@ -11670,5 +11670,375 @@
       "URL": "https://www.youtube.com/watch?v=ddw8nfD0fRk",
       "Tarih": "2026-08-26T08:12:55Z"
     }
+  },
+  "6112382": {
+    "match_id": "6112382",
+    "league": "Avrupa Ligi",
+    "date": "2026-10-22T16:45:00.000Z",
+    "home": "Ararat Armenia",
+    "away": "AZ Alkmaar",
+    "score_str": "0 - 4",
+    "goal_diff": 4,
+    "drama_raw": 32.2,
+    "drama_score": 24.16,
+    "domination_raw": 53.5,
+    "domination_score": 30.92,
+    "score": 30.9,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "TRT_SPOR",
+      "Başlık": "Avrupa Ligi 3. Hafta | Ararat - AZ Alkmaar (Özet) X Petrol Ofisi",
+      "URL": "https://www.youtube.com/watch?v=a2HG5zYjqBI",
+      "Tarih": "2026-10-22T19:04:34Z"
+    }
+  },
+  "6112293": {
+    "match_id": "6112293",
+    "league": "Avrupa Ligi",
+    "date": "2026-10-22T16:45:00.000Z",
+    "home": "Dinamo Zagreb",
+    "away": "NEC Nijmegen",
+    "score_str": "2 - 4",
+    "goal_diff": 2,
+    "drama_raw": 61.8,
+    "drama_score": 46.38,
+    "domination_raw": 56.45,
+    "domination_score": 32.62,
+    "score": 39.5,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "TRT_SPOR",
+      "Başlık": "Avrupa Ligi 3. Hafta | Dinamo Zagreb - NEC Nijmegen (Özet) X Petrol Ofisi",
+      "URL": "https://www.youtube.com/watch?v=8t6Fz03eL50",
+      "Tarih": "2026-10-22T19:24:01Z"
+    }
+  },
+  "6112281": {
+    "match_id": "6112281",
+    "league": "Avrupa Ligi",
+    "date": "2026-10-22T16:45:00.000Z",
+    "home": "Ferencváros",
+    "away": "Torreense",
+    "score_str": "4 - 1",
+    "goal_diff": 3,
+    "drama_raw": 50.71,
+    "drama_score": 38.06,
+    "domination_raw": 34.95,
+    "domination_score": 20.19,
+    "score": 20.2,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "TRT_SPOR",
+      "Başlık": "Avrupa Ligi 3. Hafta | Ferencvaros - Torreense (Özet) X Petrol Ofisi",
+      "URL": "https://www.youtube.com/watch?v=g3aqvhxu79U",
+      "Tarih": "2026-10-22T18:58:14Z"
+    }
+  },
+  "6112251": {
+    "match_id": "6112251",
+    "league": "Avrupa Ligi",
+    "date": "2026-10-22T16:45:00.000Z",
+    "home": "Juventus",
+    "away": "Rennes",
+    "score_str": "2 - 2",
+    "goal_diff": 0,
+    "drama_raw": 63.22,
+    "drama_score": 47.44,
+    "domination_raw": 46.98,
+    "domination_score": 27.15,
+    "score": 47.4,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "TRT_SPOR",
+      "Başlık": "Avrupa Ligi 3. Hafta | Juventus - Rennes (Özet) X Petrol Ofisi",
+      "URL": "https://www.youtube.com/watch?v=sTzVMJMOUUY",
+      "Tarih": "2026-10-22T19:10:19Z"
+    }
+  },
+  "6112320": {
+    "match_id": "6112320",
+    "league": "Avrupa Ligi",
+    "date": "2026-10-22T16:45:00.000Z",
+    "home": "Lech Poznań",
+    "away": "Sunderland",
+    "score_str": "1 - 1",
+    "goal_diff": 0,
+    "drama_raw": 62.04,
+    "drama_score": 46.56,
+    "domination_raw": 49.37,
+    "domination_score": 28.53,
+    "score": 46.6,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "TRT_SPOR",
+      "Başlık": "Avrupa Ligi 3. Hafta | Lech Poznan - Sunderland (Özet) X Petrol Ofisi",
+      "URL": "https://www.youtube.com/watch?v=of1bFv08lVU",
+      "Tarih": "2026-10-22T18:49:17Z"
+    }
+  },
+  "6112370": {
+    "match_id": "6112370",
+    "league": "Avrupa Ligi",
+    "date": "2026-10-22T16:45:00.000Z",
+    "home": "OFI Crete",
+    "away": "Bayer Leverkusen",
+    "score_str": "0 - 2",
+    "goal_diff": 2,
+    "drama_raw": 25.36,
+    "drama_score": 19.03,
+    "domination_raw": 53.36,
+    "domination_score": 30.83,
+    "score": 24.9,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "TRT_SPOR",
+      "Başlık": "Avrupa Ligi 3. Hafta | OFI - B. Leverkusen (Özet) X Petrol Ofisi",
+      "URL": "https://www.youtube.com/watch?v=5I1b8m9hN7A",
+      "Tarih": "2026-10-22T18:54:05Z"
+    }
+  },
+  "6112314": {
+    "match_id": "6112314",
+    "league": "Avrupa Ligi",
+    "date": "2026-10-22T16:45:00.000Z",
+    "home": "Sturm Graz",
+    "away": "Marseille",
+    "score_str": "1 - 0",
+    "goal_diff": 1,
+    "drama_raw": 60.45,
+    "drama_score": 45.37,
+    "domination_raw": 29.27,
+    "domination_score": 16.92,
+    "score": 45.4,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "TRT_SPOR",
+      "Başlık": "Avrupa Ligi 3. Hafta | Sturm Graz - Marsilya (Özet) X Petrol Ofisi",
+      "URL": "https://www.youtube.com/watch?v=MO895lLc2kM",
+      "Tarih": "2026-10-22T19:13:56Z"
+    }
+  },
+  "6112289": {
+    "match_id": "6112289",
+    "league": "Avrupa Ligi",
+    "date": "2026-10-22T16:45:00.000Z",
+    "home": "Union St.Gilloise",
+    "away": "Hapoel Beer Sheva",
+    "score_str": "4 - 0",
+    "goal_diff": 4,
+    "drama_raw": 35.24,
+    "drama_score": 26.45,
+    "domination_raw": 41.98,
+    "domination_score": 24.26,
+    "score": 24.3,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Union St.Gilloise - Hapoel Beer Sheva' playlist'te bulunamadı."
+    }
+  },
+  "6112326": {
+    "match_id": "6112326",
+    "league": "Avrupa Ligi",
+    "date": "2026-10-22T19:00:00.000Z",
+    "home": "AFC Bournemouth",
+    "away": "Milan",
+    "score_str": "3 - 0",
+    "goal_diff": 3,
+    "drama_raw": 32.49,
+    "drama_score": 24.38,
+    "domination_raw": 63.49,
+    "domination_score": 36.69,
+    "score": 36.7,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'AFC Bournemouth - Milan' playlist'te bulunamadı."
+    }
+  },
+  "6112356": {
+    "match_id": "6112356",
+    "league": "Avrupa Ligi",
+    "date": "2026-10-22T19:00:00.000Z",
+    "home": "Beşiktaş",
+    "away": "Crystal Palace",
+    "score_str": "2 - 2",
+    "goal_diff": 0,
+    "drama_raw": 55.63,
+    "drama_score": 41.75,
+    "domination_raw": 22.25,
+    "domination_score": 12.86,
+    "score": 41.7,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Beşiktaş - Crystal Palace' playlist'te bulunamadı."
+    }
+  },
+  "6112300": {
+    "match_id": "6112300",
+    "league": "Avrupa Ligi",
+    "date": "2026-10-22T19:00:00.000Z",
+    "home": "Celtic",
+    "away": "Celta Vigo",
+    "score_str": "1 - 2",
+    "goal_diff": 1,
+    "drama_raw": 57.21,
+    "drama_score": 42.94,
+    "domination_raw": 26.84,
+    "domination_score": 15.51,
+    "score": 42.9,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Celtic - Celta Vigo' playlist'te bulunamadı."
+    }
+  },
+  "6112350": {
+    "match_id": "6112350",
+    "league": "Avrupa Ligi",
+    "date": "2026-10-22T19:00:00.000Z",
+    "home": "Hoffenheim",
+    "away": "Lyon",
+    "score_str": "3 - 0",
+    "goal_diff": 3,
+    "drama_raw": 36.13,
+    "drama_score": 27.12,
+    "domination_raw": 34.4,
+    "domination_score": 19.88,
+    "score": 19.9,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Hoffenheim - Lyon' playlist'te bulunamadı."
+    }
+  },
+  "6112339": {
+    "match_id": "6112339",
+    "league": "Avrupa Ligi",
+    "date": "2026-10-22T19:00:00.000Z",
+    "home": "Jagiellonia Białystok",
+    "away": "Anderlecht",
+    "score_str": "0 - 3",
+    "goal_diff": 3,
+    "drama_raw": 29.34,
+    "drama_score": 22.02,
+    "domination_raw": 28.74,
+    "domination_score": 16.61,
+    "score": 16.6,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Jagiellonia Białystok - Anderlecht' playlist'te bulunamadı."
+    }
+  },
+  "6112374": {
+    "match_id": "6112374",
+    "league": "Avrupa Ligi",
+    "date": "2026-10-22T19:00:00.000Z",
+    "home": "Lillestrøm",
+    "away": "Real Sociedad",
+    "score_str": "0 - 6",
+    "goal_diff": 6,
+    "drama_raw": 54.31,
+    "drama_score": 40.76,
+    "domination_raw": 73.17,
+    "domination_score": 42.28,
+    "score": 42.3,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Lillestrøm - Real Sociedad' playlist'te bulunamadı."
+    }
+  },
+  "6112335": {
+    "match_id": "6112335",
+    "league": "Avrupa Ligi",
+    "date": "2026-10-22T19:00:00.000Z",
+    "home": "NK Celje",
+    "away": "Salzburg",
+    "score_str": "2 - 2",
+    "goal_diff": 0,
+    "drama_raw": 60.4,
+    "drama_score": 45.33,
+    "domination_raw": 41.42,
+    "domination_score": 23.94,
+    "score": 45.3,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'NK Celje - Salzburg' playlist'te bulunamadı."
+    }
+  },
+  "6112267": {
+    "match_id": "6112267",
+    "league": "Avrupa Ligi",
+    "date": "2026-10-22T19:00:00.000Z",
+    "home": "Olympiacos",
+    "away": "Sparta Prague",
+    "score_str": "1 - 0",
+    "goal_diff": 1,
+    "drama_raw": 33.65,
+    "drama_score": 25.25,
+    "domination_raw": 18.18,
+    "domination_score": 10.5,
+    "score": 25.3,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Olympiacos - Sparta Prague' playlist'te bulunamadı."
+    }
+  },
+  "6112342": {
+    "match_id": "6112342",
+    "league": "Avrupa Ligi",
+    "date": "2026-10-22T19:00:00.000Z",
+    "home": "Omonia Nicosia",
+    "away": "Benfica",
+    "score_str": "1 - 4",
+    "goal_diff": 3,
+    "drama_raw": 37.88,
+    "drama_score": 28.43,
+    "domination_raw": 60.17,
+    "domination_score": 34.77,
+    "score": 34.8,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Omonia Nicosia - Benfica' playlist'te bulunamadı."
+    }
+  },
+  "6112285": {
+    "match_id": "6112285",
+    "league": "Avrupa Ligi",
+    "date": "2026-10-22T19:00:00.000Z",
+    "home": "Viktoria Plzeň",
+    "away": "Levski Sofia",
+    "score_str": "1 - 2",
+    "goal_diff": 1,
+    "drama_raw": 49.55,
+    "drama_score": 37.19,
+    "domination_raw": 17.54,
+    "domination_score": 10.13,
+    "score": 37.2,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Viktoria Plzeň - Levski Sofia' playlist'te bulunamadı."
+    }
   }
 }
