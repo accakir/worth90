@@ -12068,5 +12068,127 @@
     "highlight": {
       "Durum": "❌ 'Viktoria Plzeň - Levski Sofia' playlist'te bulunamadı."
     }
+  },
+  "5795491": {
+    "match_id": "5795491",
+    "league": "Premier Lig",
+    "date": "2026-10-23T19:00:00.000Z",
+    "home": "Ipswich Town",
+    "away": "Nottingham Forest",
+    "score_str": "1 - 1",
+    "goal_diff": 0,
+    "drama_raw": 59.02,
+    "drama_score": 44.29,
+    "domination_raw": 33.81,
+    "domination_score": 19.54,
+    "score": 44.3,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Ipswich Town - Nottingham Forest' playlist'te bulunamadı."
+    }
+  },
+  "5868101": {
+    "match_id": "5868101",
+    "league": "La Liga",
+    "date": "2026-10-23T19:00:00.000Z",
+    "home": "Deportivo Alavés",
+    "away": "Málaga",
+    "score_str": "1 - 1",
+    "goal_diff": 0,
+    "drama_raw": 61.42,
+    "drama_score": 46.09,
+    "domination_raw": 34.19,
+    "domination_score": 19.76,
+    "score": 46.1,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "S_SPORT",
+      "Başlık": "Malaga - Deportivo - Maç Özeti - LaLiga 2026/27",
+      "URL": "https://www.youtube.com/watch?v=ZGBt7GhcWtc",
+      "Tarih": "2026-08-24T21:53:01Z"
+    }
+  },
+  "5749718": {
+    "match_id": "5749718",
+    "league": "Serie A",
+    "date": "2026-10-23T18:45:00.000Z",
+    "home": "Torino",
+    "away": "Monza",
+    "score_str": "3 - 2",
+    "goal_diff": 1,
+    "drama_raw": 43.6,
+    "drama_score": 32.72,
+    "domination_raw": 36.63,
+    "domination_score": 21.16,
+    "score": 32.7,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Torino - Monza' playlist'te bulunamadı."
+    }
+  },
+  "5904778": {
+    "match_id": "5904778",
+    "league": "Süper Lig",
+    "date": "2026-10-23T17:00:00.000Z",
+    "home": "Alanyaspor",
+    "away": "Kocaelispor",
+    "score_str": "1 - 2",
+    "goal_diff": 1,
+    "drama_raw": 46.78,
+    "drama_score": 35.11,
+    "domination_raw": 25.3,
+    "domination_score": 14.62,
+    "score": 35.1,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Alanyaspor - Kocaelispor' playlist'te bulunamadı."
+    }
+  },
+  "5802966": {
+    "match_id": "5802966",
+    "league": "Ligue 1",
+    "date": "2026-10-23T18:45:00.000Z",
+    "home": "Brest",
+    "away": "Nice",
+    "score_str": "1 - 2",
+    "goal_diff": 1,
+    "drama_raw": 64.98,
+    "drama_score": 48.77,
+    "domination_raw": 39.61,
+    "domination_score": 22.89,
+    "score": 48.8,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Brest - Nice' playlist'te bulunamadı."
+    }
+  },
+  "5881205": {
+    "match_id": "5881205",
+    "league": "Bundesliga",
+    "date": "2026-10-23T18:30:00.000Z",
+    "home": "VfB Stuttgart",
+    "away": "Borussia Mönchengladbach",
+    "score_str": "2 - 3",
+    "goal_diff": 1,
+    "drama_raw": 51.91,
+    "drama_score": 38.95,
+    "domination_raw": 64.81,
+    "domination_score": 37.45,
+    "score": 39.0,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "⚡ MUHTEMEL EŞLEŞME",
+      "Kanal": "S_SPORT",
+      "Başlık": "Stuttgart - Borussia Dortmund | Bundesliga 2026/27",
+      "URL": "https://www.youtube.com/watch?v=TpW8RiP4HvY",
+      "Tarih": "2026-09-21T17:06:33Z"
+    }
   }
 }
