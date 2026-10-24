@@ -12127,7 +12127,11 @@
     "badge": "İdare Eder",
     "boxed": false,
     "highlight": {
-      "Durum": "❌ 'Torino - Monza' playlist'te bulunamadı."
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "S_SPORT",
+      "Başlık": "Torino - Monza - Maç Özeti - Serie A 2026/27",
+      "URL": "https://www.youtube.com/watch?v=YihAIZ1XyQc",
+      "Tarih": "2026-10-23T21:36:51Z"
     }
   },
   "5904778": {
