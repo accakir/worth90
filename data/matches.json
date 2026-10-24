@@ -12242,7 +12242,11 @@
     "badge": "İdare Eder",
     "boxed": false,
     "highlight": {
-      "Durum": "❌ 'Rayo Vallecano - Elche' playlist'te bulunamadı."
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "S_SPORT",
+      "Başlık": "Rayo Vallecano - Elche - Maç Özeti - LaLiga 2026/27",
+      "URL": "https://www.youtube.com/watch?v=qyHp85dZ6nE",
+      "Tarih": "2026-10-24T15:49:06Z"
     }
   },
   "5749711": {
@@ -12261,7 +12265,11 @@
     "badge": "Uyutabilir",
     "boxed": false,
     "highlight": {
-      "Durum": "❌ 'Cagliari - Bologna' playlist'te bulunamadı."
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "S_SPORT",
+      "Başlık": "Cagliari - Bologna - Maç Özeti - Serie A 2026/27",
+      "URL": "https://www.youtube.com/watch?v=ufN5zPYKPvU",
+      "Tarih": "2026-10-24T16:01:37Z"
     }
   },
   "5749712": {
@@ -12280,7 +12288,11 @@
     "badge": "Uyutabilir",
     "boxed": false,
     "highlight": {
-      "Durum": "❌ 'Como - Sassuolo' playlist'te bulunamadı."
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "S_SPORT",
+      "Başlık": "Como - Sassuolo - Maç Özeti - Serie A 2026/27",
+      "URL": "https://www.youtube.com/watch?v=VoaQU8aegGQ",
+      "Tarih": "2026-10-24T15:46:25Z"
     }
   },
   "5904777": {
@@ -12413,7 +12425,191 @@
     "badge": "Uyutabilir",
     "boxed": false,
     "highlight": {
-      "Durum": "❌ 'RB Leipzig - Elversberg' playlist'te bulunamadı."
+      "Durum": "⚡ MUHTEMEL EŞLEŞME",
+      "Kanal": "S_SPORT",
+      "Başlık": "Leipzig - Elversberg | Bundesliga 2026/27",
+      "URL": "https://www.youtube.com/watch?v=T70WIldZUu4",
+      "Tarih": "2026-10-24T17:45:31Z"
+    }
+  },
+  "5795485": {
+    "match_id": "5795485",
+    "league": "Premier Lig",
+    "date": "2026-10-24T14:00:00.000Z",
+    "home": "Arsenal",
+    "away": "Everton",
+    "score_str": "2 - 0",
+    "goal_diff": 2,
+    "drama_raw": 32.1,
+    "drama_score": 24.09,
+    "domination_raw": 25.16,
+    "domination_score": 14.54,
+    "score": 19.3,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "BEIN_SPORTS_TR",
+      "Başlık": "Arsenal - Everton | 8. Hafta MAÇ ÖZETİ | Premier League - 2026/27",
+      "URL": "https://www.youtube.com/watch?v=uHAqnB41RzM",
+      "Tarih": "2026-10-24T16:37:55Z"
+    }
+  },
+  "5795488": {
+    "match_id": "5795488",
+    "league": "Premier Lig",
+    "date": "2026-10-24T14:00:00.000Z",
+    "home": "Coventry City",
+    "away": "Fulham",
+    "score_str": "0 - 1",
+    "goal_diff": 1,
+    "drama_raw": 48.24,
+    "drama_score": 36.2,
+    "domination_raw": 25.15,
+    "domination_score": 14.53,
+    "score": 36.2,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "BEIN_SPORTS_TR",
+      "Başlık": "Coventry - Fulham | 8. Hafta MAÇ ÖZETİ | Premier League - 2026/27",
+      "URL": "https://www.youtube.com/watch?v=VEQHErH447A",
+      "Tarih": "2026-10-24T16:29:55Z"
+    }
+  },
+  "5795487": {
+    "match_id": "5795487",
+    "league": "Premier Lig",
+    "date": "2026-10-24T16:30:00.000Z",
+    "home": "Chelsea",
+    "away": "Tottenham Hotspur",
+    "score_str": "0 - 2",
+    "goal_diff": 2,
+    "drama_raw": 46.97,
+    "drama_score": 35.25,
+    "domination_raw": 38.74,
+    "domination_score": 22.39,
+    "score": 28.8,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "BEIN_SPORTS_TR",
+      "Başlık": "Chelsea - Tottenham | 8. Hafta MAÇ ÖZETİ | Premier League - 2026/27",
+      "URL": "https://www.youtube.com/watch?v=79qCzVPlW_U",
+      "Tarih": "2026-10-24T18:48:30Z"
+    }
+  },
+  "5868106": {
+    "match_id": "5868106",
+    "league": "La Liga",
+    "date": "2026-10-24T14:15:00.000Z",
+    "home": "Racing Santander",
+    "away": "Espanyol",
+    "score_str": "2 - 1",
+    "goal_diff": 1,
+    "drama_raw": 57.76,
+    "drama_score": 43.35,
+    "domination_raw": 37.55,
+    "domination_score": 21.7,
+    "score": 43.3,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "S_SPORT",
+      "Başlık": "Racing Santander - Espanyol - Maç Özeti - LaLiga 2026/27",
+      "URL": "https://www.youtube.com/watch?v=7zO8rV7CMic",
+      "Tarih": "2026-10-24T16:50:45Z"
+    }
+  },
+  "5868110": {
+    "match_id": "5868110",
+    "league": "La Liga",
+    "date": "2026-10-24T16:30:00.000Z",
+    "home": "Valencia",
+    "away": "Villarreal",
+    "score_str": "1 - 2",
+    "goal_diff": 1,
+    "drama_raw": 72.49,
+    "drama_score": 54.4,
+    "domination_raw": 62.97,
+    "domination_score": 36.39,
+    "score": 54.4,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "S_SPORT",
+      "Başlık": "Valencia - Villarreal - Maç Özeti - LaLiga 2026/27",
+      "URL": "https://www.youtube.com/watch?v=3S-gVAsRZrA",
+      "Tarih": "2026-10-24T19:02:23Z"
+    }
+  },
+  "5749717": {
+    "match_id": "5749717",
+    "league": "Serie A",
+    "date": "2026-10-24T16:00:00.000Z",
+    "home": "Napoli",
+    "away": "Roma",
+    "score_str": "3 - 3",
+    "goal_diff": 0,
+    "drama_raw": 92.28,
+    "drama_score": 69.26,
+    "domination_raw": 88.72,
+    "domination_score": 51.27,
+    "score": 69.3,
+    "badge": "Tatmin Edici",
+    "boxed": true,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "S_SPORT",
+      "Başlık": "Napoli - Roma - Maç Özeti - Serie A 2026/27",
+      "URL": "https://www.youtube.com/watch?v=_PxI4fF6s_A",
+      "Tarih": "2026-10-24T18:58:34Z"
+    }
+  },
+  "5904784": {
+    "match_id": "5904784",
+    "league": "Süper Lig",
+    "date": "2026-10-24T16:00:00.000Z",
+    "home": "Samsunspor",
+    "away": "Amed Sportif",
+    "score_str": "1 - 2",
+    "goal_diff": 1,
+    "drama_raw": 81.46,
+    "drama_score": 61.13,
+    "domination_raw": 41.38,
+    "domination_score": 23.91,
+    "score": 61.1,
+    "badge": "Tatmin Edici",
+    "boxed": true,
+    "highlight": {
+      "Durum": "❌ 'Samsunspor - Amed Sportif' playlist'te bulunamadı."
+    }
+  },
+  "5881198": {
+    "match_id": "5881198",
+    "league": "Bundesliga",
+    "date": "2026-10-24T16:30:00.000Z",
+    "home": "Borussia Dortmund",
+    "away": "Eintracht Frankfurt",
+    "score_str": "1 - 0",
+    "goal_diff": 1,
+    "drama_raw": 68.0,
+    "drama_score": 51.04,
+    "domination_raw": 29.66,
+    "domination_score": 17.14,
+    "score": 51.0,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "⚡ MUHTEMEL EŞLEŞME",
+      "Kanal": "S_SPORT",
+      "Başlık": "Borussia Dortmund - Eintracht Frankfurt | Bundesliga 2026/27",
+      "URL": "https://www.youtube.com/watch?v=irE4MbSov5w",
+      "Tarih": "2026-10-24T19:16:02Z"
     }
   }
 }
