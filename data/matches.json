@@ -12611,5 +12611,70 @@
       "URL": "https://www.youtube.com/watch?v=irE4MbSov5w",
       "Tarih": "2026-10-24T19:16:02Z"
     }
+  },
+  "5868103": {
+    "match_id": "5868103",
+    "league": "La Liga",
+    "date": "2026-10-24T19:00:00Z",
+    "home": "Atlético Madrid",
+    "away": "Deportivo A Coruña",
+    "score_str": "1 - 0",
+    "goal_diff": 1,
+    "drama_raw": 59.56,
+    "drama_score": 44.7,
+    "domination_raw": 35.71,
+    "domination_score": 20.64,
+    "score": 44.7,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "S_SPORT",
+      "Başlık": "Atletico Madrid - Deportivo - Maç Özeti - LaLiga 2026/27",
+      "URL": "https://www.youtube.com/watch?v=lDiojPzfPx0",
+      "Tarih": "2026-10-24T21:11:19Z"
+    }
+  },
+  "5749715": {
+    "match_id": "5749715",
+    "league": "Serie A",
+    "date": "2026-10-24T18:45:00Z",
+    "home": "Lazio",
+    "away": "Parma",
+    "score_str": "2 - 1",
+    "goal_diff": 1,
+    "drama_raw": 55.49,
+    "drama_score": 41.65,
+    "domination_raw": 58.91,
+    "domination_score": 34.04,
+    "score": 41.6,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "S_SPORT",
+      "Başlık": "Lazio - Parma - Maç Özeti - Serie A 2026/27",
+      "URL": "https://www.youtube.com/watch?v=af5v-vJ_cy8",
+      "Tarih": "2026-10-24T20:57:24Z"
+    }
+  },
+  "5802967": {
+    "match_id": "5802967",
+    "league": "Ligue 1",
+    "date": "2026-10-24T18:45:00Z",
+    "home": "Lens",
+    "away": "Paris FC",
+    "score_str": "2 - 1",
+    "goal_diff": 1,
+    "drama_raw": 64.42,
+    "drama_score": 48.35,
+    "domination_raw": 24.99,
+    "domination_score": 14.44,
+    "score": 48.3,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Lens - Paris FC' playlist'te bulunamadı."
+    }
   }
 }
