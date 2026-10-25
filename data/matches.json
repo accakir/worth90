@@ -12680,5 +12680,70 @@
       "URL": "https://www.youtube.com/watch?v=6uOsEs4G7pU",
       "Tarih": "2026-10-25T09:07:42Z"
     }
+  },
+  "5868102": {
+    "match_id": "5868102",
+    "league": "La Liga",
+    "date": "2026-10-25T13:00:00.000Z",
+    "home": "Athletic Club",
+    "away": "Getafe",
+    "score_str": "4 - 0",
+    "goal_diff": 4,
+    "drama_raw": 37.31,
+    "drama_score": 28.0,
+    "domination_raw": 50.63,
+    "domination_score": 29.26,
+    "score": 29.3,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "S_SPORT",
+      "Başlık": "Athletic Bilbao - Getafe - Maç Özeti - LaLiga 2026/27",
+      "URL": "https://www.youtube.com/watch?v=kcRXbnt2B08",
+      "Tarih": "2026-10-25T15:32:14Z"
+    }
+  },
+  "5749714": {
+    "match_id": "5749714",
+    "league": "Serie A",
+    "date": "2026-10-25T11:30:00.000Z",
+    "home": "Inter",
+    "away": "Fiorentina",
+    "score_str": "2 - 1",
+    "goal_diff": 1,
+    "drama_raw": 68.02,
+    "drama_score": 51.04,
+    "domination_raw": 63.01,
+    "domination_score": 36.41,
+    "score": 51.0,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "S_SPORT",
+      "Başlık": "Inter - Fiorentina - Maç Özeti - Serie A 2026/27",
+      "URL": "https://www.youtube.com/watch?v=WAuD6SulsDI",
+      "Tarih": "2026-10-25T13:58:14Z"
+    }
+  },
+  "5904781": {
+    "match_id": "5904781",
+    "league": "Süper Lig",
+    "date": "2026-10-25T13:00:00.000Z",
+    "home": "Konyaspor",
+    "away": "Gençlerbirliği",
+    "score_str": "2 - 0",
+    "goal_diff": 2,
+    "drama_raw": 45.92,
+    "drama_score": 34.46,
+    "domination_raw": 48.44,
+    "domination_score": 27.99,
+    "score": 31.2,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Konyaspor - Gençlerbirliği' playlist'te bulunamadı."
+    }
   }
 }
