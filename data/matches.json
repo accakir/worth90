@@ -13168,7 +13168,57 @@
     "badge": "Uyutabilir",
     "boxed": false,
     "highlight": {
-      "Durum": "❌ 'Freiburg - Bayern München' playlist'te bulunamadı."
+      "Durum": "⚡ MUHTEMEL EŞLEŞME",
+      "Kanal": "S_SPORT",
+      "Başlık": "Freiburg - Bayern Münih | Bundesliga 2026/27",
+      "URL": "https://www.youtube.com/watch?v=dFSvvvei6Fg",
+      "Tarih": "2026-10-25T20:39:56Z"
+    }
+  },
+  "5868105": {
+    "match_id": "5868105",
+    "league": "La Liga",
+    "date": "2026-10-25T20:00:00Z",
+    "home": "Barcelona",
+    "away": "Real Madrid",
+    "score_str": "1 - 2",
+    "goal_diff": 1,
+    "drama_raw": 70.59,
+    "drama_score": 52.97,
+    "domination_raw": 47.23,
+    "domination_score": 27.29,
+    "score": 53.0,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "S_SPORT",
+      "Başlık": "Barcelona - Real Madrid - Maç Özeti - LaLiga 2026/27",
+      "URL": "https://www.youtube.com/watch?v=sQxGeY6NgO0",
+      "Tarih": "2026-10-25T22:23:08Z"
+    }
+  },
+  "5749719": {
+    "match_id": "5749719",
+    "league": "Serie A",
+    "date": "2026-10-25T19:45:00Z",
+    "home": "Udinese",
+    "away": "Milan",
+    "score_str": "0 - 2",
+    "goal_diff": 2,
+    "drama_raw": 34.31,
+    "drama_score": 25.75,
+    "domination_raw": 39.31,
+    "domination_score": 22.72,
+    "score": 24.2,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "S_SPORT",
+      "Başlık": "Udinese - AC Milan - Maç Özeti - Serie A 2026/27",
+      "URL": "https://www.youtube.com/watch?v=xCqKCW8XGTA",
+      "Tarih": "2026-10-25T21:53:15Z"
     }
   }
 }
