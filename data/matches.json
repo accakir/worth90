@@ -13241,7 +13241,11 @@
     "badge": "İdare Eder",
     "boxed": false,
     "highlight": {
-      "Durum": "❌ 'Sevilla - Osasuna' playlist'te bulunamadı."
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "S_SPORT",
+      "Başlık": "Sevilla - Osasuna - Maç Özeti - LaLiga 2026/27",
+      "URL": "https://www.youtube.com/watch?v=P8WJmEssGYA",
+      "Tarih": "2026-10-26T22:34:31Z"
     }
   },
   "5904783": {
