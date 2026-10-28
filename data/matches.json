@@ -12775,7 +12775,11 @@
     "badge": "İdare Eder",
     "boxed": false,
     "highlight": {
-      "Durum": "❌ 'Konyaspor - Gençlerbirliği' playlist'te bulunamadı."
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "BEIN_SPORTS_TR",
+      "Başlık": "Konyaspor - Gençlerbirliği | 9. HAFTA MAÇ ÖZETİ | Trendyol Süper Lig - 2026/27",
+      "URL": "https://www.youtube.com/watch?v=1Y3_xd1fe5c",
+      "Tarih": "2026-10-27T18:17:22Z"
     }
   },
   "5795489": {
@@ -13020,7 +13024,11 @@
     "badge": "Uyutabilir",
     "boxed": false,
     "highlight": {
-      "Durum": "❌ 'Göztepe - Çorum FK' playlist'te bulunamadı."
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "BEIN_SPORTS_TR",
+      "Başlık": "Göztepe - Çorum FK | 9. HAFTA MAÇ ÖZETİ | Trendyol Süper Lig - 2026/27",
+      "URL": "https://www.youtube.com/watch?v=E261RpWVG8k",
+      "Tarih": "2026-10-28T11:12:51Z"
     }
   },
   "5802969": {
@@ -13419,6 +13427,109 @@
     "boxed": false,
     "highlight": {
       "Durum": "❌ 'Torino - Como' playlist'te bulunamadı."
+    }
+  },
+  "5749720": {
+    "match_id": "5749720",
+    "league": "Serie A",
+    "date": "2026-10-28T17:30:00.000Z",
+    "home": "Milan",
+    "away": "Bologna",
+    "score_str": "2 - 4",
+    "goal_diff": 2,
+    "drama_raw": 58.62,
+    "drama_score": 43.99,
+    "domination_raw": 51.35,
+    "domination_score": 29.68,
+    "score": 36.8,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "S_SPORT",
+      "Başlık": "AC Milan - Bologna - Maç Özeti - Serie A 2026/27",
+      "URL": "https://www.youtube.com/watch?v=TjAvmdN1p18",
+      "Tarih": "2026-10-28T19:35:29Z"
+    }
+  },
+  "5749726": {
+    "match_id": "5749726",
+    "league": "Serie A",
+    "date": "2026-10-28T17:30:00.000Z",
+    "home": "Parma",
+    "away": "Udinese",
+    "score_str": "0 - 0",
+    "goal_diff": 0,
+    "drama_raw": 48.04,
+    "drama_score": 36.05,
+    "domination_raw": 38.47,
+    "domination_score": 22.23,
+    "score": 36.1,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Parma - Udinese' playlist'te bulunamadı."
+    }
+  },
+  "5749729": {
+    "match_id": "5749729",
+    "league": "Serie A",
+    "date": "2026-10-28T17:30:00.000Z",
+    "home": "Venezia",
+    "away": "Inter",
+    "score_str": "0 - 2",
+    "goal_diff": 2,
+    "drama_raw": 65.24,
+    "drama_score": 48.96,
+    "domination_raw": 58.77,
+    "domination_score": 33.96,
+    "score": 41.5,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "S_SPORT",
+      "Başlık": "Venezia - Inter - Maç Özeti - Serie A 2026/27",
+      "URL": "https://www.youtube.com/watch?v=W4QoG0NcynE",
+      "Tarih": "2026-10-28T19:36:46Z"
+    }
+  },
+  "5749724": {
+    "match_id": "5749724",
+    "league": "Serie A",
+    "date": "2026-10-28T19:45:00.000Z",
+    "home": "Genoa",
+    "away": "Juventus",
+    "score_str": "2 - 0",
+    "goal_diff": 2,
+    "drama_raw": 24.14,
+    "drama_score": 18.11,
+    "domination_raw": 32.78,
+    "domination_score": 18.94,
+    "score": 18.5,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Genoa - Juventus' playlist'te bulunamadı."
+    }
+  },
+  "5749725": {
+    "match_id": "5749725",
+    "league": "Serie A",
+    "date": "2026-10-28T19:45:00.000Z",
+    "home": "Monza",
+    "away": "Napoli",
+    "score_str": "1 - 4",
+    "goal_diff": 3,
+    "drama_raw": 37.77,
+    "drama_score": 28.34,
+    "domination_raw": 45.69,
+    "domination_score": 26.4,
+    "score": 26.4,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Monza - Napoli' playlist'te bulunamadı."
     }
   }
 }
