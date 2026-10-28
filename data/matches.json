@@ -13395,7 +13395,11 @@
     "badge": "İyi Maç",
     "boxed": false,
     "highlight": {
-      "Durum": "❌ 'Roma - Cagliari' playlist'te bulunamadı."
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "S_SPORT",
+      "Başlık": "Roma - Cagliari - Maç Özeti - Serie A 2026/27",
+      "URL": "https://www.youtube.com/watch?v=BrGq2hLwlcM",
+      "Tarih": "2026-10-27T21:57:02Z"
     }
   },
   "5749728": {
