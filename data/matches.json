@@ -13300,7 +13300,11 @@
     "badge": "İdare Eder",
     "boxed": false,
     "highlight": {
-      "Durum": "❌ 'Beşiktaş - Başakşehir' playlist'te bulunamadı."
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "BEIN_SPORTS_TR",
+      "Başlık": "Beşiktaş - Başakşehir | 9. HAFTA MAÇ ÖZETİ | Trendyol Süper Lig - 2026/27",
+      "URL": "https://www.youtube.com/watch?v=miymRr4lK1o",
+      "Tarih": "2026-10-28T11:49:19Z"
     }
   },
   "5904779": {
@@ -13319,7 +13323,11 @@
     "badge": "İyi Maç",
     "boxed": false,
     "highlight": {
-      "Durum": "❌ 'Rizespor - Trabzonspor' playlist'te bulunamadı."
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "BEIN_SPORTS_TR",
+      "Başlık": "Çaykur Rizespor - Trabzonspor | 9. HAFTA MAÇ ÖZETİ | Trendyol Süper Lig - 2026/27",
+      "URL": "https://www.youtube.com/watch?v=ZBCxSjELpAw",
+      "Tarih": "2026-10-28T11:22:25Z"
     }
   },
   "5904782": {
@@ -13338,7 +13346,11 @@
     "badge": "İdare Eder",
     "boxed": false,
     "highlight": {
-      "Durum": "❌ 'Galatasaray - Fenerbahçe' playlist'te bulunamadı."
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "BEIN_SPORTS_TR",
+      "Başlık": "Galatasaray - Fenerbahçe | 9. HAFTA MAÇ ÖZETİ | Trendyol Süper Lig - 2026/27",
+      "URL": "https://www.youtube.com/watch?v=gpWucIHPMEw",
+      "Tarih": "2026-10-28T11:56:13Z"
     }
   },
   "5802972": {
@@ -13534,6 +13546,44 @@
     "boxed": false,
     "highlight": {
       "Durum": "❌ 'Monza - Napoli' playlist'te bulunamadı."
+    }
+  },
+  "5749723": {
+    "match_id": "5749723",
+    "league": "Serie A",
+    "date": "2026-10-29T17:30:00.000Z",
+    "home": "Frosinone",
+    "away": "Lecce",
+    "score_str": "5 - 1",
+    "goal_diff": 4,
+    "drama_raw": 41.16,
+    "drama_score": 30.89,
+    "domination_raw": 68.01,
+    "domination_score": 39.3,
+    "score": 39.3,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Frosinone - Lecce' playlist'te bulunamadı."
+    }
+  },
+  "5749722": {
+    "match_id": "5749722",
+    "league": "Serie A",
+    "date": "2026-10-29T19:45:00.000Z",
+    "home": "Fiorentina",
+    "away": "Atalanta",
+    "score_str": "2 - 2",
+    "goal_diff": 0,
+    "drama_raw": 65.59,
+    "drama_score": 49.22,
+    "domination_raw": 47.77,
+    "domination_score": 27.6,
+    "score": 49.2,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Fiorentina - Atalanta' playlist'te bulunamadı."
     }
   }
 }
