@@ -13583,7 +13583,11 @@
     "badge": "İyi Maç",
     "boxed": false,
     "highlight": {
-      "Durum": "❌ 'Fiorentina - Atalanta' playlist'te bulunamadı."
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "S_SPORT",
+      "Başlık": "Fiorentina - Atalanta - Maç Özeti - Serie A 2026/27",
+      "URL": "https://www.youtube.com/watch?v=7U-IKHHBuNQ",
+      "Tarih": "2026-10-29T23:20:26Z"
     }
   }
 }
