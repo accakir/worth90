@@ -13568,7 +13568,11 @@
     "badge": "İdare Eder",
     "boxed": false,
     "highlight": {
-      "Durum": "❌ 'Frosinone - Lecce' playlist'te bulunamadı."
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "S_SPORT",
+      "Başlık": "(6 GOLLÜ MÜCADELE) Frosinone - Lecce - Maç Özeti - Serie A 2026/27",
+      "URL": "https://www.youtube.com/watch?v=9uUKcHUc1-o",
+      "Tarih": "2026-10-30T13:39:49Z"
     }
   },
   "5749722": {
@@ -13592,6 +13596,132 @@
       "Başlık": "Fiorentina - Atalanta - Maç Özeti - Serie A 2026/27",
       "URL": "https://www.youtube.com/watch?v=7U-IKHHBuNQ",
       "Tarih": "2026-10-29T23:20:26Z"
+    }
+  },
+  "5868120": {
+    "match_id": "5868120",
+    "league": "La Liga",
+    "date": "2026-10-30T20:00:00.000Z",
+    "home": "Villarreal",
+    "away": "Espanyol",
+    "score_str": "0 - 1",
+    "goal_diff": 1,
+    "drama_raw": 39.31,
+    "drama_score": 29.5,
+    "domination_raw": 9.71,
+    "domination_score": 5.61,
+    "score": 29.5,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Villarreal - Espanyol' playlist'te bulunamadı."
+    }
+  },
+  "5904790": {
+    "match_id": "5904790",
+    "league": "Süper Lig",
+    "date": "2026-10-30T17:00:00.000Z",
+    "home": "Konyaspor",
+    "away": "Galatasaray",
+    "score_str": "0 - 4",
+    "goal_diff": 4,
+    "drama_raw": 49.97,
+    "drama_score": 37.5,
+    "domination_raw": 65.03,
+    "domination_score": 37.58,
+    "score": 37.6,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Konyaspor - Galatasaray' playlist'te bulunamadı."
+    }
+  },
+  "5802973": {
+    "match_id": "5802973",
+    "league": "Ligue 1",
+    "date": "2026-10-30T18:00:00.000Z",
+    "home": "Le Havre",
+    "away": "Paris Saint-Germain",
+    "score_str": "1 - 5",
+    "goal_diff": 4,
+    "drama_raw": 60.25,
+    "drama_score": 45.22,
+    "domination_raw": 92.03,
+    "domination_score": 53.18,
+    "score": 53.2,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "BEIN_SPORTS_TR",
+      "Başlık": "Le Havre - Paris Saint-Germain | 9. Hafta MAÇ ÖZETİ | Ligue 1 McDonald's - 2026/2027",
+      "URL": "https://www.youtube.com/watch?v=IBs4ygy_HYs",
+      "Tarih": "2026-10-30T20:56:20Z"
+    }
+  },
+  "5802978": {
+    "match_id": "5802978",
+    "league": "Ligue 1",
+    "date": "2026-10-30T18:00:00.000Z",
+    "home": "Nice",
+    "away": "Rennes",
+    "score_str": "5 - 2",
+    "goal_diff": 3,
+    "drama_raw": 50.65,
+    "drama_score": 38.01,
+    "domination_raw": 70.23,
+    "domination_score": 40.59,
+    "score": 40.6,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "BEIN_SPORTS_TR",
+      "Başlık": "Nice - Rennes | 9. Hafta MAÇ ÖZETİ | Ligue 1 McDonald's - 2026/2027",
+      "URL": "https://www.youtube.com/watch?v=EN8pFY4a3bE",
+      "Tarih": "2026-10-30T20:53:16Z"
+    }
+  },
+  "5802974": {
+    "match_id": "5802974",
+    "league": "Ligue 1",
+    "date": "2026-10-30T20:05:00.000Z",
+    "home": "Lille",
+    "away": "Lens",
+    "score_str": "1 - 0",
+    "goal_diff": 1,
+    "drama_raw": 61.41,
+    "drama_score": 46.08,
+    "domination_raw": 40.33,
+    "domination_score": 23.31,
+    "score": 46.1,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Lille - Lens' playlist'te bulunamadı."
+    }
+  },
+  "5881211": {
+    "match_id": "5881211",
+    "league": "Bundesliga",
+    "date": "2026-10-30T19:30:00.000Z",
+    "home": "Elversberg",
+    "away": "Mainz 05",
+    "score_str": "4 - 1",
+    "goal_diff": 3,
+    "drama_raw": 42.37,
+    "drama_score": 31.8,
+    "domination_raw": 52.54,
+    "domination_score": 30.36,
+    "score": 30.4,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "⚡ MUHTEMEL EŞLEŞME",
+      "Kanal": "S_SPORT",
+      "Başlık": "Elversberg - Mainz | Bundesliga 2026/27",
+      "URL": "https://www.youtube.com/watch?v=Hil3zhHBvwU",
+      "Tarih": "2026-10-30T21:49:44Z"
     }
   }
 }
