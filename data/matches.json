@@ -13771,7 +13771,11 @@
     "badge": "Uyutabilir",
     "boxed": false,
     "highlight": {
-      "Durum": "❌ 'Brentford - Nottingham Forest' playlist'te bulunamadı."
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "BEIN_SPORTS_TR",
+      "Başlık": "Brentford - Nottingham Forest | 9. Hafta MAÇ ÖZETİ | Premier League - 2026/27",
+      "URL": "https://www.youtube.com/watch?v=PjW2enTNxAg",
+      "Tarih": "2026-10-31T17:39:25Z"
     }
   },
   "5795500": {
@@ -13813,7 +13817,11 @@
     "badge": "İyi Maç",
     "boxed": false,
     "highlight": {
-      "Durum": "❌ 'Manchester City - Brighton & Hove Albion' playlist'te bulunamadı."
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "BEIN_SPORTS_TR",
+      "Başlık": "Manchester City -  Brighton | 9. Hafta MAÇ ÖZETİ | Premier League - 2026/27",
+      "URL": "https://www.youtube.com/watch?v=riEbNTt2Wyc",
+      "Tarih": "2026-10-31T17:29:14Z"
     }
   },
   "5868117": {
@@ -14001,6 +14009,186 @@
     "boxed": false,
     "highlight": {
       "Durum": "❌ 'Werder Bremen - Hoffenheim' playlist'te bulunamadı."
+    }
+  },
+  "5795495": {
+    "match_id": "5795495",
+    "league": "Premier Lig",
+    "date": "2026-10-31T15:00:00.000Z",
+    "home": "AFC Bournemouth",
+    "away": "Leeds United",
+    "score_str": "2 - 0",
+    "goal_diff": 2,
+    "drama_raw": 45.09,
+    "drama_score": 33.84,
+    "domination_raw": 17.88,
+    "domination_score": 10.33,
+    "score": 22.1,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "BEIN_SPORTS_TR",
+      "Başlık": "Bournemouth - Leeds United | 9. Hafta MAÇ ÖZETİ | Premier League - 2026/27",
+      "URL": "https://www.youtube.com/watch?v=d5IL5jsfSH0",
+      "Tarih": "2026-10-31T17:51:32Z"
+    }
+  },
+  "5795499": {
+    "match_id": "5795499",
+    "league": "Premier Lig",
+    "date": "2026-10-31T15:00:00.000Z",
+    "home": "Coventry City",
+    "away": "Sunderland",
+    "score_str": "3 - 1",
+    "goal_diff": 2,
+    "drama_raw": 39.82,
+    "drama_score": 29.89,
+    "domination_raw": 45.98,
+    "domination_score": 26.57,
+    "score": 28.2,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "BEIN_SPORTS_TR",
+      "Başlık": "Coventry - Sunderland | 9. Hafta MAÇ ÖZETİ | Premier League - 2026/27",
+      "URL": "https://www.youtube.com/watch?v=h0SKdJTc0IE",
+      "Tarih": "2026-10-31T17:35:04Z"
+    }
+  },
+  "5795504": {
+    "match_id": "5795504",
+    "league": "Premier Lig",
+    "date": "2026-10-31T17:30:00.000Z",
+    "home": "Tottenham Hotspur",
+    "away": "Crystal Palace",
+    "score_str": "2 - 0",
+    "goal_diff": 2,
+    "drama_raw": 28.93,
+    "drama_score": 21.71,
+    "domination_raw": 56.93,
+    "domination_score": 32.9,
+    "score": 27.3,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "BEIN_SPORTS_TR",
+      "Başlık": "Tottenham - Crystal Palace | 9. Hafta MAÇ ÖZETİ | Premier League - 2026/27",
+      "URL": "https://www.youtube.com/watch?v=7vYuJQxQxE0",
+      "Tarih": "2026-10-31T20:23:18Z"
+    }
+  },
+  "5868119": {
+    "match_id": "5868119",
+    "league": "La Liga",
+    "date": "2026-10-31T15:15:00.000Z",
+    "home": "Rayo Vallecano",
+    "away": "Celta Vigo",
+    "score_str": "3 - 0",
+    "goal_diff": 3,
+    "drama_raw": 45.86,
+    "drama_score": 34.42,
+    "domination_raw": 48.83,
+    "domination_score": 28.22,
+    "score": 28.2,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "S_SPORT",
+      "Başlık": "Rayo Vallecano - Celta Vigo - Maç Özeti - LaLiga 2026/27",
+      "URL": "https://www.youtube.com/watch?v=Hqur4TvsKgg",
+      "Tarih": "2026-10-31T17:44:07Z"
+    }
+  },
+  "5868112": {
+    "match_id": "5868112",
+    "league": "La Liga",
+    "date": "2026-10-31T17:30:00.000Z",
+    "home": "Real Betis",
+    "away": "Málaga",
+    "score_str": "2 - 1",
+    "goal_diff": 1,
+    "drama_raw": 64.24,
+    "drama_score": 48.21,
+    "domination_raw": 50.31,
+    "domination_score": 29.07,
+    "score": 48.2,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "S_SPORT",
+      "Başlık": "Real Betis - Malaga - Maç Özeti - LaLiga 2026/27",
+      "URL": "https://www.youtube.com/watch?v=XHWwp2s3Esw",
+      "Tarih": "2026-10-31T19:51:24Z"
+    }
+  },
+  "5749739": {
+    "match_id": "5749739",
+    "league": "Serie A",
+    "date": "2026-10-31T17:00:00.000Z",
+    "home": "Udinese",
+    "away": "Roma",
+    "score_str": "2 - 5",
+    "goal_diff": 3,
+    "drama_raw": 44.92,
+    "drama_score": 33.71,
+    "domination_raw": 70.2,
+    "domination_score": 40.57,
+    "score": 40.6,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "S_SPORT",
+      "Başlık": "(GOL YAĞMURU) Udinese - Roma - Maç Özeti - Serie A 2026/27",
+      "URL": "https://www.youtube.com/watch?v=WjomSV0pChg",
+      "Tarih": "2026-10-31T19:15:30Z"
+    }
+  },
+  "5904791": {
+    "match_id": "5904791",
+    "league": "Süper Lig",
+    "date": "2026-10-31T16:00:00.000Z",
+    "home": "Fenerbahçe",
+    "away": "Göztepe",
+    "score_str": "1 - 2",
+    "goal_diff": 1,
+    "drama_raw": 73.93,
+    "drama_score": 55.48,
+    "domination_raw": 51.35,
+    "domination_score": 29.67,
+    "score": 55.5,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Fenerbahçe - Göztepe' playlist'te bulunamadı."
+    }
+  },
+  "5881208": {
+    "match_id": "5881208",
+    "league": "Bundesliga",
+    "date": "2026-10-31T17:30:00.000Z",
+    "home": "Bayern München",
+    "away": "Borussia Dortmund",
+    "score_str": "2 - 2",
+    "goal_diff": 0,
+    "drama_raw": 58.17,
+    "drama_score": 43.66,
+    "domination_raw": 48.45,
+    "domination_score": 28.0,
+    "score": 43.7,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "⚡ MUHTEMEL EŞLEŞME",
+      "Kanal": "S_SPORT",
+      "Başlık": "Bayern Münih - Borussia Dortmund | Bundesliga 2026/27",
+      "URL": "https://www.youtube.com/watch?v=33acDgDnLs0",
+      "Tarih": "2026-10-31T20:11:11Z"
     }
   }
 }
