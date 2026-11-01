@@ -14008,7 +14008,11 @@
     "badge": "İdare Eder",
     "boxed": false,
     "highlight": {
-      "Durum": "❌ 'Werder Bremen - Hoffenheim' playlist'te bulunamadı."
+      "Durum": "⚡ MUHTEMEL EŞLEŞME",
+      "Kanal": "S_SPORT",
+      "Başlık": "Werder Bremen - Hoffenheim | Bundesliga 2026/27",
+      "URL": "https://www.youtube.com/watch?v=XizhlOMKj14",
+      "Tarih": "2026-10-31T22:24:39Z"
     }
   },
   "5795495": {
@@ -14189,6 +14193,98 @@
       "Başlık": "Bayern Münih - Borussia Dortmund | Bundesliga 2026/27",
       "URL": "https://www.youtube.com/watch?v=33acDgDnLs0",
       "Tarih": "2026-10-31T20:11:11Z"
+    }
+  },
+  "5795496": {
+    "match_id": "5795496",
+    "league": "Premier Lig",
+    "date": "2026-10-31T20:00:00Z",
+    "home": "Aston Villa",
+    "away": "Fulham",
+    "score_str": "1 - 1",
+    "goal_diff": 0,
+    "drama_raw": 72.07,
+    "drama_score": 54.09,
+    "domination_raw": 54.61,
+    "domination_score": 31.55,
+    "score": 54.1,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "BEIN_SPORTS_TR",
+      "Başlık": "Aston Villa - Fulham | 9. Hafta MAÇ ÖZETİ | Premier League - 2026/27",
+      "URL": "https://www.youtube.com/watch?v=FgVlPwIX9yU",
+      "Tarih": "2026-10-31T22:23:23Z"
+    }
+  },
+  "5868115": {
+    "match_id": "5868115",
+    "league": "La Liga",
+    "date": "2026-10-31T20:00:00Z",
+    "home": "Barcelona",
+    "away": "Deportivo Alavés",
+    "score_str": "6 - 1",
+    "goal_diff": 5,
+    "drama_raw": 36.62,
+    "drama_score": 27.48,
+    "domination_raw": 68.78,
+    "domination_score": 39.75,
+    "score": 39.7,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "S_SPORT",
+      "Başlık": "Barcelona - Alaves - Maç Özeti - LaLiga 2026/27",
+      "URL": "https://www.youtube.com/watch?v=kFIUWVfHPu8",
+      "Tarih": "2026-10-31T22:20:55Z"
+    }
+  },
+  "5749730": {
+    "match_id": "5749730",
+    "league": "Serie A",
+    "date": "2026-10-31T19:45:00Z",
+    "home": "Milan",
+    "away": "Inter",
+    "score_str": "3 - 1",
+    "goal_diff": 2,
+    "drama_raw": 45.25,
+    "drama_score": 33.96,
+    "domination_raw": 47.3,
+    "domination_score": 27.33,
+    "score": 30.6,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "S_SPORT",
+      "Başlık": "AC Milan - Inter - Maç Özeti - Serie A 2026/27",
+      "URL": "https://www.youtube.com/watch?v=5Rbev7RS1q8",
+      "Tarih": "2026-10-31T21:58:32Z"
+    }
+  },
+  "5802981": {
+    "match_id": "5802981",
+    "league": "Ligue 1",
+    "date": "2026-10-31T19:45:00Z",
+    "home": "Troyes",
+    "away": "Le Mans",
+    "score_str": "2 - 0",
+    "goal_diff": 2,
+    "drama_raw": 19.67,
+    "drama_score": 14.76,
+    "domination_raw": 24.64,
+    "domination_score": 14.24,
+    "score": 14.5,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "BEIN_SPORTS_TR",
+      "Başlık": "Troyes - Le Mans | 9. Hafta MAÇ ÖZETİ | Ligue 1 McDonald's - 2026/2027",
+      "URL": "https://www.youtube.com/watch?v=zC9Sk8UStGw",
+      "Tarih": "2026-10-31T22:05:16Z"
     }
   }
 }
