@@ -14286,5 +14286,24 @@
       "URL": "https://www.youtube.com/watch?v=zC9Sk8UStGw",
       "Tarih": "2026-10-31T22:05:16Z"
     }
+  },
+  "5904788": {
+    "match_id": "5904788",
+    "league": "Süper Lig",
+    "date": "2026-11-01T10:30:00.000Z",
+    "home": "Amed Sportif",
+    "away": "Eyüpspor",
+    "score_str": "5 - 1",
+    "goal_diff": 4,
+    "drama_raw": 35.63,
+    "drama_score": 26.74,
+    "domination_raw": 55.63,
+    "domination_score": 32.14,
+    "score": 32.1,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Amed Sportif - Eyüpspor' playlist'te bulunamadı."
+    }
   }
 }
