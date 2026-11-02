@@ -299,16 +299,17 @@
     font-weight: 600;
   }
 
-  .score-col {
+  .hide-score {
+  display: inline-block;
+  filter: blur(6px);
   cursor: pointer;
-  filter: blur(7px);
-  transition: filter .2s ease;
   user-select: none;
-  }
-  .score-col.revealed { filter: none; }
-  @media (hover: hover) {
-  .score-col:hover { filter: none; }
-  }
+  transition: filter .2s ease;
+}
+.hide-score.revealed { filter: none; }
+@media (hover: hover) {
+  .hide-score:hover { filter: none; }
+}
   
   .empty {
     padding: 60px 20px;
@@ -602,9 +603,9 @@ function render() {
         <div class="row" data-id="${m.match_id}">
           <div class="meta">${formatDate(m.date)} · ${m.league}</div>
           <div class="teams-row">
-            <div class="teams">${m.home} ${cleanScore} ${m.away}</div>
+            <div class="teams">${m.home} <span class="hide-score${revealedIds.has(m.match_id) ? ' revealed' : ''}">${cleanScore}</span> ${m.away}</div>
           </div>
-          <div class="score-col${revealedIds.has(m.match_id) ? ' revealed' : ''}">
+          <div class="score-col">
             <div class="stars-display" style="${colorStyle}">${"★".repeat(b.stars)}</div>
             <div class="badge" style="${colorStyle}">${b.tr}</div>
           </div>
@@ -618,11 +619,11 @@ function render() {
 list.querySelectorAll(".row").forEach(rowEl => {
   rowEl.addEventListener("click", (e) => {
     const id = rowEl.dataset.id;
-    const scoreCol = e.target.closest(".score-col");
-    // Dokunmatik cihazda: gizli skora ilk dokunuş sadece açar, akordeonu açmaz
-    if (scoreCol && !canHover && !revealedIds.has(id)) {
+    const scoreEl = e.target.closest(".hide-score");
+    // Dokunmatik cihazda: gizli sonuca ilk dokunuş sadece açar, akordeonu açmaz
+    if (scoreEl && !canHover && !revealedIds.has(id)) {
       revealedIds.add(id);
-      scoreCol.classList.add("revealed");
+      scoreEl.classList.add("revealed");
       return;
     }
     toggleAccordion(id);
