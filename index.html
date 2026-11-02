@@ -299,6 +299,17 @@
     font-weight: 600;
   }
 
+  .score-col {
+  cursor: pointer;
+  filter: blur(7px);
+  transition: filter .2s ease;
+  user-select: none;
+  }
+  .score-col.revealed { filter: none; }
+  @media (hover: hover) {
+  .score-col:hover { filter: none; }
+  }
+  
   .empty {
     padding: 60px 20px;
     text-align: center;
@@ -415,6 +426,7 @@ let currentDay = "all";
 let currentLeague = "all";
 let currentSort = "date";
 let expandedId = null;
+const revealedIds = new Set();
 
 // Yardımcı Fonksiyon: Date objesini yerel tarihe göre YYYY-MM-DD formatına çevirir
 function getLocalDateString(dateObj) {
@@ -592,7 +604,7 @@ function render() {
           <div class="teams-row">
             <div class="teams">${m.home} ${cleanScore} ${m.away}</div>
           </div>
-          <div class="score-col">
+          <div class="score-col${revealedIds.has(m.match_id) ? ' revealed' : ''}">
             <div class="stars-display" style="${colorStyle}">${"★".repeat(b.stars)}</div>
             <div class="badge" style="${colorStyle}">${b.tr}</div>
           </div>
@@ -602,9 +614,20 @@ function render() {
     `;
   }).join("");
 
-  list.querySelectorAll(".row").forEach(rowEl => {
-    rowEl.addEventListener("click", () => toggleAccordion(rowEl.dataset.id));
+  const canHover = window.matchMedia("(hover: hover)").matches;
+list.querySelectorAll(".row").forEach(rowEl => {
+  rowEl.addEventListener("click", (e) => {
+    const id = rowEl.dataset.id;
+    const scoreCol = e.target.closest(".score-col");
+    // Dokunmatik cihazda: gizli skora ilk dokunuş sadece açar, akordeonu açmaz
+    if (scoreCol && !canHover && !revealedIds.has(id)) {
+      revealedIds.add(id);
+      scoreCol.classList.add("revealed");
+      return;
+    }
+    toggleAccordion(id);
   });
+});
 }
 
 function setupThemeToggle() {
