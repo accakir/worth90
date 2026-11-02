@@ -14506,7 +14506,11 @@
     "badge": "İdare Eder",
     "boxed": false,
     "highlight": {
-      "Durum": "❌ 'Juventus - Napoli' playlist'te bulunamadı."
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "S_SPORT",
+      "Başlık": "Juventus - Napoli - Maç Özeti - Serie A 2026/27",
+      "URL": "https://www.youtube.com/watch?v=x4gkqd0NJD0",
+      "Tarih": "2026-11-02T07:39:34Z"
     }
   },
   "5904787": {
@@ -14720,7 +14724,11 @@
     "badge": "İyi Maç",
     "boxed": false,
     "highlight": {
-      "Durum": "❌ 'Athletic Club - Real Sociedad' playlist'te bulunamadı."
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "S_SPORT",
+      "Başlık": "Athletic Bilbao - Real Sociedad - Maç Özeti - LaLiga 2026/27",
+      "URL": "https://www.youtube.com/watch?v=KNrtf2Op9cs",
+      "Tarih": "2026-11-02T07:38:18Z"
     }
   }
 }
