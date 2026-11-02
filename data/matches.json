@@ -14651,7 +14651,11 @@
     "badge": "İdare Eder",
     "boxed": false,
     "highlight": {
-      "Durum": "❌ 'Marseille - Toulouse' playlist'te bulunamadı."
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "BEIN_SPORTS_TR",
+      "Başlık": "Marsilya - Toulouse | 9. Hafta MAÇ ÖZETİ | Ligue 1 McDonald's - 2026/2027",
+      "URL": "https://www.youtube.com/watch?v=-PI6Nv811B8",
+      "Tarih": "2026-11-01T23:06:52Z"
     }
   },
   "5881213": {
@@ -14698,6 +14702,25 @@
       "Başlık": "Eintracht Frankfurt - Hamburg | Bundesliga 2026/27",
       "URL": "https://www.youtube.com/watch?v=rrrJfgOgdD4",
       "Tarih": "2026-11-01T20:15:12Z"
+    }
+  },
+  "5868111": {
+    "match_id": "5868111",
+    "league": "La Liga",
+    "date": "2026-11-01T20:00:00Z",
+    "home": "Athletic Club",
+    "away": "Real Sociedad",
+    "score_str": "2 - 1",
+    "goal_diff": 1,
+    "drama_raw": 67.36,
+    "drama_score": 50.55,
+    "domination_raw": 60.42,
+    "domination_score": 34.91,
+    "score": 50.6,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Athletic Club - Real Sociedad' playlist'te bulunamadı."
     }
   }
 }
