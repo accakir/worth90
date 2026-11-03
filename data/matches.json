@@ -13890,7 +13890,11 @@
     "badge": "Uyutabilir",
     "boxed": false,
     "highlight": {
-      "Durum": "❌ 'Erzurumspor FK - Çorum FK' playlist'te bulunamadı."
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "BEIN_SPORTS_TR",
+      "Başlık": "Erzurumspor FK - Çorum FK | 10. HAFTA MAÇ ÖZETİ | Trendyol Süper Lig - 2026/27",
+      "URL": "https://www.youtube.com/watch?v=Tsbqp4HLgoE",
+      "Tarih": "2026-11-03T14:06:36Z"
     }
   },
   "5904792": {
@@ -13909,7 +13913,11 @@
     "badge": "İdare Eder",
     "boxed": false,
     "highlight": {
-      "Durum": "❌ 'Kocaelispor - Rizespor' playlist'te bulunamadı."
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "BEIN_SPORTS_TR",
+      "Başlık": "Kocaelispor - Çaykur Rizespor | 10. HAFTA MAÇ ÖZETİ | Trendyol Süper Lig - 2026/27",
+      "URL": "https://www.youtube.com/watch?v=OaFJwBNShUg",
+      "Tarih": "2026-11-03T14:09:24Z"
     }
   },
   "5881206": {
@@ -14181,7 +14189,11 @@
     "badge": "İyi Maç",
     "boxed": false,
     "highlight": {
-      "Durum": "❌ 'Fenerbahçe - Göztepe' playlist'te bulunamadı."
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "BEIN_SPORTS_TR",
+      "Başlık": "Fenerbahçe - Göztepe | 10. HAFTA MAÇ ÖZETİ | Trendyol Süper Lig - 2026/27",
+      "URL": "https://www.youtube.com/watch?v=o9DabjkVQ34",
+      "Tarih": "2026-11-03T14:10:50Z"
     }
   },
   "5881208": {
@@ -14875,6 +14887,213 @@
       "Başlık": "Lorient - Brest | 9. Hafta MAÇ ÖZETİ | Ligue 1 McDonald's - 2026/2027",
       "URL": "https://www.youtube.com/watch?v=Lj0He_5nMUc",
       "Tarih": "2026-11-03T06:48:56Z"
+    }
+  },
+  "6106341": {
+    "match_id": "6106341",
+    "league": "Şampiyonlar Ligi",
+    "date": "2026-11-03T17:45:00.000Z",
+    "home": "Galatasaray",
+    "away": "VfB Stuttgart",
+    "score_str": "2 - 0",
+    "goal_diff": 2,
+    "drama_raw": 41.7,
+    "drama_score": 31.3,
+    "domination_raw": 39.29,
+    "domination_score": 22.7,
+    "score": 27.0,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "TRT_SPOR",
+      "Başlık": "Şampiyonlar Ligi 4. Hafta | Galatasaray - Stuttgart (Özet)",
+      "URL": "https://www.youtube.com/watch?v=tnPTfubQMMY",
+      "Tarih": "2026-11-03T20:10:03Z"
+    }
+  },
+  "6106335": {
+    "match_id": "6106335",
+    "league": "Şampiyonlar Ligi",
+    "date": "2026-11-03T17:45:00.000Z",
+    "home": "Shakhtar Donetsk",
+    "away": "Sporting CP",
+    "score_str": "0 - 1",
+    "goal_diff": 1,
+    "drama_raw": 57.02,
+    "drama_score": 42.79,
+    "domination_raw": 33.58,
+    "domination_score": 19.4,
+    "score": 42.8,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "TRT_SPOR",
+      "Başlık": "Şampiyonlar Ligi 4. Hafta | Shakhtar Donetsk - Sporting (Özet)",
+      "URL": "https://www.youtube.com/watch?v=MH6Kk1JYKRo",
+      "Tarih": "2026-11-03T19:58:31Z"
+    }
+  },
+  "6106266": {
+    "match_id": "6106266",
+    "league": "Şampiyonlar Ligi",
+    "date": "2026-11-03T20:00:00.000Z",
+    "home": "Atlético Madrid",
+    "away": "Bayern München",
+    "score_str": "0 - 2",
+    "goal_diff": 2,
+    "drama_raw": 40.79,
+    "drama_score": 30.62,
+    "domination_raw": 29.42,
+    "domination_score": 17.0,
+    "score": 23.8,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "TRT_SPOR",
+      "Başlık": "Şampiyonlar Ligi 4. Hafta | Atletico Madrid - Bayern Münih (Özet)",
+      "URL": "https://www.youtube.com/watch?v=Lb9eI6kSd-Y",
+      "Tarih": "2026-11-03T22:13:35Z"
+    }
+  },
+  "6106263": {
+    "match_id": "6106263",
+    "league": "Şampiyonlar Ligi",
+    "date": "2026-11-03T20:00:00.000Z",
+    "home": "Barcelona",
+    "away": "Aston Villa",
+    "score_str": "3 - 0",
+    "goal_diff": 3,
+    "drama_raw": 35.48,
+    "drama_score": 26.62,
+    "domination_raw": 46.54,
+    "domination_score": 26.89,
+    "score": 26.9,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "TRT_SPOR",
+      "Başlık": "Şampiyonlar Ligi 4. Hafta | Barcelona - Aston Villa (Özet)",
+      "URL": "https://www.youtube.com/watch?v=FldaHgdSkFM",
+      "Tarih": "2026-11-03T22:34:20Z"
+    }
+  },
+  "6106316": {
+    "match_id": "6106316",
+    "league": "Şampiyonlar Ligi",
+    "date": "2026-11-03T20:00:00.000Z",
+    "home": "Bodø/Glimt",
+    "away": "Lille",
+    "score_str": "0 - 0",
+    "goal_diff": 0,
+    "drama_raw": 29.62,
+    "drama_score": 22.23,
+    "domination_raw": 9.73,
+    "domination_score": 5.62,
+    "score": 22.2,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "TRT_SPOR",
+      "Başlık": "Şampiyonlar Ligi 4. Hafta | Bodo Glimt - Lille (Özet)",
+      "URL": "https://www.youtube.com/watch?v=GAvR_XpfbWA",
+      "Tarih": "2026-11-03T22:16:35Z"
+    }
+  },
+  "6106306": {
+    "match_id": "6106306",
+    "league": "Şampiyonlar Ligi",
+    "date": "2026-11-03T20:00:00.000Z",
+    "home": "Feyenoord",
+    "away": "Inter",
+    "score_str": "0 - 3",
+    "goal_diff": 3,
+    "drama_raw": 38.37,
+    "drama_score": 28.8,
+    "domination_raw": 26.45,
+    "domination_score": 15.28,
+    "score": 15.3,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "TRT_SPOR",
+      "Başlık": "Şampiyonlar Ligi 4. Hafta | Feyenoord - Inter (Özet)",
+      "URL": "https://www.youtube.com/watch?v=qGfpAFreTe0",
+      "Tarih": "2026-11-03T22:31:09Z"
+    }
+  },
+  "6106408": {
+    "match_id": "6106408",
+    "league": "Şampiyonlar Ligi",
+    "date": "2026-11-03T20:00:00.000Z",
+    "home": "LASK",
+    "away": "Slovan Bratislava",
+    "score_str": "4 - 0",
+    "goal_diff": 4,
+    "drama_raw": 41.1,
+    "drama_score": 30.84,
+    "domination_raw": 52.1,
+    "domination_score": 30.1,
+    "score": 30.1,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "TRT_SPOR",
+      "Başlık": "Şampiyonlar Ligi 4. Hafta | LASK Linz - Slovan Bratislava (Özet)",
+      "URL": "https://www.youtube.com/watch?v=0biyRPKsSAU",
+      "Tarih": "2026-11-03T22:22:05Z"
+    }
+  },
+  "6106291": {
+    "match_id": "6106291",
+    "league": "Şampiyonlar Ligi",
+    "date": "2026-11-03T20:00:00.000Z",
+    "home": "Manchester United",
+    "away": "Roma",
+    "score_str": "3 - 2",
+    "goal_diff": 1,
+    "drama_raw": 74.13,
+    "drama_score": 55.63,
+    "domination_raw": 59.62,
+    "domination_score": 34.45,
+    "score": 55.6,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "TRT_SPOR",
+      "Başlık": "Şampiyonlar Ligi 4. Hafta | Manchester United - Roma (Özet)",
+      "URL": "https://www.youtube.com/watch?v=coOh9xKB8nY",
+      "Tarih": "2026-11-03T22:28:10Z"
+    }
+  },
+  "6106326": {
+    "match_id": "6106326",
+    "league": "Şampiyonlar Ligi",
+    "date": "2026-11-03T20:00:00.000Z",
+    "home": "Villarreal",
+    "away": "Paris Saint-Germain",
+    "score_str": "0 - 6",
+    "goal_diff": 6,
+    "drama_raw": 20.96,
+    "drama_score": 15.73,
+    "domination_raw": 59.51,
+    "domination_score": 34.39,
+    "score": 34.4,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "TRT_SPOR",
+      "Başlık": "Şampiyonlar Ligi 4. Hafta | Villarreal - PSG (Özet)",
+      "URL": "https://www.youtube.com/watch?v=yt6sPyKbOy4",
+      "Tarih": "2026-11-03T22:24:52Z"
     }
   }
 }
