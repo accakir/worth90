@@ -13637,7 +13637,11 @@
     "badge": "İdare Eder",
     "boxed": false,
     "highlight": {
-      "Durum": "❌ 'Konyaspor - Galatasaray' playlist'te bulunamadı."
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "BEIN_SPORTS_TR",
+      "Başlık": "Konyaspor - Galatasaray | 10. HAFTA MAÇ ÖZETİ | Trendyol Süper Lig - 2026/27",
+      "URL": "https://www.youtube.com/watch?v=6nyPRCI1Vyo",
+      "Tarih": "2026-11-02T14:41:10Z"
     }
   },
   "5802973": {
@@ -13924,7 +13928,11 @@
     "badge": "İyi Maç",
     "boxed": false,
     "highlight": {
-      "Durum": "❌ 'Augsburg - Freiburg' playlist'te bulunamadı."
+      "Durum": "⚡ MUHTEMEL EŞLEŞME",
+      "Kanal": "S_SPORT",
+      "Başlık": "FC Augsburg - Freiburg | Bundesliga 2026/27",
+      "URL": "https://www.youtube.com/watch?v=7_fVjvWEBzo",
+      "Tarih": "2026-11-02T21:30:06Z"
     }
   },
   "5881207": {
@@ -13989,7 +13997,11 @@
     "badge": "İdare Eder",
     "boxed": false,
     "highlight": {
-      "Durum": "❌ 'Schalke 04 - RB Leipzig' playlist'te bulunamadı."
+      "Durum": "⚡ MUHTEMEL EŞLEŞME",
+      "Kanal": "S_SPORT",
+      "Başlık": "Schalke 04 - RB Leipzig | Bundesliga 2026/27",
+      "URL": "https://www.youtube.com/watch?v=zrHEy1uo2IY",
+      "Tarih": "2026-11-02T21:26:25Z"
     }
   },
   "5881214": {
@@ -14729,6 +14741,132 @@
       "Başlık": "Athletic Bilbao - Real Sociedad - Maç Özeti - LaLiga 2026/27",
       "URL": "https://www.youtube.com/watch?v=KNrtf2Op9cs",
       "Tarih": "2026-11-02T07:38:18Z"
+    }
+  },
+  "5795503": {
+    "match_id": "5795503",
+    "league": "Premier Lig",
+    "date": "2026-11-02T20:00:00Z",
+    "home": "Newcastle United",
+    "away": "Everton",
+    "score_str": "0 - 1",
+    "goal_diff": 1,
+    "drama_raw": 57.27,
+    "drama_score": 42.98,
+    "domination_raw": 40.98,
+    "domination_score": 23.68,
+    "score": 43.0,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "BEIN_SPORTS_TR",
+      "Başlık": "Everton - Manchester United | 3. Hafta MAÇ ÖZETİ | Premier League - 2026/27",
+      "URL": "https://www.youtube.com/watch?v=4qwN3fUhp14",
+      "Tarih": "2026-09-06T15:31:24Z"
+    }
+  },
+  "5868113": {
+    "match_id": "5868113",
+    "league": "La Liga",
+    "date": "2026-11-02T20:00:00Z",
+    "home": "Deportivo A Coruña",
+    "away": "Osasuna",
+    "score_str": "2 - 1",
+    "goal_diff": 1,
+    "drama_raw": 72.25,
+    "drama_score": 54.22,
+    "domination_raw": 70.19,
+    "domination_score": 40.56,
+    "score": 54.2,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Deportivo A Coruña - Osasuna' playlist'te bulunamadı."
+    }
+  },
+  "5749738": {
+    "match_id": "5749738",
+    "league": "Serie A",
+    "date": "2026-11-02T17:30:00Z",
+    "home": "Sassuolo",
+    "away": "Fiorentina",
+    "score_str": "2 - 4",
+    "goal_diff": 2,
+    "drama_raw": 57.03,
+    "drama_score": 42.8,
+    "domination_raw": 45.72,
+    "domination_score": 26.42,
+    "score": 34.6,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "S_SPORT",
+      "Başlık": "(SERIE A'DA BOL GOLLÜ MAÇLAR DEVAM EDİYOR) Sassuolo - Fiorentina - Maç Özeti - Serie A 2026/27",
+      "URL": "https://www.youtube.com/watch?v=uJX4JBKbiN8",
+      "Tarih": "2026-11-02T21:24:48Z"
+    }
+  },
+  "5749731": {
+    "match_id": "5749731",
+    "league": "Serie A",
+    "date": "2026-11-02T19:45:00Z",
+    "home": "Atalanta",
+    "away": "Parma",
+    "score_str": "0 - 3",
+    "goal_diff": 3,
+    "drama_raw": 36.86,
+    "drama_score": 27.66,
+    "domination_raw": 41.52,
+    "domination_score": 23.99,
+    "score": 24.0,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "S_SPORT",
+      "Başlık": "Atalanta - Parma - Maç Özeti - Serie A 2026/27",
+      "URL": "https://www.youtube.com/watch?v=p65Bds4QGEs",
+      "Tarih": "2026-11-02T21:54:04Z"
+    }
+  },
+  "5904789": {
+    "match_id": "5904789",
+    "league": "Süper Lig",
+    "date": "2026-11-02T17:00:00Z",
+    "home": "Gençlerbirliği",
+    "away": "Alanyaspor",
+    "score_str": "5 - 0",
+    "goal_diff": 5,
+    "drama_raw": 44.55,
+    "drama_score": 33.43,
+    "domination_raw": 49.77,
+    "domination_score": 28.76,
+    "score": 28.8,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Gençlerbirliği - Alanyaspor' playlist'te bulunamadı."
+    }
+  },
+  "5802975": {
+    "match_id": "5802975",
+    "league": "Ligue 1",
+    "date": "2026-11-02T19:45:00Z",
+    "home": "Lorient",
+    "away": "Brest",
+    "score_str": "0 - 2",
+    "goal_diff": 2,
+    "drama_raw": 68.32,
+    "drama_score": 51.27,
+    "domination_raw": 51.33,
+    "domination_score": 29.66,
+    "score": 40.5,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Lorient - Brest' playlist'te bulunamadı."
     }
   }
 }
