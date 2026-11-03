@@ -14782,7 +14782,11 @@
     "badge": "İyi Maç",
     "boxed": false,
     "highlight": {
-      "Durum": "❌ 'Deportivo A Coruña - Osasuna' playlist'te bulunamadı."
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "S_SPORT",
+      "Başlık": "Deportivo - Osasuna - Maç Özeti - LaLiga 2026/27",
+      "URL": "https://www.youtube.com/watch?v=oNrJILFVDRc",
+      "Tarih": "2026-11-03T10:09:13Z"
     }
   },
   "5749738": {
@@ -14866,7 +14870,11 @@
     "badge": "İyi Maç",
     "boxed": false,
     "highlight": {
-      "Durum": "❌ 'Lorient - Brest' playlist'te bulunamadı."
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "BEIN_SPORTS_TR",
+      "Başlık": "Lorient - Brest | 9. Hafta MAÇ ÖZETİ | Ligue 1 McDonald's - 2026/2027",
+      "URL": "https://www.youtube.com/watch?v=Lj0He_5nMUc",
+      "Tarih": "2026-11-03T06:48:56Z"
     }
   }
 }
