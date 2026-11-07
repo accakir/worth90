@@ -15857,5 +15857,402 @@
     "highlight": {
       "Durum": "❌ 'Eyüpspor - Kocaelispor' playlist'te bulunamadı."
     }
+  },
+  "5795511": {
+    "match_id": "5795511",
+    "league": "Premier Lig",
+    "date": "2026-11-07T12:30:00.000Z",
+    "home": "Leeds United",
+    "away": "Tottenham Hotspur",
+    "score_str": "1 - 0",
+    "goal_diff": 1,
+    "drama_raw": 48.06,
+    "drama_score": 36.06,
+    "domination_raw": 21.62,
+    "domination_score": 12.5,
+    "score": 36.1,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "BEIN_SPORTS_TR",
+      "Başlık": "Leeds United - Tottenham | 10. Hafta MAÇ ÖZETİ | Premier League - 2026/27",
+      "URL": "https://www.youtube.com/watch?v=wH67By-wQkI",
+      "Tarih": "2026-11-07T14:49:03Z"
+    }
+  },
+  "5795505": {
+    "match_id": "5795505",
+    "league": "Premier Lig",
+    "date": "2026-11-07T15:00:00.000Z",
+    "home": "Arsenal",
+    "away": "Hull City",
+    "score_str": "1 - 0",
+    "goal_diff": 1,
+    "drama_raw": 39.83,
+    "drama_score": 29.89,
+    "domination_raw": 29.78,
+    "domination_score": 17.21,
+    "score": 29.9,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "BEIN_SPORTS_TR",
+      "Başlık": "Arsenal - Hull City | 10. Hafta MAÇ ÖZETİ | Premier League - 2026/27",
+      "URL": "https://www.youtube.com/watch?v=hwD2-rHD4N0",
+      "Tarih": "2026-11-07T17:18:20Z"
+    }
+  },
+  "5795509": {
+    "match_id": "5795509",
+    "league": "Premier Lig",
+    "date": "2026-11-07T15:00:00.000Z",
+    "home": "Fulham",
+    "away": "Newcastle United",
+    "score_str": "1 - 1",
+    "goal_diff": 0,
+    "drama_raw": 66.66,
+    "drama_score": 50.02,
+    "domination_raw": 30.17,
+    "domination_score": 17.43,
+    "score": 50.0,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "BEIN_SPORTS_TR",
+      "Başlık": "Fulham - Newcastle | 10. Hafta MAÇ ÖZETİ | Premier League - 2026/27",
+      "URL": "https://www.youtube.com/watch?v=pFzLV4d7aDY",
+      "Tarih": "2026-11-07T18:27:28Z"
+    }
+  },
+  "5795513": {
+    "match_id": "5795513",
+    "league": "Premier Lig",
+    "date": "2026-11-07T17:30:00.000Z",
+    "home": "Nottingham Forest",
+    "away": "Manchester City",
+    "score_str": "3 - 1",
+    "goal_diff": 2,
+    "drama_raw": 32.7,
+    "drama_score": 24.54,
+    "domination_raw": 39.27,
+    "domination_score": 22.69,
+    "score": 23.6,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "BEIN_SPORTS_TR",
+      "Başlık": "Nottingham Forest - Manchester City | 10. Hafta MAÇ ÖZETİ | Premier League - 2026/27",
+      "URL": "https://www.youtube.com/watch?v=FCWUtckR2cQ",
+      "Tarih": "2026-11-07T19:51:03Z"
+    }
+  },
+  "5868125": {
+    "match_id": "5868125",
+    "league": "La Liga",
+    "date": "2026-11-07T13:00:00.000Z",
+    "home": "Málaga",
+    "away": "Racing Santander",
+    "score_str": "1 - 2",
+    "goal_diff": 1,
+    "drama_raw": 66.1,
+    "drama_score": 49.6,
+    "domination_raw": 50.48,
+    "domination_score": 29.17,
+    "score": 49.6,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "S_SPORT",
+      "Başlık": "Malaga - Racing Santander - Maç Özeti - LaLiga 2026/27",
+      "URL": "https://www.youtube.com/watch?v=m_GlY8oGYaU",
+      "Tarih": "2026-11-07T18:26:08Z"
+    }
+  },
+  "5868124": {
+    "match_id": "5868124",
+    "league": "La Liga",
+    "date": "2026-11-07T15:15:00.000Z",
+    "home": "Espanyol",
+    "away": "Deportivo A Coruña",
+    "score_str": "0 - 0",
+    "goal_diff": 0,
+    "drama_raw": 29.61,
+    "drama_score": 22.22,
+    "domination_raw": 8.92,
+    "domination_score": 5.16,
+    "score": 22.2,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "S_SPORT",
+      "Başlık": "Espanyol - Deportivo - Maç Özeti - LaLiga 2026/27",
+      "URL": "https://www.youtube.com/watch?v=kCeeXJqs-5w",
+      "Tarih": "2026-11-07T20:57:16Z"
+    }
+  },
+  "5868126": {
+    "match_id": "5868126",
+    "league": "La Liga",
+    "date": "2026-11-07T17:30:00.000Z",
+    "home": "Osasuna",
+    "away": "Athletic Club",
+    "score_str": "1 - 1",
+    "goal_diff": 0,
+    "drama_raw": 56.29,
+    "drama_score": 42.25,
+    "domination_raw": 43.65,
+    "domination_score": 25.22,
+    "score": 42.2,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Osasuna - Athletic Club' playlist'te bulunamadı."
+    }
+  },
+  "5749741": {
+    "match_id": "5749741",
+    "league": "Serie A",
+    "date": "2026-11-07T14:00:00.000Z",
+    "home": "Cagliari",
+    "away": "Frosinone",
+    "score_str": "1 - 0",
+    "goal_diff": 1,
+    "drama_raw": 60.8,
+    "drama_score": 45.63,
+    "domination_raw": 42.17,
+    "domination_score": 24.37,
+    "score": 45.6,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Cagliari - Frosinone' playlist'te bulunamadı."
+    }
+  },
+  "5749748": {
+    "match_id": "5749748",
+    "league": "Serie A",
+    "date": "2026-11-07T14:00:00.000Z",
+    "home": "Torino",
+    "away": "Lecce",
+    "score_str": "1 - 1",
+    "goal_diff": 0,
+    "drama_raw": 41.71,
+    "drama_score": 31.31,
+    "domination_raw": 13.34,
+    "domination_score": 7.71,
+    "score": 31.3,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "S_SPORT",
+      "Başlık": "Torino - Lecce - Maç Özeti - Serie A 2026/27",
+      "URL": "https://www.youtube.com/watch?v=w-FalI9PQZM",
+      "Tarih": "2026-11-07T18:21:46Z"
+    }
+  },
+  "5749747": {
+    "match_id": "5749747",
+    "league": "Serie A",
+    "date": "2026-11-07T17:00:00.000Z",
+    "home": "Parma",
+    "away": "Bologna",
+    "score_str": "1 - 2",
+    "goal_diff": 1,
+    "drama_raw": 46.86,
+    "drama_score": 35.17,
+    "domination_raw": 77.07,
+    "domination_score": 44.54,
+    "score": 35.2,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "S_SPORT",
+      "Başlık": "Parma - Bologna - Maç Özeti - Serie A 2026/27",
+      "URL": "https://www.youtube.com/watch?v=Z7EbrlQnKSw",
+      "Tarih": "2026-11-07T21:00:13Z"
+    }
+  },
+  "5904802": {
+    "match_id": "5904802",
+    "league": "Süper Lig",
+    "date": "2026-11-07T13:00:00.000Z",
+    "home": "Samsunspor",
+    "away": "Konyaspor",
+    "score_str": "1 - 0",
+    "goal_diff": 1,
+    "drama_raw": 52.42,
+    "drama_score": 39.34,
+    "domination_raw": 12.18,
+    "domination_score": 7.04,
+    "score": 39.3,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Samsunspor - Konyaspor' playlist'te bulunamadı."
+    }
+  },
+  "5904800": {
+    "match_id": "5904800",
+    "league": "Süper Lig",
+    "date": "2026-11-07T16:00:00.000Z",
+    "home": "Galatasaray",
+    "away": "Amed Sportif",
+    "score_str": "4 - 3",
+    "goal_diff": 1,
+    "drama_raw": 66.52,
+    "drama_score": 49.92,
+    "domination_raw": 69.81,
+    "domination_score": 40.34,
+    "score": 49.9,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Galatasaray - Amed Sportif' playlist'te bulunamadı."
+    }
+  },
+  "5904798": {
+    "match_id": "5904798",
+    "league": "Süper Lig",
+    "date": "2026-11-07T16:00:00.000Z",
+    "home": "Göztepe",
+    "away": "Başakşehir",
+    "score_str": "1 - 2",
+    "goal_diff": 1,
+    "drama_raw": 53.38,
+    "drama_score": 40.06,
+    "domination_raw": 37.52,
+    "domination_score": 21.68,
+    "score": 40.1,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Göztepe - Başakşehir' playlist'te bulunamadı."
+    }
+  },
+  "5802983": {
+    "match_id": "5802983",
+    "league": "Ligue 1",
+    "date": "2026-11-07T18:00:00.000Z",
+    "home": "Auxerre",
+    "away": "Paris FC",
+    "score_str": "0 - 1",
+    "goal_diff": 1,
+    "drama_raw": 45.95,
+    "drama_score": 34.48,
+    "domination_raw": 24.53,
+    "domination_score": 14.17,
+    "score": 34.5,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "BEIN_SPORTS_TR",
+      "Başlık": "Auxerre - Paris FC | 10. Hafta MAÇ ÖZETİ | Ligue 1 McDonald's - 2026/2027",
+      "URL": "https://www.youtube.com/watch?v=6mK4XjnoOX4",
+      "Tarih": "2026-11-07T20:44:57Z"
+    }
+  },
+  "5881215": {
+    "match_id": "5881215",
+    "league": "Bundesliga",
+    "date": "2026-11-07T14:30:00.000Z",
+    "home": "Borussia Dortmund",
+    "away": "Elversberg",
+    "score_str": "2 - 1",
+    "goal_diff": 1,
+    "drama_raw": 52.72,
+    "drama_score": 39.57,
+    "domination_raw": 55.58,
+    "domination_score": 32.12,
+    "score": 39.6,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Borussia Dortmund - Elversberg' playlist'te bulunamadı."
+    }
+  },
+  "5881220": {
+    "match_id": "5881220",
+    "league": "Bundesliga",
+    "date": "2026-11-07T14:30:00.000Z",
+    "home": "Mainz 05",
+    "away": "Bayern München",
+    "score_str": "1 - 2",
+    "goal_diff": 1,
+    "drama_raw": 39.42,
+    "drama_score": 29.58,
+    "domination_raw": 58.02,
+    "domination_score": 33.53,
+    "score": 29.6,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Mainz 05 - Bayern München' playlist'te bulunamadı."
+    }
+  },
+  "5881221": {
+    "match_id": "5881221",
+    "league": "Bundesliga",
+    "date": "2026-11-07T14:30:00.000Z",
+    "home": "Paderborn",
+    "away": "Eintracht Frankfurt",
+    "score_str": "2 - 2",
+    "goal_diff": 0,
+    "drama_raw": 68.56,
+    "drama_score": 51.45,
+    "domination_raw": 46.34,
+    "domination_score": 26.78,
+    "score": 51.4,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Paderborn - Eintracht Frankfurt' playlist'te bulunamadı."
+    }
+  },
+  "5881222": {
+    "match_id": "5881222",
+    "league": "Bundesliga",
+    "date": "2026-11-07T14:30:00.000Z",
+    "home": "RB Leipzig",
+    "away": "Augsburg",
+    "score_str": "5 - 2",
+    "goal_diff": 3,
+    "drama_raw": 56.38,
+    "drama_score": 42.31,
+    "domination_raw": 83.79,
+    "domination_score": 48.42,
+    "score": 48.4,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'RB Leipzig - Augsburg' playlist'te bulunamadı."
+    }
+  },
+  "5881223": {
+    "match_id": "5881223",
+    "league": "Bundesliga",
+    "date": "2026-11-07T17:30:00.000Z",
+    "home": "VfB Stuttgart",
+    "away": "Werder Bremen",
+    "score_str": "1 - 0",
+    "goal_diff": 1,
+    "drama_raw": 42.63,
+    "drama_score": 31.99,
+    "domination_raw": 30.0,
+    "domination_score": 17.33,
+    "score": 32.0,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'VfB Stuttgart - Werder Bremen' playlist'te bulunamadı."
+    }
   }
 }
