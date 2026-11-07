@@ -15838,5 +15838,24 @@
       "URL": "https://www.youtube.com/watch?v=8_WZSknXW98",
       "Tarih": "2026-08-29T20:04:38Z"
     }
+  },
+  "5904795": {
+    "match_id": "5904795",
+    "league": "Süper Lig",
+    "date": "2026-11-07T10:30:00.000Z",
+    "home": "Eyüpspor",
+    "away": "Kocaelispor",
+    "score_str": "0 - 2",
+    "goal_diff": 2,
+    "drama_raw": 33.78,
+    "drama_score": 25.35,
+    "domination_raw": 19.69,
+    "domination_score": 11.38,
+    "score": 18.4,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Eyüpspor - Kocaelispor' playlist'te bulunamadı."
+    }
   }
 }
