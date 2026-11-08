@@ -16339,5 +16339,24 @@
       "URL": "https://www.youtube.com/watch?v=tTErYB7UUag",
       "Tarih": "2026-11-07T23:01:02Z"
     }
+  },
+  "5904797": {
+    "match_id": "5904797",
+    "league": "Süper Lig",
+    "date": "2026-11-08T10:30:00.000Z",
+    "home": "Rizespor",
+    "away": "Erzurumspor FK",
+    "score_str": "2 - 1",
+    "goal_diff": 1,
+    "drama_raw": 48.92,
+    "drama_score": 36.71,
+    "domination_raw": 47.87,
+    "domination_score": 27.66,
+    "score": 36.7,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Rizespor - Erzurumspor FK' playlist'te bulunamadı."
+    }
   }
 }
