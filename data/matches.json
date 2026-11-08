@@ -6975,7 +6975,11 @@
     "badge": "Tatmin Edici",
     "boxed": true,
     "highlight": {
-      "Durum": "❌ 'Borussia Mönchengladbach - Elversberg' playlist'te bulunamadı."
+      "Durum": "⚡ MUHTEMEL EŞLEŞME",
+      "Kanal": "S_SPORT",
+      "Başlık": "Borussia Dortmund - Elversberg | Bundesliga 2026/27",
+      "URL": "https://www.youtube.com/watch?v=JedvXTpAMw0",
+      "Tarih": "2026-11-07T22:39:58Z"
     }
   },
   "5881156": {
@@ -16012,7 +16016,11 @@
     "badge": "İyi Maç",
     "boxed": false,
     "highlight": {
-      "Durum": "❌ 'Osasuna - Athletic Club' playlist'te bulunamadı."
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "S_SPORT",
+      "Başlık": "Osasuna - Athletic Bilbao - Maç Özeti - LaLiga 2026/27",
+      "URL": "https://www.youtube.com/watch?v=2SHBfvVNzxw",
+      "Tarih": "2026-11-07T22:44:47Z"
     }
   },
   "5749741": {
@@ -16176,7 +16184,11 @@
     "badge": "İdare Eder",
     "boxed": false,
     "highlight": {
-      "Durum": "❌ 'Borussia Dortmund - Elversberg' playlist'te bulunamadı."
+      "Durum": "⚡ MUHTEMEL EŞLEŞME",
+      "Kanal": "S_SPORT",
+      "Başlık": "Borussia Dortmund - Elversberg | Bundesliga 2026/27",
+      "URL": "https://www.youtube.com/watch?v=JedvXTpAMw0",
+      "Tarih": "2026-11-07T22:39:58Z"
     }
   },
   "5881220": {
@@ -16195,7 +16207,11 @@
     "badge": "İdare Eder",
     "boxed": false,
     "highlight": {
-      "Durum": "❌ 'Mainz 05 - Bayern München' playlist'te bulunamadı."
+      "Durum": "⚡ MUHTEMEL EŞLEŞME",
+      "Kanal": "S_SPORT",
+      "Başlık": "Mainz - Bayern Münih | Bundesliga 2026/27",
+      "URL": "https://www.youtube.com/watch?v=KWpvBxc3WV4",
+      "Tarih": "2026-11-07T22:36:26Z"
     }
   },
   "5881221": {
@@ -16253,6 +16269,75 @@
     "boxed": false,
     "highlight": {
       "Durum": "❌ 'VfB Stuttgart - Werder Bremen' playlist'te bulunamadı."
+    }
+  },
+  "5868129": {
+    "match_id": "5868129",
+    "league": "La Liga",
+    "date": "2026-11-07T20:00:00Z",
+    "home": "Valencia",
+    "away": "Real Madrid",
+    "score_str": "0 - 3",
+    "goal_diff": 3,
+    "drama_raw": 35.71,
+    "drama_score": 26.8,
+    "domination_raw": 60.51,
+    "domination_score": 34.96,
+    "score": 35.0,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "S_SPORT",
+      "Başlık": "Valencia - Real Madrid - Maç Özeti - LaLiga 2026/27",
+      "URL": "https://www.youtube.com/watch?v=okXbE7G3wjA",
+      "Tarih": "2026-11-07T22:21:52Z"
+    }
+  },
+  "5749740": {
+    "match_id": "5749740",
+    "league": "Serie A",
+    "date": "2026-11-07T19:45:00Z",
+    "home": "Roma",
+    "away": "Sassuolo",
+    "score_str": "3 - 0",
+    "goal_diff": 3,
+    "drama_raw": 15.49,
+    "drama_score": 11.63,
+    "domination_raw": 46.49,
+    "domination_score": 26.87,
+    "score": 26.9,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "S_SPORT",
+      "Başlık": "Roma - Sassuolo - Maç Özeti - Serie A 2026/27",
+      "URL": "https://www.youtube.com/watch?v=AZtIyTacjLk",
+      "Tarih": "2026-11-07T22:42:32Z"
+    }
+  },
+  "5802987": {
+    "match_id": "5802987",
+    "league": "Ligue 1",
+    "date": "2026-11-07T20:05:00Z",
+    "home": "Paris Saint-Germain",
+    "away": "Troyes",
+    "score_str": "1 - 0",
+    "goal_diff": 1,
+    "drama_raw": 53.78,
+    "drama_score": 40.36,
+    "domination_raw": 42.4,
+    "domination_score": 24.5,
+    "score": 40.4,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "BEIN_SPORTS_TR",
+      "Başlık": "Paris Saint-Germain - Troyes | 10. Hafta MAÇ ÖZETİ | Ligue 1 McDonald's - 2026/2027",
+      "URL": "https://www.youtube.com/watch?v=tTErYB7UUag",
+      "Tarih": "2026-11-07T23:01:02Z"
     }
   }
 }
