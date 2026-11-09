@@ -16674,7 +16674,11 @@
     "badge": "İyi Maç",
     "boxed": false,
     "highlight": {
-      "Durum": "❌ 'Fiorentina - Juventus' playlist'te bulunamadı."
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "S_SPORT",
+      "Başlık": "Fiorentina - Juventus - Maç Özeti - Serie A 2026/27",
+      "URL": "https://www.youtube.com/watch?v=V_MOuFvfm9E",
+      "Tarih": "2026-11-08T23:02:14Z"
     }
   },
   "5904799": {
@@ -16773,7 +16777,11 @@
     "badge": "Uyutabilir",
     "boxed": false,
     "highlight": {
-      "Durum": "❌ 'Angers - Nice' playlist'te bulunamadı."
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "BEIN_SPORTS_TR",
+      "Başlık": "Angers - Nice | 10. Hafta MAÇ ÖZETİ | Ligue 1 McDonald's - 2026/2027",
+      "URL": "https://www.youtube.com/watch?v=dGarLWe2xvs",
+      "Tarih": "2026-11-08T23:18:56Z"
     }
   },
   "5802984": {
@@ -16815,7 +16823,11 @@
     "badge": "Uyutabilir",
     "boxed": false,
     "highlight": {
-      "Durum": "❌ 'Le Havre - Lorient' playlist'te bulunamadı."
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "BEIN_SPORTS_TR",
+      "Başlık": "Le Havre - Lorient | 10. Hafta MAÇ ÖZETİ | Ligue 1 McDonald's - 2026/2027",
+      "URL": "https://www.youtube.com/watch?v=EXGM9hunEJw",
+      "Tarih": "2026-11-08T23:22:37Z"
     }
   },
   "5802986": {
@@ -16834,7 +16846,11 @@
     "badge": "İyi Maç",
     "boxed": false,
     "highlight": {
-      "Durum": "❌ 'Le Mans - Monaco' playlist'te bulunamadı."
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "BEIN_SPORTS_TR",
+      "Başlık": "Le Mans - Monaco | 10. Hafta MAÇ ÖZETİ | Ligue 1 McDonald's - 2026/2027",
+      "URL": "https://www.youtube.com/watch?v=VS3beqCf6mA",
+      "Tarih": "2026-11-08T23:21:11Z"
     }
   },
   "5802990": {
@@ -16853,7 +16869,11 @@
     "badge": "İyi Maç",
     "boxed": false,
     "highlight": {
-      "Durum": "❌ 'Lens - Marseille' playlist'te bulunamadı."
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "BEIN_SPORTS_TR",
+      "Başlık": "Lens - Marsilya | 10. Hafta MAÇ ÖZETİ | Ligue 1 McDonald's - 2026/2027",
+      "URL": "https://www.youtube.com/watch?v=sDXxXC4LB0w",
+      "Tarih": "2026-11-08T22:56:44Z"
     }
   },
   "5881216": {
@@ -16915,6 +16935,29 @@
     "boxed": false,
     "highlight": {
       "Durum": "❌ 'Hoffenheim - Schalke 04' playlist'te bulunamadı."
+    }
+  },
+  "5868121": {
+    "match_id": "5868121",
+    "league": "La Liga",
+    "date": "2026-11-08T20:00:00Z",
+    "home": "Atlético Madrid",
+    "away": "Barcelona",
+    "score_str": "1 - 2",
+    "goal_diff": 1,
+    "drama_raw": 65.44,
+    "drama_score": 49.11,
+    "domination_raw": 60.26,
+    "domination_score": 34.82,
+    "score": 49.1,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "S_SPORT",
+      "Başlık": "Atletico Madrid - Barcelona - Maç Özeti - LaLiga 2026/27",
+      "URL": "https://www.youtube.com/watch?v=1juwLiroKm4",
+      "Tarih": "2026-11-08T22:15:22Z"
     }
   }
 }
