@@ -17011,5 +17011,70 @@
       "URL": "https://www.youtube.com/watch?v=1juwLiroKm4",
       "Tarih": "2026-11-08T22:15:22Z"
     }
+  },
+  "5868132": {
+    "match_id": "5868132",
+    "league": "La Liga",
+    "date": "2026-11-20T20:00:00Z",
+    "home": "Athletic Club",
+    "away": "Espanyol",
+    "score_str": "0 - 1",
+    "goal_diff": 1,
+    "drama_raw": 48.14,
+    "drama_score": 36.13,
+    "domination_raw": 26.27,
+    "domination_score": 15.18,
+    "score": 36.1,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "S_SPORT",
+      "Başlık": "Athletic Bilbao - Espanyol - Maç Özeti - LaLiga 2026/27",
+      "URL": "https://www.youtube.com/watch?v=kYw2JeZzRR0",
+      "Tarih": "2026-11-20T22:50:14Z"
+    }
+  },
+  "5802999": {
+    "match_id": "5802999",
+    "league": "Ligue 1",
+    "date": "2026-11-20T19:45:00Z",
+    "home": "Troyes",
+    "away": "Le Havre",
+    "score_str": "3 - 1",
+    "goal_diff": 2,
+    "drama_raw": 67.3,
+    "drama_score": 50.51,
+    "domination_raw": 52.0,
+    "domination_score": 30.05,
+    "score": 40.3,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Troyes - Le Havre' playlist'te bulunamadı."
+    }
+  },
+  "5881226": {
+    "match_id": "5881226",
+    "league": "Bundesliga",
+    "date": "2026-11-20T19:30:00Z",
+    "home": "Bayern München",
+    "away": "1. FC Köln",
+    "score_str": "1 - 1",
+    "goal_diff": 0,
+    "drama_raw": 61.34,
+    "drama_score": 46.03,
+    "domination_raw": 45.73,
+    "domination_score": 26.42,
+    "score": 46.0,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "⚡ MUHTEMEL EŞLEŞME",
+      "Kanal": "S_SPORT",
+      "Başlık": "Bayern Münih - Köln | Bundesliga 2026/27",
+      "URL": "https://www.youtube.com/watch?v=AOaeduQX49E",
+      "Tarih": "2026-11-20T22:01:33Z"
+    }
   }
 }
