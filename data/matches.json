@@ -17537,7 +17537,11 @@
     "badge": "İdare Eder",
     "boxed": false,
     "highlight": {
-      "Durum": "❌ 'Lens - Toulouse' playlist'te bulunamadı."
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "BEIN_SPORTS_TR",
+      "Başlık": "Lens - Toulouse | 11. Hafta MAÇ ÖZETİ | Ligue 1 McDonald's - 2026/2027",
+      "URL": "https://www.youtube.com/watch?v=D4mNqFVBq20",
+      "Tarih": "2026-11-22T10:27:20Z"
     }
   },
   "5802992": {
@@ -17556,7 +17560,11 @@
     "badge": "İdare Eder",
     "boxed": false,
     "highlight": {
-      "Durum": "❌ 'Lille - Lyon' playlist'te bulunamadı."
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "BEIN_SPORTS_TR",
+      "Başlık": "Lille - Lyon | 11. Hafta MAÇ ÖZETİ | Ligue 1 McDonald's - 2026/2027",
+      "URL": "https://www.youtube.com/watch?v=1xVakoWPGR4",
+      "Tarih": "2026-11-22T10:17:14Z"
     }
   },
   "5802995": {
@@ -17575,7 +17583,11 @@
     "badge": "İdare Eder",
     "boxed": false,
     "highlight": {
-      "Durum": "❌ 'Monaco - Auxerre' playlist'te bulunamadı."
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "BEIN_SPORTS_TR",
+      "Başlık": "Monaco - Auxerre | 11. Hafta MAÇ ÖZETİ | Ligue 1 McDonald's - 2026/2027",
+      "URL": "https://www.youtube.com/watch?v=LsG7BNJgRmI",
+      "Tarih": "2026-11-22T10:24:23Z"
     }
   },
   "5802998": {
@@ -17594,7 +17606,11 @@
     "badge": "İyi Maç",
     "boxed": false,
     "highlight": {
-      "Durum": "❌ 'Strasbourg - Brest' playlist'te bulunamadı."
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "BEIN_SPORTS_TR",
+      "Başlık": "Strasbourg - Brest | 11. Hafta MAÇ ÖZETİ | Ligue 1 McDonald's - 2026/2027",
+      "URL": "https://www.youtube.com/watch?v=jKVyjJu6TyI",
+      "Tarih": "2026-11-22T10:20:22Z"
     }
   },
   "5881225": {
@@ -17713,6 +17729,48 @@
     "boxed": false,
     "highlight": {
       "Durum": "❌ 'Schalke 04 - VfB Stuttgart' playlist'te bulunamadı."
+    }
+  },
+  "5749754": {
+    "match_id": "5749754",
+    "league": "Serie A",
+    "date": "2026-11-22T11:30:00.000Z",
+    "home": "Juventus",
+    "away": "Venezia",
+    "score_str": "4 - 0",
+    "goal_diff": 4,
+    "drama_raw": 36.46,
+    "drama_score": 27.36,
+    "domination_raw": 35.19,
+    "domination_score": 20.34,
+    "score": 20.3,
+    "badge": "Uyutabilir",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "S_SPORT",
+      "Başlık": "Juventus - Venezia - Maç Özeti - Serie A 2026/27",
+      "URL": "https://www.youtube.com/watch?v=3Hrx4IKDmfw",
+      "Tarih": "2026-11-22T14:03:37Z"
+    }
+  },
+  "5904811": {
+    "match_id": "5904811",
+    "league": "Süper Lig",
+    "date": "2026-11-22T10:30:00.000Z",
+    "home": "Erzurumspor FK",
+    "away": "Göztepe",
+    "score_str": "0 - 1",
+    "goal_diff": 1,
+    "drama_raw": 57.76,
+    "drama_score": 43.35,
+    "domination_raw": 25.62,
+    "domination_score": 14.8,
+    "score": 43.3,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Erzurumspor FK - Göztepe' playlist'te bulunamadı."
     }
   }
 }
