@@ -17629,7 +17629,11 @@
     "badge": "İdare Eder",
     "boxed": false,
     "highlight": {
-      "Durum": "❌ 'Bayer Leverkusen - Paderborn' playlist'te bulunamadı."
+      "Durum": "⚡ MUHTEMEL EŞLEŞME",
+      "Kanal": "S_SPORT",
+      "Başlık": "Bayer Leverkusen - Paderborn | Bundesliga 2026/27",
+      "URL": "https://www.youtube.com/watch?v=sOhJoPXmaaY",
+      "Tarih": "2026-11-23T22:54:58Z"
     }
   },
   "5881227": {
@@ -17671,7 +17675,11 @@
     "badge": "Tatmin Edici",
     "boxed": true,
     "highlight": {
-      "Durum": "❌ 'Eintracht Frankfurt - Hoffenheim' playlist'te bulunamadı."
+      "Durum": "⚡ MUHTEMEL EŞLEŞME",
+      "Kanal": "S_SPORT",
+      "Başlık": "Eintracht Frankfurt - Hoffenheim | Bundesliga 2026/27",
+      "URL": "https://www.youtube.com/watch?v=Q9in8L7tzww",
+      "Tarih": "2026-11-23T22:57:43Z"
     }
   },
   "5881229": {
@@ -17690,7 +17698,11 @@
     "badge": "İdare Eder",
     "boxed": false,
     "highlight": {
-      "Durum": "❌ 'Elversberg - Freiburg' playlist'te bulunamadı."
+      "Durum": "⚡ MUHTEMEL EŞLEŞME",
+      "Kanal": "S_SPORT",
+      "Başlık": "Elversberg - Freiburg | Bundesliga 2026/27",
+      "URL": "https://www.youtube.com/watch?v=n_vhCCEeiLY",
+      "Tarih": "2026-11-23T22:42:39Z"
     }
   },
   "5881231": {
@@ -17709,7 +17721,11 @@
     "badge": "İdare Eder",
     "boxed": false,
     "highlight": {
-      "Durum": "❌ 'Union Berlin - RB Leipzig' playlist'te bulunamadı."
+      "Durum": "⚡ MUHTEMEL EŞLEŞME",
+      "Kanal": "S_SPORT",
+      "Başlık": "Union Berlin - Leipzig | Bundesliga 2026/27",
+      "URL": "https://www.youtube.com/watch?v=0a2YfEXROdM",
+      "Tarih": "2026-11-23T22:49:25Z"
     }
   },
   "5881230": {
@@ -17728,7 +17744,11 @@
     "badge": "İdare Eder",
     "boxed": false,
     "highlight": {
-      "Durum": "❌ 'Schalke 04 - VfB Stuttgart' playlist'te bulunamadı."
+      "Durum": "⚡ MUHTEMEL EŞLEŞME",
+      "Kanal": "S_SPORT",
+      "Başlık": "Schalke 04 - Stuttgart | Bundesliga 2026/27",
+      "URL": "https://www.youtube.com/watch?v=R21ApUsNDUc",
+      "Tarih": "2026-11-23T22:51:53Z"
     }
   },
   "5749754": {
@@ -18118,7 +18138,11 @@
     "badge": "Tatmin Edici",
     "boxed": true,
     "highlight": {
-      "Durum": "❌ 'Marseille - Le Mans' playlist'te bulunamadı."
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "BEIN_SPORTS_TR",
+      "Başlık": "Marsilya - Le Mans | 11. Hafta MAÇ ÖZETİ | Ligue 1 McDonald's - 2026/2027",
+      "URL": "https://www.youtube.com/watch?v=rrq3HBWMSqI",
+      "Tarih": "2026-11-23T09:23:03Z"
     }
   },
   "5881224": {
@@ -18165,6 +18189,86 @@
       "Başlık": "Werder Bremen - Hamburg | Bundesliga 2026/27",
       "URL": "https://www.youtube.com/watch?v=obakEB2-wbw",
       "Tarih": "2026-11-22T20:53:10Z"
+    }
+  },
+  "5795517": {
+    "match_id": "5795517",
+    "league": "Premier Lig",
+    "date": "2026-11-23T20:00:00.000Z",
+    "home": "Brentford",
+    "away": "Everton",
+    "score_str": "4 - 0",
+    "goal_diff": 4,
+    "drama_raw": 42.23,
+    "drama_score": 31.69,
+    "domination_raw": 64.62,
+    "domination_score": 37.34,
+    "score": 37.3,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Brentford - Everton' playlist'te bulunamadı."
+    }
+  },
+  "5868135": {
+    "match_id": "5868135",
+    "league": "La Liga",
+    "date": "2026-11-23T20:00:00.000Z",
+    "home": "Levante",
+    "away": "Elche",
+    "score_str": "1 - 1",
+    "goal_diff": 0,
+    "drama_raw": 58.09,
+    "drama_score": 43.6,
+    "domination_raw": 12.89,
+    "domination_score": 7.45,
+    "score": 43.6,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Levante - Elche' playlist'te bulunamadı."
+    }
+  },
+  "5749756": {
+    "match_id": "5749756",
+    "league": "Serie A",
+    "date": "2026-11-23T19:45:00.000Z",
+    "home": "Monza",
+    "away": "Fiorentina",
+    "score_str": "3 - 0",
+    "goal_diff": 3,
+    "drama_raw": 40.06,
+    "drama_score": 30.06,
+    "domination_raw": 46.34,
+    "domination_score": 26.78,
+    "score": 26.8,
+    "badge": "İdare Eder",
+    "boxed": false,
+    "highlight": {
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "S_SPORT",
+      "Başlık": "Monza - Fiorentina - Maç Özeti - Serie A 2026/27",
+      "URL": "https://www.youtube.com/watch?v=3zD6tUJdrWE",
+      "Tarih": "2026-11-23T22:37:29Z"
+    }
+  },
+  "5904805": {
+    "match_id": "5904805",
+    "league": "Süper Lig",
+    "date": "2026-11-23T17:00:00.000Z",
+    "home": "Başakşehir",
+    "away": "Çorum FK",
+    "score_str": "4 - 2",
+    "goal_diff": 2,
+    "drama_raw": 85.95,
+    "drama_score": 64.5,
+    "domination_raw": 82.26,
+    "domination_score": 47.54,
+    "score": 56.0,
+    "badge": "İyi Maç",
+    "boxed": false,
+    "highlight": {
+      "Durum": "❌ 'Başakşehir - Çorum FK' playlist'te bulunamadı."
     }
   }
 }
