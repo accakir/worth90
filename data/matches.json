@@ -18304,7 +18304,11 @@
     "badge": "İyi Maç",
     "boxed": false,
     "highlight": {
-      "Durum": "❌ 'Başakşehir - Çorum FK' playlist'te bulunamadı."
+      "Durum": "✅ KESİN MAÇ ÖZETİ",
+      "Kanal": "BEIN_SPORTS_TR",
+      "Başlık": "Başakşehir - Çorum FK | 12. HAFTA MAÇ ÖZETİ | Trendyol Süper Lig - 2026/27",
+      "URL": "https://www.youtube.com/watch?v=aqf0sg52WXY",
+      "Tarih": "2026-11-24T15:53:34Z"
     }
   }
 }
